@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes a used cars dataset to understand the main factors that influence listing prices and to build predictive models for estimating used car prices from listing features.
 
-The dataset used in this project is `vehicles.csv`, which contains 28,843 rows and 26 columns. This provides a strong foundation for dataset understanding, data cleaning, exploratory data analysis (EDA), feature preparation, model building, and evaluation.
+The dataset used in this project is `vehicles.csv`, which contains 15,000 sampled rows and 26 columns. This provides a strong foundation for dataset understanding, data cleaning, exploratory data analysis (EDA), feature preparation, model building, and evaluation.
 
 ## Business Problem
 Used car buyers, sellers, and dealerships need realistic pricing guidance. Listing prices are influenced by many factors such as vehicle age, mileage, manufacturer, fuel type, transmission, condition, and location. Without a data-driven approach, pricing decisions can be inconsistent and inefficient.
