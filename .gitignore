@@ -21,7 +21,7 @@ env/
 
 # Data files
 data/raw/*.csv
-!data/raw/vehicles.csv
+!data/raw/vehicles_raw.csv
 data/raw/*.xlsx
 data/raw/*.parquet
 data/raw/*.json
