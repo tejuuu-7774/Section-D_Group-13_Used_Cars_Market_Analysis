@@ -14,9 +14,11 @@ The primary goal of this capstone is to predict used car price from listing feat
 
 ## Dataset Used
 - File name: `vehicles.csv`
-- Rows: 426,880
-- Columns: 26
+- Original dataset size: 426,880 rows × 26 columns  
+- Sampled dataset used for analysis: 15,000 rows × 26 columns  
 - Target variable: `price`
+
+Due to the large size of the dataset, a representative sample of 15,000 rows was used for efficient analysis and model experimentation.
 
 ## Dataset Columns
 - `id`
@@ -47,30 +49,31 @@ The primary goal of this capstone is to predict used car price from listing feat
 - `posting_date`
 
 ## Initial Data Quality Findings
-- The dataset contains substantial missing values in several columns.
+- The sampled dataset (15,000 rows) contains missing values across several columns.
 - `county` is completely missing and is a strong candidate for removal during cleaning.
 - `size`, `cylinders`, `condition`, `VIN`, `drive`, and `paint_color` have large amounts of missing data.
 - `manufacturer`, `model`, `fuel`, `odometer`, `lat`, and `long` also contain null values that will need cleaning decisions.
-- No duplicate rows were identified in the initial within-chunk scan.
+- No duplicate rows were identified in the sampled dataset.
 
-## Highest Null Count Columns
+## Highest Null Count Columns (Sampled Dataset)
 | Column | Null Count |
 |---|---:|
-| county | 426,880 |
-| size | 306,361 |
-| cylinders | 177,678 |
-| condition | 174,104 |
-| VIN | 161,042 |
-| drive | 130,567 |
-| paint_color | 130,203 |
-| type | 92,858 |
-| manufacturer | 17,646 |
-| title_status | 8,242 |
-| lat | 6,549 |
-| long | 6,549 |
-| model | 5,277 |
-| odometer | 4,400 |
-| fuel | 3,013 |
+| county | 15000 |
+| size | 11074 |
+| cylinders | 6215 |
+| condition | 6204 |
+| VIN | 5599 |
+| drive | 4425 |
+| paint_color | 4182 |
+| type | 3317 |
+| manufacturer | 660 |
+| title_status | 263 |
+| lat | 55 |
+| long | 55 |
+| model | 215 |
+| odometer | 174 |
+| fuel | 98 |
+Note: All null counts are based on the sampled dataset (15,000 rows) used for analysis.
 
 ## Initial Data Type Observations
 - `price` is stored as an integer field and is the natural target variable.
@@ -87,3 +90,5 @@ The primary goal of this capstone is to predict used car price from listing feat
 
 ## Phase 1 Summary
 Phase 1 established the project objective, identified the target variable, documented the dataset structure, and reviewed the main data quality issues. The dataset is large enough for meaningful analysis, and the missing-value pattern provides a clear basis for the data cleaning stage.
+
+The original dataset is large and rich, and the sampled subset is sufficient for meaningful analysis and modeling.
