@@ -309,7 +309,6 @@ flagstaff / sedona,12000.0,2002,jeep,wrangler,excellent,6,gas,141000.0,clean,man
 bakersfield,28990.0,2018,subaru,brz limited coupe 2d,good,UNKNOWN,gas,6334.0,clean,other,rwd,coupe,blue,ca,35.38,-119.02,2021-05-03 21:00:58+00:00,8,2021,5
 jonesboro,19590.0,2017,kia,soul ! wagon 4d,good,UNKNOWN,other,13688.0,clean,other,fwd,wagon,red,ar,35.82,-90.68,2021-04-19 16:10:49+00:00,9,2021,4
 chico,14777.0,2003,lexus,sc,UNKNOWN,UNKNOWN,gas,135738.0,clean,automatic,fwd,convertible,white,ca,38.605011,-121.401917,2021-04-24 17:53:50+00:00,23,2021,4
-prescott,715.0,2019,toyota,rav4,excellent,4,gas,16511.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,34.605818,-112.451775,2021-04-20 17:00:12+00:00,7,2021,4
 southeast alaska,14499.0,2017,kia,soul ev,UNKNOWN,UNKNOWN,electric,32590.0,clean,other,fwd,wagon,black,ak,61.2116,-149.8761,2021-04-11 01:04:20+00:00,9,2021,4
 fresno / madera,13995.0,2006,ford,f-250 super duty,excellent,UNKNOWN,gas,109178.0,clean,automatic,rwd,pickup,white,ca,37.738239,-120.939159,2021-05-03 19:46:04+00:00,20,2021,5
 phoenix,5500.0,2005,toyota,highlander awd,UNKNOWN,6,gas,203000.0,clean,automatic,4wd,UNKNOWN,red,az,33.5623,-112.0559,2021-05-03 20:22:59+00:00,21,2021,5
@@ -362,7 +361,6 @@ little rock,7995.0,2012,ford,taurus limited,UNKNOWN,UNKNOWN,gas,411.0,clean,auto
 phoenix,25590.0,2020,honda,civic sport hatchback 4d,good,UNKNOWN,gas,3678.0,clean,other,fwd,hatchback,white,az,33.44,-111.8,2021-05-03 19:11:19+00:00,6,2021,5
 flagstaff / sedona,39590.0,2020,toyota,4runner sr5 sport utility,good,6,gas,3110.0,clean,other,4wd,SUV,white,az,33.7865,-84.4454,2021-04-17 00:11:39+00:00,6,2021,4
 huntsville / decatur,8700.0,2014,ford,focus se flex fuel,like new,4,gas,44000.0,clean,automatic,fwd,sedan,white,al,34.7389,-86.6249,2021-04-29 19:25:35+00:00,12,2021,4
-phoenix,596.0,2018,mercedes-benz,e-class 300,excellent,4,gas,35930.0,clean,automatic,UNKNOWN,sedan,UNKNOWN,az,33.638441,-112.266352,2021-05-03 14:12:01+00:00,8,2021,5
 chico,5488.0,2006,bmw,325i,UNKNOWN,6,gas,129882.0,clean,automatic,rwd,sedan,blue,ca,38.630483,-121.399397,2021-04-08 22:29:24+00:00,20,2021,4
 bakersfield,28950.0,2018,subaru,outback,like new,4,gas,34500.0,clean,automatic,4wd,SUV,white,ca,35.607499,-117.685008,2021-04-27 17:10:34+00:00,8,2021,4
 phoenix,3500.0,2005,buick,rendezvous,UNKNOWN,6,gas,160.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,33.6819,-112.0996,2021-05-02 20:17:21+00:00,21,2021,5
@@ -385,7 +383,6 @@ fresno / madera,8999.0,2015,chevrolet,sonic,good,4,gas,85739.0,clean,automatic,U
 fresno / madera,23990.0,2018,gmc,savana passenger,excellent,UNKNOWN,gas,44473.0,clean,automatic,rwd,UNKNOWN,white,ca,36.533226,-119.576488,2021-04-20 15:16:02+00:00,8,2021,4
 anchorage / mat-su,10495.0,2005,ford,f150,UNKNOWN,UNKNOWN,gas,121000.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,ak,61.1901,-149.9361,2021-04-30 03:16:29+00:00,21,2021,4
 little rock,33590.0,2020,acura,rdx sport utility 4d,good,UNKNOWN,gas,13623.0,clean,other,fwd,SUV,UNKNOWN,ar,34.72,-92.35,2021-04-12 09:10:53+00:00,6,2021,4
-fresno / madera,1000.0,2016,ford,fusion sesedan,excellent,4,gas,106011.0,clean,automatic,UNKNOWN,sedan,UNKNOWN,ca,36.750095,-119.758732,2021-05-03 16:37:23+00:00,10,2021,5
 kenai peninsula,16988.0,2014,ford,taurus,UNKNOWN,6,gas,53202.0,clean,other,4wd,sedan,grey,ak,61.1381,-149.86727,2021-04-17 17:05:05+00:00,12,2021,4
 little rock,16937.0,2011,ford,forde450,UNKNOWN,UNKNOWN,gas,27000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,33.5242,-84.359,2021-04-24 19:46:50+00:00,15,2021,4
 gold country,10500.0,2001,gmc,sierra 2500 slt 4x4,good,8,diesel,277000.0,clean,automatic,4wd,truck,green,ca,37.9957,-120.3368,2021-04-27 01:57:29+00:00,25,2021,4
@@ -488,7 +485,6 @@ fresno / madera,35990.0,2015,ford,e-450,excellent,UNKNOWN,gas,27361.0,clean,auto
 little rock,3950.0,2005,honda,UNKNOWN,UNKNOWN,UNKNOWN,gas,342592.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,35.2295,-92.3578,2021-04-28 16:10:37+00:00,21,2021,4
 fresno / madera,2500.0,2017,bmw,3 series,UNKNOWN,UNKNOWN,gas,22333.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,33.7249,-117.909,2021-05-04 15:12:40+00:00,9,2021,5
 prescott,35995.0,2013,ford,f-150 fx4 lifted crew ecoboost 3.5liter,UNKNOWN,6,gas,65275.0,clean,automatic,4wd,pickup,silver,az,33.396353,-111.954863,2021-04-08 03:33:57+00:00,13,2021,4
-fayetteville,600.0,2013,ford,SUPER EASY FINANCE,excellent,4,diesel,111111.0,clean,automatic,fwd,SUV,grey,ar,36.17528,-94.171629,2021-04-23 16:39:34+00:00,13,2021,4
 flagstaff / sedona,14995.0,2012,chevrolet,tahoe,UNKNOWN,8,other,110587.0,clean,automatic,4wd,SUV,white,az,33.4665,-111.9984,2021-04-18 00:03:33+00:00,14,2021,4
 chico,12990.0,2014,ford,Scion xD Hatchback 4D,good,UNKNOWN,other,81350.0,clean,other,fwd,hatchback,white,ca,39.71,-121.81,2021-04-11 13:51:13+00:00,12,2021,4
 bakersfield,44995.0,2015,chevrolet,silverado 2500 ltz crew cab 6.6 duramax,UNKNOWN,8,diesel,140041.0,clean,automatic,4wd,pickup,brown,ca,33.3917,-111.9249,2021-04-16 23:30:57+00:00,11,2021,4
@@ -668,7 +664,6 @@ anchorage / mat-su,26194.0,2019,hyundai,kona,UNKNOWN,4,gas,12093.0,clean,other,4
 bakersfield,32000.0,1988,ford,1988 M931A2 5,UNKNOWN,UNKNOWN,diesel,24160.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,33.5429,-117.7813,2021-04-14 08:50:18+00:00,38,2021,4
 fresno / madera,12995.0,2017,hyundai,elantra,UNKNOWN,UNKNOWN,gas,107000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,37.6409,-120.9749,2021-04-20 20:34:55+00:00,9,2021,4
 fresno / madera,27990.0,2014,toyota,tacoma access cab pickup,good,UNKNOWN,other,17805.0,clean,other,UNKNOWN,pickup,red,ca,33.7865,-84.4454,2021-04-24 11:20:48+00:00,12,2021,4
-prescott,756.0,2020,subaru,crosstrek,excellent,4,gas,6105.0,clean,automatic,UNKNOWN,SUV,red,az,34.605818,-112.451775,2021-05-04 17:00:10+00:00,6,2021,5
 fresno / madera,19900.0,2020,nissan,rogue sv 2.5l awd,like new,4,gas,4100.0,clean,automatic,4wd,SUV,grey,ca,36.9233,-119.58,2021-04-29 22:46:12+00:00,6,2021,4
 fresno / madera,11000.0,2001,ford,mustang svt cobra,excellent,UNKNOWN,gas,69000.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.7918,-119.8801,2021-04-25 07:38:02+00:00,25,2021,4
 chico,8995.0,2014,ford,fusion hybrid se hybrid,excellent,4,hybrid,102910.0,clean,automatic,UNKNOWN,other,UNKNOWN,ca,38.611373,-121.430328,2021-04-07 19:01:36+00:00,12,2021,4
@@ -681,7 +676,6 @@ birmingham,22995.0,2012,ford,f-350,UNKNOWN,UNKNOWN,diesel,210000.0,clean,automat
 chico,11995.0,2000,lexus,lx,UNKNOWN,UNKNOWN,gas,230155.0,clean,automatic,4wd,wagon,white,ca,38.806983,-121.217308,2021-04-09 16:46:53+00:00,26,2021,4
 huntsville / decatur,27990.0,2014,toyota,tacoma access cab pickup,good,UNKNOWN,other,17805.0,clean,other,UNKNOWN,pickup,red,al,34.57,-86.98,2021-05-02 17:41:35+00:00,12,2021,5
 phoenix,31990.0,2019,lexus,ux 250h sport utility 4d,good,UNKNOWN,gas,14232.0,clean,other,UNKNOWN,hatchback,silver,az,33.51,-112.36,2021-05-02 20:11:19+00:00,7,2021,5
-flagstaff / sedona,806.0,2019,honda,cr v,excellent,4,gas,28372.0,clean,automatic,UNKNOWN,SUV,blue,az,34.605818,-112.451775,2021-04-29 17:29:32+00:00,7,2021,4
 phoenix,12991.0,2017,toyota,yaris ia,good,4,gas,45400.0,clean,automatic,fwd,sedan,UNKNOWN,az,33.416084,-111.791486,2021-05-03 22:31:01+00:00,9,2021,5
 tucson,24590.0,2019,chevrolet,camaro lt convertible,good,UNKNOWN,other,41148.0,clean,other,rwd,other,silver,az,32.21,-110.96,2021-04-25 16:21:06+00:00,7,2021,4
 birmingham,3500.0,2006,ford,freestyle,UNKNOWN,6,gas,214775.0,clean,automatic,fwd,SUV,blue,al,33.455361,-86.962474,2021-04-24 16:11:44+00:00,20,2021,4
@@ -788,7 +782,6 @@ fresno / madera,19999.0,2013,mercedes-benz,cls 550,UNKNOWN,8,gas,92000.0,clean,a
 anchorage / mat-su,15995.0,2014,kia,optima,UNKNOWN,4,gas,86890.0,clean,automatic,fwd,sedan,red,ak,61.56939,-149.35645,2021-04-24 16:04:01+00:00,12,2021,4
 fresno / madera,24590.0,2017,chevrolet,silverado 1500 regular,good,6,gas,40784.0,clean,other,UNKNOWN,pickup,white,ca,33.779214,-84.411811,2021-04-30 14:11:26+00:00,9,2021,4
 flagstaff / sedona,21029.0,2021,chevrolet,trax ls,good,3,gas,10.0,clean,automatic,UNKNOWN,other,silver,az,35.189958,-111.666438,2021-04-16 15:20:47+00:00,5,2021,4
-tucson,999.0,2010,jeep,liberty,good,UNKNOWN,gas,110000.0,clean,automatic,4wd,SUV,black,az,32.2468,-110.9222,2021-04-24 22:34:14+00:00,16,2021,4
 anchorage / mat-su,39995.0,2016,toyota,4runner limited,like new,6,gas,77052.0,clean,automatic,4wd,SUV,white,ak,61.166252,-149.857916,2021-04-25 17:07:18+00:00,10,2021,4
 tucson,7000.0,2009,kia,borrego lx,excellent,6,gas,127068.0,clean,automatic,4wd,SUV,UNKNOWN,az,32.300172,-110.979304,2021-05-02 19:46:18+00:00,17,2021,5
 chico,25000.0,1973,chevrolet,camaro,excellent,8,gas,100.0,clean,automatic,rwd,coupe,blue,ca,39.5353,-122.2597,2021-04-23 01:53:37+00:00,53,2021,4
@@ -937,7 +930,6 @@ little rock,9500.0,2007,cadillac,dts,like new,4,gas,114101.0,clean,automatic,fwd
 anchorage / mat-su,24995.0,2013,ford,f-250,UNKNOWN,UNKNOWN,other,101462.0,clean,automatic,4wd,pickup,red,ak,61.16167,-149.86312,2021-04-15 22:31:59+00:00,13,2021,4
 huntsville / decatur,24900.0,2013,ford,f-150,UNKNOWN,6,gas,159134.0,clean,automatic,rwd,UNKNOWN,white,al,35.516467,-86.441919,2021-04-09 20:18:26+00:00,13,2021,4
 fresno / madera,9950.0,2017,hyundai,elantra,excellent,4,gas,98588.0,clean,automatic,fwd,sedan,silver,ca,36.905852,-119.794299,2021-04-19 17:30:13+00:00,9,2021,4
-little rock,800.0,2005,dodge,dakota,salvage,UNKNOWN,gas,189000.0,missing,automatic,4wd,UNKNOWN,white,ar,34.449019,-92.359571,2021-04-28 16:26:41+00:00,21,2021,4
 mohave county,9900.0,1998,chevrolet,camaro,excellent,UNKNOWN,gas,134000.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,az,35.1715,-114.5386,2021-04-14 21:57:40+00:00,28,2021,4
 little rock,19590.0,2018,honda,civic lx coupe 2d,good,UNKNOWN,gas,35931.0,clean,other,fwd,coupe,white,ar,34.72,-92.35,2021-04-24 10:43:18+00:00,8,2021,4
 fayetteville,5900.0,2012,chevrolet,impala,good,6,gas,114000.0,clean,automatic,fwd,sedan,white,ar,37.0969,-94.5051,2021-04-16 15:22:17+00:00,14,2021,4
@@ -963,7 +955,6 @@ tucson,8995.0,2009,bmw,x3 xdrive30i,UNKNOWN,6,gas,137740.0,clean,automatic,4wd,S
 chico,8999.0,2013,kia,soul ! wagon 4d,excellent,4,gas,78034.0,clean,automatic,UNKNOWN,wagon,UNKNOWN,ca,38.624043,-121.401842,2021-04-18 18:04:04+00:00,13,2021,4
 bakersfield,35990.0,2020,bmw,3 series 330i sedan 4d,good,UNKNOWN,gas,10685.0,clean,other,rwd,sedan,white,ca,35.38,-119.02,2021-04-23 14:20:49+00:00,6,2021,4
 tucson,2000.0,2002,saturn,sc2,good,UNKNOWN,gas,139000.0,clean,automatic,UNKNOWN,coupe,UNKNOWN,az,32.3472,-111.0419,2021-04-28 21:21:05+00:00,24,2021,4
-birmingham,1000.0,2021,ford,SPECIAL FINANCE PROGRAM 2021,fair,UNKNOWN,other,1400.0,clean,other,UNKNOWN,bus,green,al,32.9229,-86.545,2021-04-14 13:30:28+00:00,5,2021,4
 fresno / madera,15950.0,2018,chrysler,pacifica,excellent,6,gas,99090.0,clean,automatic,fwd,mini-van,UNKNOWN,ca,36.905852,-119.794299,2021-04-30 21:20:19+00:00,8,2021,4
 chico,20995.0,2018,ford,f-150,UNKNOWN,UNKNOWN,gas,90722.0,clean,automatic,fwd,pickup,white,ca,38.22774,-122.6194,2021-04-16 18:28:43+00:00,8,2021,4
 prescott,7100.0,2007,toyota,camry,UNKNOWN,UNKNOWN,gas,150000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,34.337738,-112.117126,2021-05-04 17:13:26+00:00,19,2021,5
@@ -1075,7 +1066,6 @@ anchorage / mat-su,16900.0,2017,dodge,journey,UNKNOWN,4,gas,51207.0,clean,automa
 kenai peninsula,44750.0,2019,ford,f-150,UNKNOWN,UNKNOWN,gas,12154.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,ak,60.55,-151.2,2021-04-16 15:30:22+00:00,7,2021,4
 bakersfield,47995.0,2015,mercedes-benz,sprinter 2500,UNKNOWN,UNKNOWN,other,22525.0,clean,automatic,rwd,van,white,ca,34.070311,-117.446303,2021-04-27 22:03:24+00:00,11,2021,4
 bakersfield,24990.0,2013,gmc,sierra 1500 extended cab sle,good,8,gas,70559.0,clean,other,4wd,pickup,black,ca,35.38,-119.02,2021-04-24 12:51:22+00:00,13,2021,4
-chico,563.0,2017,ram,2500,UNKNOWN,6,diesel,32619.0,clean,automatic,4wd,truck,UNKNOWN,ca,38.01787,-121.268904,2021-04-20 15:23:04+00:00,9,2021,4
 phoenix,12800.0,2004,toyota,land cruiser,good,8,gas,200005.0,clean,automatic,4wd,SUV,grey,az,33.690638,-111.884766,2021-05-04 14:36:54+00:00,22,2021,5
 birmingham,29990.0,2019,mazda,mx-5 miata grand touring,good,UNKNOWN,gas,5247.0,clean,other,rwd,other,UNKNOWN,al,33.52,-86.79,2021-04-28 13:41:06+00:00,7,2021,4
 tucson,12799.0,2012,mercedes-benz,c-class,UNKNOWN,UNKNOWN,gas,75700.0,clean,automatic,UNKNOWN,other,black,az,32.25166,-110.960537,2021-04-28 21:29:31+00:00,14,2021,4
@@ -1113,7 +1103,6 @@ phoenix,27000.0,2012,chevrolet,silverado 2500hd,good,8,diesel,199000.0,clean,aut
 anchorage / mat-su,26999.0,2008,ford,Hummer H2 SUT Luxury,good,8,gas,117981.0,clean,automatic,4wd,SUV,blue,ak,61.166353,-149.847206,2021-04-29 21:50:52+00:00,18,2021,4
 fayetteville,1800.0,1942,mercury,sedan,fair,8,gas,1.0,clean,manual,rwd,sedan,UNKNOWN,ar,36.1716,-94.0428,2021-05-03 13:06:12+00:00,84,2021,5
 phoenix,34990.0,2019,dodge,challenger r/t coupe 2d,good,8,gas,7277.0,clean,other,rwd,coupe,red,az,33.5,-112.05,2021-05-02 14:01:20+00:00,7,2021,5
-tucson,800.0,1991,honda,civic lx,fair,4,gas,197160.0,clean,automatic,fwd,coupe,blue,az,32.1336,-111.0973,2021-05-01 22:07:16+00:00,35,2021,5
 gold country,20000.0,1951,chevrolet,coe,good,8,gas,10000000.0,clean,automatic,rwd,truck,custom,ca,37.956759,-120.311279,2021-04-15 21:11:51+00:00,75,2021,4
 tucson,9900.0,2013,volkswagen,beetle,UNKNOWN,UNKNOWN,other,36347.0,clean,automatic,fwd,hatchback,UNKNOWN,az,32.24951,-110.972417,2021-05-02 02:45:16+00:00,13,2021,5
 gadsden-anniston,15590.0,2013,acura,ilx 2.0l sedan 4d,good,UNKNOWN,other,69626.0,clean,other,fwd,sedan,UNKNOWN,al,34.01,-86.01,2021-04-22 15:21:13+00:00,13,2021,4
@@ -1315,7 +1304,6 @@ fresno / madera,7995.0,2006,mercedes-benz,benz s500,excellent,8,gas,142922.0,cle
 birmingham,3500.0,2009,hyundai,accent,UNKNOWN,4,gas,111387.0,rebuilt,automatic,fwd,sedan,white,al,33.455361,-86.962474,2021-04-05 22:40:28+00:00,17,2021,4
 bakersfield,3700.0,2006,toyota,matrix,good,UNKNOWN,gas,163671.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,35.3384,-119.0627,2021-05-02 15:41:43+00:00,20,2021,5
 birmingham,35990.0,2014,ford,500,UNKNOWN,8,gas,60260.0,clean,automatic,rwd,pickup,black,al,33.669601,-86.817617,2021-04-16 15:11:42+00:00,12,2021,4
-fresno / madera,750.0,1978,ford,1978 LincolnTown Cars,fair,8,gas,100000.0,missing,automatic,fwd,UNKNOWN,white,ca,36.233572,-121.377174,2021-05-01 17:50:35+00:00,48,2021,5
 birmingham,23997.0,2017,infiniti,qx70,excellent,6,gas,84416.0,clean,automatic,rwd,SUV,UNKNOWN,al,35.839799,-86.386926,2021-04-23 14:15:39+00:00,9,2021,4
 tucson,5499.0,2010,kia,forte,UNKNOWN,4,gas,135125.0,clean,automatic,fwd,sedan,red,az,32.2127,-110.8829,2021-04-30 15:06:14+00:00,16,2021,4
 anchorage / mat-su,24995.0,2019,toyota,camry,UNKNOWN,4,gas,16181.0,clean,automatic,fwd,sedan,white,ak,61.56939,-149.35645,2021-04-09 03:01:54+00:00,7,2021,4
@@ -1337,7 +1325,6 @@ phoenix,7500.0,2005,mercedes-benz,benz,like new,6,gas,110000.0,clean,automatic,r
 gadsden-anniston,23990.0,2019,acura,ilx premium pkg sedan 4d,good,UNKNOWN,gas,7281.0,clean,other,fwd,sedan,black,al,34.01,-86.01,2021-04-06 16:21:35+00:00,7,2021,4
 bakersfield,8997.0,2011,toyota,rav4,like new,4,gas,164000.0,clean,automatic,UNKNOWN,SUV,grey,ca,33.788216,-117.833248,2021-04-24 23:13:26+00:00,15,2021,4
 fresno / madera,51998.0,2017,mercedes-benz,e-class,excellent,UNKNOWN,gas,75588.0,clean,automatic,4wd,sedan,UNKNOWN,ca,36.837679,-119.809638,2021-04-22 21:47:27+00:00,9,2021,4
-flagstaff / sedona,1000.0,2015,nissan,altima,salvage,6,gas,45000.0,missing,automatic,fwd,sedan,red,az,36.1296,-111.2397,2021-05-04 00:04:06+00:00,11,2021,5
 chico,13995.0,2011,chevrolet,tahoe,excellent,8,gas,203747.0,clean,automatic,4wd,SUV,UNKNOWN,ca,38.611926,-121.423565,2021-04-09 03:15:51+00:00,15,2021,4
 jonesboro,17500.0,1999,ford,f-250,excellent,8,diesel,104578.0,clean,manual,rwd,UNKNOWN,white,ar,36.744392,-91.925869,2021-04-30 02:39:41+00:00,27,2021,4
 little rock,8990.0,2014,ford,escape,excellent,4,gas,87715.0,rebuilt,automatic,4wd,SUV,black,ar,34.816875,-92.329102,2021-05-03 05:50:01+00:00,12,2021,5
@@ -1348,7 +1335,6 @@ tucson,30999.0,2014,rover,spo se,excellent,6,gas,91324.0,clean,automatic,4wd,SUV
 flagstaff / sedona,26990.0,2014,lexus,ls 460 sedan 4d,good,UNKNOWN,other,96454.0,clean,automatic,rwd,sedan,red,az,33.7865,-84.4454,2021-04-06 11:20:36+00:00,12,2021,4
 yuma,2250.0,1997,toyota,camry,good,6,gas,210000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.6566,-114.4042,2021-05-03 22:40:23+00:00,29,2021,5
 tucson,24995.0,2015,chevrolet,silverado 2500hd,excellent,8,gas,116227.0,clean,automatic,rwd,pickup,white,az,32.207754,-110.890427,2021-04-22 19:31:26+00:00,11,2021,4
-fayetteville,600.0,2013,ford,SUPER EASY FINANCE,excellent,4,diesel,111111.0,clean,automatic,fwd,SUV,grey,ar,36.17528,-94.171629,2021-04-28 14:34:09+00:00,13,2021,4
 anchorage / mat-su,17995.0,2011,mercedes-benz,e-class,UNKNOWN,UNKNOWN,gas,77778.0,clean,automatic,UNKNOWN,sedan,white,ak,61.16167,-149.86312,2021-04-21 20:50:57+00:00,15,2021,4
 little rock,34800.0,2002,ram,3500 laramie cummins,excellent,UNKNOWN,diesel,85216.0,clean,manual,4wd,UNKNOWN,UNKNOWN,ar,38.5128,-90.6306,2021-04-26 20:23:46+00:00,24,2021,4
 bakersfield,31995.0,2011,toyota,tundra,UNKNOWN,UNKNOWN,gas,90327.0,clean,automatic,4wd,pickup,white,ca,38.22774,-122.6194,2021-04-08 21:50:39+00:00,15,2021,4
@@ -1356,7 +1342,6 @@ fresno / madera,58990.0,2019,chevrolet,silverado 6500hd,excellent,UNKNOWN,diesel
 fresno / madera,7999.0,2000,bmw,z3,excellent,UNKNOWN,gas,95140.0,clean,automatic,rwd,convertible,silver,ca,37.803997,-121.216343,2021-04-18 21:39:26+00:00,26,2021,4
 fairbanks,14000.0,2014,toyota,venza le,good,4,gas,103589.0,lien,automatic,4wd,UNKNOWN,black,ak,64.8378,-147.7164,2021-05-01 20:19:32+00:00,12,2021,5
 phoenix,5500.0,2006,buick,lucerne cxl,like new,6,gas,91342.0,clean,automatic,fwd,sedan,grey,az,33.4958,-111.9883,2021-05-02 19:59:52+00:00,20,2021,5
-fayetteville,600.0,2013,ford,SUPER EASY FINANCE,excellent,4,diesel,111111.0,clean,automatic,fwd,SUV,grey,ar,36.17528,-94.171629,2021-04-27 15:16:09+00:00,13,2021,4
 fresno / madera,3500.0,2002,toyota,avalon,excellent,6,gas,205059.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.743249,-119.788018,2021-05-03 00:30:02+00:00,24,2021,5
 yuma,42995.0,2016,ford,f-150 xlt supercrew ecoboost 3.5l premium,UNKNOWN,6,gas,65676.0,clean,automatic,4wd,pickup,red,az,33.396353,-111.954863,2021-05-04 04:07:23+00:00,10,2021,5
 flagstaff / sedona,21029.0,2021,chevrolet,trax ls,good,3,gas,10.0,clean,automatic,UNKNOWN,other,silver,az,35.189958,-111.666438,2021-04-28 20:10:25+00:00,5,2021,4
@@ -1419,7 +1404,6 @@ tucson,20900.0,2015,dodge,challenger sxt,UNKNOWN,6,gas,67349.0,clean,automatic,r
 fresno / madera,26990.0,2013,chevrolet,silverado 3500hd,excellent,UNKNOWN,gas,57538.0,clean,automatic,UNKNOWN,pickup,white,ca,36.533226,-119.576488,2021-05-03 20:45:26+00:00,13,2021,5
 phoenix,24990.0,2021,kia,k5 lxs sedan 4d,good,UNKNOWN,other,8527.0,clean,other,fwd,sedan,silver,az,33.44,-112.08,2021-05-04 18:01:12+00:00,5,2021,5
 phoenix,10900.0,2012,ram,1500,UNKNOWN,8,gas,165000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.674212,-112.031364,2021-05-04 17:06:12+00:00,14,2021,5
-fairbanks,650.0,1986,honda,accord ex,good,UNKNOWN,gas,199581.0,clean,manual,UNKNOWN,UNKNOWN,red,ak,64.878089,-148.214529,2021-04-24 05:17:59+00:00,40,2021,4
 birmingham,12995.0,2008,ford,f150 xl,UNKNOWN,UNKNOWN,gas,93146.0,clean,automatic,UNKNOWN,UNKNOWN,green,al,34.9506,-85.2432,2021-04-19 16:51:47+00:00,18,2021,4
 anchorage / mat-su,14450.0,2011,dodge,durango citadel,excellent,8,gas,166000.0,clean,automatic,4wd,SUV,white,ak,61.222404,-149.962864,2021-05-01 20:26:01+00:00,15,2021,5
 montgomery,38990.0,2019,toyota,tundra crewmax sr5 pickup,good,8,gas,15520.0,clean,other,UNKNOWN,pickup,silver,al,32.35,-86.28,2021-04-28 14:00:58+00:00,7,2021,4
@@ -1479,7 +1463,6 @@ phoenix,20990.0,2019,subaru,legacy 2.5i premium sedan,good,UNKNOWN,gas,18975.0,c
 birmingham,6800.0,2005,ford,blue bird bus,excellent,6,diesel,180000.0,clean,automatic,rwd,bus,yellow,al,33.2473,-84.835,2021-04-30 03:29:32+00:00,21,2021,4
 phoenix,15999.0,2006,dodge,grand caravan seextended,excellent,6,gas,97643.0,clean,automatic,UNKNOWN,van,UNKNOWN,az,33.422577,-112.053651,2021-05-02 14:22:09+00:00,20,2021,5
 anchorage / mat-su,21194.0,2017,mini,cooper clubman,UNKNOWN,4,gas,45082.0,clean,manual,4wd,sedan,silver,ak,61.176984,-149.86941,2021-04-25 00:30:53+00:00,9,2021,4
-chico,1000.0,2003,honda,civic hybrid,fair,4,gas,105000.0,clean,automatic,fwd,sedan,silver,ca,39.7224,-121.8113,2021-04-07 18:10:07+00:00,23,2021,4
 dothan,40990.0,2017,lincoln,navigator l select sport,good,UNKNOWN,other,31843.0,clean,automatic,4wd,SUV,black,al,31.23,-85.4,2021-04-14 13:01:06+00:00,9,2021,4
 fairbanks,11499.0,2007,nissan,pathfinder,UNKNOWN,6,gas,110451.0,clean,automatic,4wd,SUV,white,ak,61.2116,-149.8761,2021-04-29 12:01:41+00:00,19,2021,4
 chico,10500.0,2011,hyundai,genesis coupe 2.0t,UNKNOWN,4,gas,108292.0,clean,automatic,rwd,coupe,black,ca,38.655305,-120.953858,2021-04-11 18:16:07+00:00,15,2021,4
@@ -1489,7 +1472,6 @@ chico,38500.0,1957,ford,1957 Studerbaker,like new,8,gas,776655.0,clean,automatic
 fresno / madera,5999.0,2007,lexus,is 250,excellent,6,gas,223604.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.743249,-119.788018,2021-05-03 01:43:09+00:00,19,2021,5
 fresno / madera,15590.0,2017,volkswagen,jetta 1.4t s sedan 4d,good,UNKNOWN,gas,29002.0,clean,automatic,fwd,sedan,white,ca,33.7865,-84.4454,2021-04-19 10:30:39+00:00,9,2021,4
 chico,11990.0,2013,dodge,charger se 4dr sedan,like new,6,gas,100248.0,clean,automatic,fwd,sedan,blue,ca,38.606405,-121.447661,2021-05-02 19:52:24+00:00,13,2021,5
-gold country,775.0,2021,jeep,gladiator mojave,excellent,6,gas,10.0,clean,manual,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-29 18:32:38+00:00,5,2021,4
 phoenix,32590.0,2018,gmc,sierra 1500 double cab,good,8,gas,32620.0,clean,other,UNKNOWN,pickup,black,az,33.5,-112.05,2021-05-03 15:51:25+00:00,8,2021,5
 huntsville / decatur,34995.0,2015,ford,f250 super duty 4x4,UNKNOWN,UNKNOWN,gas,84526.0,clean,automatic,4wd,UNKNOWN,white,al,34.9506,-85.2432,2021-04-21 14:49:06+00:00,11,2021,4
 phoenix,22888.0,2014,ford,f-150,UNKNOWN,UNKNOWN,other,99834.0,clean,automatic,4wd,pickup,white,az,33.534798,-112.180236,2021-05-03 01:33:25+00:00,12,2021,5
@@ -1651,7 +1633,6 @@ fresno / madera,35211.0,2011,chevrolet,corvette,like new,8,gas,46830.0,clean,man
 phoenix,5750.0,2008,audi,a4 2.0t,UNKNOWN,4,gas,118803.0,clean,automatic,fwd,UNKNOWN,UNKNOWN,az,33.575113,-112.05749,2021-05-04 00:12:30+00:00,18,2021,5
 gold country,16500.0,2016,chevrolet,colorado,excellent,UNKNOWN,gas,132185.0,clean,automatic,4wd,pickup,white,ca,38.608824,-121.400837,2021-05-03 00:32:07+00:00,10,2021,5
 phoenix,39981.0,2014,chevrolet,silverado 1500 4wd cre,UNKNOWN,8,other,53021.0,clean,automatic,UNKNOWN,other,UNKNOWN,az,33.3887,-111.8428,2021-05-03 21:03:38+00:00,12,2021,5
-yuma,539.0,2011,chevrolet,silverado,UNKNOWN,UNKNOWN,gas,100.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.7093,-114.4905,2021-05-01 19:52:42+00:00,15,2021,5
 bakersfield,13498.0,2012,honda,pilot,excellent,UNKNOWN,gas,112850.0,clean,automatic,fwd,SUV,white,ca,34.227125,-118.467977,2021-04-15 18:00:38+00:00,14,2021,4
 tucson,29779.0,2015,chevrolet,silverado 1500 lt automatic,UNKNOWN,UNKNOWN,gas,73350.0,clean,automatic,4wd,pickup,silver,az,32.23539,-110.916482,2021-05-04 13:06:16+00:00,11,2021,5
 phoenix,12999.0,2003,gmc,sierra 2500hd,fair,8,diesel,218589.0,clean,automatic,4wd,truck,brown,az,33.683854,-112.104557,2021-05-03 16:40:50+00:00,23,2021,5
@@ -1734,7 +1715,6 @@ fairbanks,4500.0,1975,toyota,chinook,good,4,gas,35000.0,clean,automatic,UNKNOWN,
 birmingham,16990.0,2015,honda,accord sedan,UNKNOWN,6,gas,82023.0,clean,automatic,fwd,sedan,white,al,33.669601,-86.817617,2021-04-11 15:01:00+00:00,11,2021,4
 phoenix,7500.0,2010,bmw,528i xdrive,excellent,6,gas,151818.0,clean,automatic,rwd,sedan,black,az,33.3291,-111.9943,2021-05-03 23:49:19+00:00,16,2021,5
 show low,26500.0,1969,chevrolet,UNKNOWN,UNKNOWN,UNKNOWN,gas,1234.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,34.1662,-109.9869,2021-04-22 15:32:46+00:00,57,2021,4
-gold country,800.0,2002,chrysler,pt cruiser,good,UNKNOWN,gas,100000.0,clean,automatic,fwd,UNKNOWN,silver,ca,39.0031,-121.0292,2021-04-23 21:58:30+00:00,24,2021,4
 tucson,10990.0,2008,rover,sport,excellent,8,gas,126491.0,clean,automatic,4wd,UNKNOWN,silver,az,32.236664,-110.866049,2021-05-03 16:00:48+00:00,18,2021,5
 prescott,58995.0,2016,ram,2500 laramie crewcab 4wd,UNKNOWN,6,diesel,56749.0,clean,automatic,4wd,pickup,black,az,33.396353,-111.954863,2021-04-28 03:01:07+00:00,10,2021,4
 anchorage / mat-su,24995.0,2006,ford,f-550,UNKNOWN,UNKNOWN,diesel,112939.0,clean,automatic,4wd,other,white,ak,61.16167,-149.86312,2021-05-01 22:50:32+00:00,20,2021,5
@@ -1789,7 +1769,6 @@ fayetteville,14988.0,2016,dodge,journey crossroad,good,UNKNOWN,other,54822.0,cle
 phoenix,24990.0,2018,mitsubishi,outlander phev sel,good,UNKNOWN,hybrid,20957.0,clean,other,4wd,other,red,az,33.5,-112.05,2021-05-03 16:01:04+00:00,8,2021,5
 fayetteville,36500.0,1970,chevrolet,cheyenne super,excellent,8,gas,56221.0,clean,automatic,rwd,UNKNOWN,UNKNOWN,ar,36.0436,-94.2539,2021-04-25 16:27:00+00:00,56,2021,4
 mohave county,25997.0,2006,toyota,"tundra sr5 4dr double cab 1-owner*rust free*only 112k miles*new water pump & timing belt*new bilstein-toytec lift*new 33"" yokohama tires*like new in&out*0-accidents",UNKNOWN,8,gas,112215.0,clean,automatic,4wd,pickup,brown,az,45.5472,-122.5001,2021-05-01 00:47:01+00:00,20,2021,5
-chico,775.0,2021,jeep,gladiator mojave,excellent,6,gas,10.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-22 21:55:17+00:00,5,2021,4
 fresno / madera,21999.0,2018,honda,accord,UNKNOWN,4,gas,82922.0,clean,automatic,fwd,sedan,white,ca,36.774617,-119.791164,2021-04-27 23:30:46+00:00,8,2021,4
 montgomery,18900.0,2016,toyota,camry se special edition,like new,4,gas,59900.0,clean,automatic,fwd,UNKNOWN,white,al,32.2243,-86.3932,2021-05-04 17:40:51+00:00,10,2021,5
 tucson,16990.0,2015,kia,optima sx sedan 4d,good,UNKNOWN,other,36359.0,clean,other,fwd,sedan,silver,az,32.21,-110.96,2021-04-22 12:56:40+00:00,11,2021,4
@@ -1850,7 +1829,6 @@ tucson,14995.0,2009,bmw,650i,UNKNOWN,8,gas,86879.0,clean,automatic,rwd,coupe,gre
 mohave county,2395.0,2003,volkswagen,jetta 2.5,good,4,gas,175000.0,clean,manual,rwd,coupe,grey,az,35.149179,-114.569023,2021-04-16 02:10:18+00:00,23,2021,4
 florence / muscle shoals,41590.0,2020,buick,enclave avenir sport,good,6,gas,29010.0,clean,other,fwd,SUV,red,al,33.7865,-84.4454,2021-04-08 14:21:48+00:00,6,2021,4
 fayetteville,23483.0,2015,mercedes-benz,m-class,UNKNOWN,UNKNOWN,gas,71504.0,clean,automatic,UNKNOWN,UNKNOWN,black,ar,38.4018,-93.785,2021-04-30 20:09:38+00:00,11,2021,4
-tucson,900.0,1993,chevrolet,silverado 1500,fair,8,gas,230000.0,rebuilt,automatic,rwd,UNKNOWN,grey,az,32.1941,-110.9739,2021-04-22 01:39:46+00:00,33,2021,4
 anchorage / mat-su,15995.0,2014,kia,optima,UNKNOWN,4,gas,86890.0,clean,automatic,fwd,sedan,red,ak,61.56939,-149.35645,2021-04-29 16:03:36+00:00,12,2021,4
 chico,36990.0,2018,dodge,charger r/t sedan 4d,good,8,gas,3734.0,clean,automatic,rwd,sedan,blue,ca,39.71,-121.81,2021-04-26 18:31:02+00:00,8,2021,4
 anchorage / mat-su,29900.0,2015,ford,f-150 lariat,excellent,8,gas,114271.0,clean,automatic,4wd,SUV,black,ak,61.188366,-149.907246,2021-04-30 00:07:28+00:00,11,2021,4
@@ -2062,7 +2040,6 @@ southeast alaska,19500.0,2019,mitsubishi,outlander,good,UNKNOWN,gas,38200.0,clea
 tucson,8995.0,2009,toyota,prius,excellent,4,hybrid,71000.0,clean,automatic,fwd,sedan,green,az,32.25,-110.8869,2021-04-22 06:02:06+00:00,17,2021,4
 flagstaff / sedona,22384.0,2020,chevrolet,malibu ls,good,UNKNOWN,gas,1268.0,clean,automatic,UNKNOWN,sedan,white,az,35.189958,-111.666438,2021-04-17 20:40:47+00:00,6,2021,4
 bakersfield,15000.0,1986,ford,chevorlet stepvan,excellent,8,gas,42616.0,clean,automatic,UNKNOWN,van,white,ca,33.916305,-118.29652,2021-04-19 23:52:20+00:00,40,2021,4
-chico,507.0,2012,chevrolet,silverado 3500hd,UNKNOWN,8,diesel,107779.0,clean,automatic,4wd,truck,UNKNOWN,ca,38.01787,-121.268904,2021-04-19 15:22:59+00:00,14,2021,4
 chico,30997.0,2013,cadillac,escalade,UNKNOWN,UNKNOWN,gas,81812.0,clean,automatic,fwd,SUV,black,ca,38.605011,-121.401917,2021-05-01 19:26:32+00:00,13,2021,5
 fresno / madera,12999.0,2009,mercedes-benz,m-class,excellent,UNKNOWN,gas,128962.0,clean,automatic,4wd,SUV,black,ca,36.730403,-119.785715,2021-04-24 21:16:38+00:00,17,2021,4
 tucson,16995.0,2017,hyundai,santa fe sport 2.4l awd,UNKNOWN,4,gas,61619.0,clean,automatic,4wd,SUV,blue,az,32.236075,-110.878886,2021-04-24 17:08:44+00:00,9,2021,4
@@ -2299,7 +2276,6 @@ anchorage / mat-su,19995.0,2014,mercedes-benz,benz glk350 4matic awd,excellent,6
 phoenix,16990.0,2017,volkswagen,golf tsi wolfsburg,good,UNKNOWN,gas,65672.0,clean,other,fwd,sedan,white,az,33.44,-112.08,2021-05-01 22:41:02+00:00,9,2021,5
 bakersfield,32900.0,2011,ford,isuzu nrr,excellent,4,diesel,198758.0,clean,automatic,UNKNOWN,truck,white,ca,34.0673,-117.9366,2021-04-14 20:10:51+00:00,15,2021,4
 prescott,1800.0,2000,ford,crown victoria police,fair,8,gas,86000.0,clean,automatic,rwd,sedan,white,az,34.7055,-112.0091,2021-04-27 23:01:13+00:00,26,2021,4
-flagstaff / sedona,944.0,2018,honda,pilot,excellent,6,gas,20998.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,34.605818,-112.451775,2021-04-15 17:29:31+00:00,8,2021,4
 phoenix,19999.0,2012,rover,UNKNOWN,excellent,8,gas,103794.0,clean,automatic,4wd,SUV,black,az,33.618665,-111.922284,2021-05-04 16:54:53+00:00,14,2021,5
 dothan,32560.0,2018,ford,f150 stx,UNKNOWN,UNKNOWN,gas,44849.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,29.801821,-82.529182,2021-04-23 15:32:06+00:00,8,2021,4
 flagstaff / sedona,26499.0,2020,dodge,grand caravan sxt,good,6,gas,24672.0,clean,automatic,UNKNOWN,van,blue,az,35.189958,-111.666438,2021-04-30 20:41:31+00:00,6,2021,4
@@ -2329,7 +2305,6 @@ mobile,18985.0,2016,buick,enclave,UNKNOWN,6,gas,107813.0,clean,automatic,fwd,SUV
 birmingham,5980.0,2013,jeep,patriot,UNKNOWN,4,gas,106290.0,clean,manual,fwd,SUV,white,al,33.209789,-86.783493,2021-04-10 21:30:15+00:00,13,2021,4
 texarkana,23500.0,2015,toyota,tacoma,UNKNOWN,UNKNOWN,gas,119000.0,rebuilt,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,34.0442,-94.3386,2021-04-16 22:06:31+00:00,11,2021,4
 anchorage / mat-su,37988.0,2016,gmc,sierra 1500,UNKNOWN,8,gas,37360.0,clean,automatic,4wd,truck,white,ak,61.1381,-149.86727,2021-04-29 01:32:08+00:00,10,2021,4
-fayetteville,1000.0,2006,ford,mustang,good,6,gas,128637.0,clean,automatic,rwd,UNKNOWN,green,ar,36.18,-94.528,2021-04-17 15:39:32+00:00,20,2021,4
 birmingham,7900.0,1987,mercury,grand marquis,UNKNOWN,UNKNOWN,gas,83000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,33.6339,-86.5981,2021-04-11 23:46:35+00:00,39,2021,4
 chico,37995.0,2015,ford,f350 super duty crew cab,excellent,UNKNOWN,gas,61079.0,clean,automatic,4wd,pickup,white,ca,38.738101,-121.29033,2021-04-17 20:45:28+00:00,11,2021,4
 fresno / madera,14777.0,2019,hyundai,elantra,UNKNOWN,4,gas,99275.0,clean,automatic,fwd,sedan,silver,ca,36.790784,-119.789897,2021-04-27 18:32:34+00:00,7,2021,4
@@ -2429,7 +2404,6 @@ gold country,6000.0,1983,chevrolet,c20,UNKNOWN,UNKNOWN,gas,157000.0,clean,manual
 bakersfield,3100.0,1995,toyota,pickup,good,4,gas,270000.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,ca,35.1322,-118.449,2021-04-27 19:43:25+00:00,31,2021,4
 birmingham,33990.0,2020,alfa-romeo,romeo giulia sedan 4d,good,UNKNOWN,gas,9711.0,clean,other,rwd,sedan,white,al,33.52,-86.79,2021-04-20 16:40:57+00:00,6,2021,4
 phoenix,4200.0,2004,nissan,altima,good,4,gas,96000.0,clean,automatic,UNKNOWN,sedan,black,az,33.4936,-111.9167,2021-05-04 14:57:49+00:00,22,2021,5
-phoenix,999.0,1901,ford,ALL,UNKNOWN,UNKNOWN,gas,1.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.5021,-112.0305,2021-05-04 15:15:21+00:00,125,2021,5
 fayetteville,9500.0,2015,honda,civic lx,excellent,4,gas,61000.0,rebuilt,automatic,fwd,sedan,blue,ar,36.3169,-94.1545,2021-04-26 15:45:07+00:00,11,2021,4
 mobile,33250.0,2019,toyota,4runner,UNKNOWN,6,gas,41457.0,clean,automatic,rwd,SUV,white,al,30.668786,-88.105874,2021-04-05 12:11:50+00:00,7,2021,4
 gold country,38990.0,2020,dodge,charger r/t sedan 4d,good,UNKNOWN,other,5261.0,clean,other,UNKNOWN,sedan,white,ca,38.73,-120.8,2021-04-22 16:50:59+00:00,6,2021,4
@@ -2495,7 +2469,6 @@ fresno / madera,27500.0,2012,ford,ISUZU NPR BOX TRUCK,excellent,8,gas,102257.0,c
 phoenix,16990.0,2020,mitsubishi,mirage g4 es sedan 4d,good,UNKNOWN,gas,3821.0,clean,other,fwd,sedan,red,az,33.5,-112.05,2021-05-04 15:41:07+00:00,6,2021,5
 anchorage / mat-su,55999.0,2016,ford,f-350 lariat 6.7 diesel,excellent,8,diesel,88501.0,clean,automatic,4wd,truck,black,ak,61.166353,-149.847206,2021-04-23 22:21:57+00:00,10,2021,4
 phoenix,31990.0,2017,infiniti,qx70 3.7 sport utility,good,6,hybrid,26275.0,clean,other,rwd,other,silver,az,33.51,-112.36,2021-05-02 21:20:13+00:00,9,2021,5
-fayetteville,800.0,2008,ford,easy car deals,excellent,6,gas,111111.0,clean,automatic,fwd,SUV,brown,ar,36.17528,-94.171607,2021-04-21 15:37:01+00:00,18,2021,4
 little rock,35310.0,2019,dodge,charger,UNKNOWN,UNKNOWN,gas,31731.0,clean,automatic,rwd,UNKNOWN,UNKNOWN,ar,38.4018,-93.785,2021-04-19 19:55:20+00:00,7,2021,4
 mobile,11500.0,1953,chevrolet,210 club coupe,good,UNKNOWN,gas,1000.0,clean,other,rwd,coupe,red,al,30.834778,-88.136165,2021-05-01 20:03:02+00:00,73,2021,5
 flagstaff / sedona,32995.0,2012,chevrolet,silverado,UNKNOWN,UNKNOWN,other,87588.0,clean,automatic,4wd,pickup,white,az,34.728066,-112.019379,2021-04-23 15:58:02+00:00,14,2021,4
@@ -2531,7 +2504,6 @@ jonesboro,10500.0,2003,chevrolet,silverado,fair,8,gas,190000.0,clean,automatic,4
 birmingham,2600.0,2000,buick,lesabre,UNKNOWN,6,gas,212061.0,clean,automatic,fwd,UNKNOWN,blue,al,33.455361,-86.962474,2021-04-16 16:12:02+00:00,26,2021,4
 yuma,15987.0,2012,toyota,sienna 5dr 7-pass van v6 le fwd (natl),UNKNOWN,4,gas,52577.0,clean,automatic,fwd,SUV,grey,az,33.0,-115.0,2021-04-07 14:01:35+00:00,14,2021,4
 phoenix,34990.0,2018,ram,1500 quad cab big horn,good,6,other,22064.0,clean,other,4wd,pickup,silver,az,33.5,-112.05,2021-05-03 15:51:20+00:00,8,2021,5
-phoenix,60000.0,2016,tesla,x p90d,excellent,UNKNOWN,electric,122000.0,lien,automatic,UNKNOWN,SUV,black,az,33.2711,-111.8311,2021-05-02 20:51:32+00:00,10,2021,5
 anchorage / mat-su,37995.0,2015,ford,f150 lariat supercrew 4x4,like new,6,gas,98043.0,clean,automatic,4wd,truck,white,ak,61.166252,-149.857916,2021-05-02 05:50:43+00:00,11,2021,5
 huntsville / decatur,14500.0,2009,chevrolet,tahoe,UNKNOWN,UNKNOWN,gas,95406.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,34.4482,-86.9242,2021-04-24 09:34:06+00:00,17,2021,4
 phoenix,3700.0,2009,honda,civic gx,good,4,other,92281.0,clean,automatic,fwd,sedan,white,az,33.9235,-112.1279,2021-05-04 04:31:29+00:00,17,2021,5
@@ -2558,7 +2530,6 @@ phoenix,17800.0,2001,ford,2002 f 450,excellent,8,diesel,51000.0,clean,manual,rwd
 yuma,17987.0,2017,ford,escape titanium fwd,UNKNOWN,4,gas,65802.0,clean,automatic,fwd,SUV,UNKNOWN,az,33.0,-115.0,2021-04-18 14:01:31+00:00,9,2021,4
 fresno / madera,13950.0,2012,honda,pilot,excellent,6,gas,152450.0,clean,manual,4wd,SUV,blue,ca,36.905852,-119.794299,2021-04-26 18:15:49+00:00,14,2021,4
 tucson,49995.0,2017,chevrolet,silverado 1500 ltz redline crew cab 6.2 liter,UNKNOWN,8,gas,40136.0,clean,automatic,4wd,pickup,black,az,33.396353,-111.954863,2021-04-28 01:26:06+00:00,9,2021,4
-fresno / madera,1000.0,2005,jeep,grand cherokee limited4wd,excellent,8,gas,101712.0,clean,automatic,4wd,SUV,UNKNOWN,ca,36.750095,-119.758732,2021-04-20 17:20:12+00:00,21,2021,4
 kenai peninsula,12900.0,2007,ford,HUMMER H3,UNKNOWN,5,gas,148013.0,clean,automatic,4wd,SUV,silver,ak,61.19,-149.8938,2021-05-02 02:07:18+00:00,19,2021,5
 anchorage / mat-su,31995.0,2013,chevrolet,silverado,UNKNOWN,UNKNOWN,diesel,49614.0,clean,automatic,4wd,pickup,white,ak,61.16167,-149.86312,2021-04-05 17:48:46+00:00,13,2021,4
 phoenix,19900.0,2008,toyota,sequoia limited,good,8,gas,137645.0,clean,automatic,4wd,SUV,UNKNOWN,az,33.451747,-112.019144,2021-05-02 16:03:32+00:00,18,2021,5
@@ -2581,7 +2552,6 @@ prescott,34990.0,2018,bmw,4 series 430i convertible 2d,good,UNKNOWN,gas,39650.0,
 florence / muscle shoals,8750.0,2006,subaru,outback,excellent,4,gas,92000.0,clean,manual,4wd,SUV,silver,al,34.9186,-87.6136,2021-04-08 21:35:48+00:00,20,2021,4
 tucson,24000.0,2011,mitsubishi,lancer evolution,excellent,4,gas,101898.0,clean,automatic,4wd,sedan,UNKNOWN,az,32.300172,-110.979304,2021-05-02 19:47:21+00:00,15,2021,5
 tucson,50995.0,2015,ram,2500 laramie crew 4wd,UNKNOWN,6,diesel,100283.0,clean,automatic,4wd,pickup,white,az,33.396353,-111.954863,2021-04-23 02:39:16+00:00,11,2021,4
-tucson,750.0,2006,nissan,sentra,UNKNOWN,UNKNOWN,gas,146000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.1941,-110.9739,2021-05-01 05:36:43+00:00,20,2021,5
 little rock,11974.0,2016,nissan,leaf,UNKNOWN,UNKNOWN,electric,42531.0,clean,automatic,fwd,hatchback,UNKNOWN,ar,38.4018,-93.785,2021-04-16 22:40:22+00:00,10,2021,4
 bakersfield,34500.0,2007,ford,International 4300,UNKNOWN,UNKNOWN,diesel,97000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,39.842786,-104.947758,2021-05-03 19:57:09+00:00,19,2021,5
 tucson,15990.0,2013,toyota,prius three hatchback 4d,good,UNKNOWN,gas,51066.0,clean,other,fwd,hatchback,UNKNOWN,az,32.21,-110.96,2021-04-24 14:51:11+00:00,13,2021,4
@@ -2651,7 +2621,6 @@ anchorage / mat-su,31999.0,2012,jeep,wrangler,UNKNOWN,6,gas,62045.0,clean,manual
 chico,34990.0,2020,cadillac,xt4 sport suv 4d,good,UNKNOWN,diesel,4174.0,clean,other,UNKNOWN,hatchback,white,ca,39.71,-121.81,2021-04-12 15:21:06+00:00,6,2021,4
 phoenix,24000.0,2017,chevrolet,camaro lt,excellent,6,gas,52930.0,lien,automatic,rwd,coupe,white,az,33.3527,-111.7809,2021-05-02 15:53:14+00:00,9,2021,5
 bakersfield,44990.0,2015,ram,3500 diesel truck 6.7l tradesman 4 door crew cab long bed,UNKNOWN,6,diesel,125647.0,clean,automatic,4wd,pickup,red,ca,38.5892,-121.4057,2021-04-14 00:02:04+00:00,11,2021,4
-chico,507.0,2011,ram,3500,UNKNOWN,6,diesel,127690.0,clean,automatic,4wd,truck,UNKNOWN,ca,38.01787,-121.268904,2021-05-01 14:03:24+00:00,15,2021,5
 fort smith,5400.0,2012,dodge,grand caravan,UNKNOWN,UNKNOWN,gas,194368.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,35.454,-94.3278,2021-04-10 20:00:13+00:00,14,2021,4
 tucson,9000.0,1970,chevrolet,impala,good,8,gas,36000.0,clean,automatic,UNKNOWN,UNKNOWN,black,az,32.481818,-110.918398,2021-05-02 21:22:25+00:00,56,2021,5
 dothan,34159.0,2018,ram,1500 slt 4wd pickup truck,UNKNOWN,UNKNOWN,gas,48980.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,29.801624,-82.5317,2021-05-04 17:19:40+00:00,8,2021,5
@@ -2684,7 +2653,6 @@ phoenix,8000.0,2000,ford,f750,fair,8,diesel,146300.0,clean,manual,rwd,truck,whit
 tucson,19999.0,2018,bmw,320i,new,4,gas,14000.0,salvage,automatic,rwd,sedan,white,az,32.3472,-111.0419,2021-05-04 03:48:33+00:00,8,2021,5
 phoenix,18990.0,2019,chevrolet,spark activ hatchback,good,UNKNOWN,gas,4780.0,clean,other,fwd,hatchback,UNKNOWN,az,33.5,-112.05,2021-05-04 15:41:11+00:00,7,2021,5
 fairbanks,42999.0,2020,chevrolet,silverado 1500,UNKNOWN,8,gas,28137.0,clean,automatic,4wd,truck,silver,ak,64.81552,-147.71293,2021-04-17 18:35:22+00:00,6,2021,4
-phoenix,1000.0,2012,volkswagen,jetta,excellent,5,gas,111493.0,clean,automatic,fwd,sedan,silver,az,33.380277,-111.811295,2021-05-03 14:33:36+00:00,14,2021,5
 little rock,49856.0,2017,ford,Maserati Levante,UNKNOWN,UNKNOWN,gas,28914.0,clean,automatic,UNKNOWN,UNKNOWN,black,ar,38.4018,-93.785,2021-04-08 19:55:39+00:00,9,2021,4
 chico,34997.0,2004,ford,HUMMER H2,UNKNOWN,UNKNOWN,gas,53043.0,clean,automatic,4wd,SUV,red,ca,38.605011,-121.401917,2021-05-01 19:09:36+00:00,22,2021,5
 chico,8995.0,2006,honda,pilot,UNKNOWN,UNKNOWN,gas,135550.0,clean,automatic,4wd,SUV,UNKNOWN,ca,38.806983,-121.217308,2021-04-30 14:13:11+00:00,20,2021,4
@@ -2886,7 +2854,6 @@ bakersfield,17800.0,2017,toyota,camry,excellent,4,gas,58890.0,clean,automatic,fw
 phoenix,14500.0,2012,toyota,camry,good,4,gas,40200.0,clean,automatic,fwd,UNKNOWN,red,az,33.316,-112.0669,2021-05-02 00:34:12+00:00,14,2021,5
 huntsville / decatur,7500.0,2013,fiat,500,excellent,4,gas,72.0,clean,manual,UNKNOWN,hatchback,black,al,34.7045,-86.5961,2021-04-25 22:39:01+00:00,13,2021,4
 dothan,44998.0,2020,ford,explorer limited suv,UNKNOWN,UNKNOWN,gas,64.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,29.803877,-82.52738,2021-04-26 19:25:36+00:00,6,2021,4
-phoenix,633.0,2021,mercedes-benz,glb 250,excellent,4,gas,2.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,33.638441,-112.266352,2021-05-04 14:21:01+00:00,5,2021,5
 fayetteville,6500.0,2012,volvo,s 60,good,5,gas,133087.0,clean,automatic,fwd,sedan,black,ar,36.192874,-95.75898,2021-04-23 20:32:03+00:00,14,2021,4
 anchorage / mat-su,29500.0,2019,nissan,frontier,excellent,6,gas,23000.0,clean,automatic,4wd,truck,white,ak,61.1194,-149.8974,2021-05-03 04:07:09+00:00,7,2021,5
 birmingham,25990.0,2008,ram,2500 mega cab 4x4,like new,6,diesel,172000.0,clean,automatic,4wd,truck,red,al,34.188155,-86.851389,2021-04-07 14:14:55+00:00,18,2021,4
@@ -3087,7 +3054,6 @@ chico,7999.0,2012,chevrolet,cruze,UNKNOWN,4,gas,134643.0,clean,automatic,fwd,sed
 bakersfield,35990.0,2015,ford,e-450,excellent,UNKNOWN,gas,27361.0,clean,automatic,rwd,UNKNOWN,white,ca,36.533226,-119.576488,2021-04-05 15:32:03+00:00,11,2021,4
 fresno / madera,13995.0,2017,ford,escape,excellent,UNKNOWN,gas,73304.0,clean,automatic,fwd,SUV,white,ca,37.738239,-120.939159,2021-05-01 16:15:30+00:00,9,2021,5
 fresno / madera,10995.0,2013,fiat,500,excellent,4,gas,87475.0,clean,manual,fwd,coupe,white,ca,36.825256,-119.789993,2021-04-30 18:06:27+00:00,13,2021,4
-show low,1000.0,1991,buick,park avenue,fair,6,gas,156800.0,clean,automatic,fwd,sedan,blue,az,34.2998,-110.0,2021-04-28 15:39:40+00:00,35,2021,4
 yuma,10500.0,1998,toyota,4runner,fair,6,gas,338915.0,clean,automatic,4wd,SUV,silver,az,32.6764,-114.4185,2021-04-23 23:06:47+00:00,28,2021,4
 fresno / madera,14985.0,2016,bmw,5 series,excellent,UNKNOWN,gas,126744.0,clean,automatic,rwd,sedan,black,ca,38.637299,-121.320559,2021-04-24 19:06:30+00:00,10,2021,4
 tucson,17995.0,2007,toyota,tundra crewmax sr5,excellent,8,gas,188535.0,clean,automatic,4wd,truck,UNKNOWN,az,32.286159,-110.991568,2021-04-22 17:13:29+00:00,19,2021,4
@@ -3128,7 +3094,6 @@ tucson,22990.0,2018,chevrolet,colorado extended cab,good,UNKNOWN,gas,51275.0,cle
 tucson,11995.0,2016,volkswagen,jetta 1.4t s,UNKNOWN,4,gas,57514.0,clean,automatic,fwd,sedan,white,az,32.236075,-110.878886,2021-04-24 17:06:57+00:00,10,2021,4
 birmingham,32995.0,2012,ford,f250 super duty,UNKNOWN,UNKNOWN,gas,37473.0,clean,automatic,4wd,UNKNOWN,white,al,34.9506,-85.2432,2021-04-20 19:27:44+00:00,14,2021,4
 chico,22900.0,2011,bmw,z4 sdrive35i,excellent,6,gas,58172.0,clean,manual,rwd,convertible,silver,ca,39.222203,-121.052462,2021-04-05 19:44:28+00:00,15,2021,4
-birmingham,1000.0,2021,ford,SPECIAL FINANCE PROGRAM 2021,fair,UNKNOWN,other,1400.0,clean,other,UNKNOWN,bus,green,al,32.9229,-86.545,2021-04-12 13:52:29+00:00,5,2021,4
 phoenix,16995.0,2012,nissan,nv,excellent,6,gas,181667.0,clean,automatic,rwd,UNKNOWN,white,az,33.414129,-111.619672,2021-05-03 16:48:09+00:00,14,2021,5
 tucson,7500.0,1969,chevrolet,silverado,UNKNOWN,UNKNOWN,gas,5000.0,salvage,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.2474,-110.9491,2021-05-01 16:56:12+00:00,57,2021,5
 birmingham,3299.0,2003,chevrolet,cavalier,UNKNOWN,4,gas,176354.0,clean,automatic,fwd,coupe,UNKNOWN,al,33.455361,-86.962474,2021-04-26 16:10:58+00:00,23,2021,4
@@ -3277,7 +3242,6 @@ fresno / madera,24999.0,2016,bmw,x4 xdrive28i,UNKNOWN,4,gas,46000.0,clean,automa
 gold country,22750.0,2011,ford,f250 super duty,like new,8,diesel,182300.0,clean,automatic,4wd,truck,white,ca,38.200822,-120.643616,2021-04-10 15:01:56+00:00,15,2021,4
 dothan,40000.0,1990,ford,Chevelot,excellent,UNKNOWN,gas,29260.0,clean,automatic,UNKNOWN,pickup,black,al,31.2668,-85.3971,2021-05-04 02:10:29+00:00,36,2021,5
 fresno / madera,46998.0,2018,volvo,"xc90 11,200 miles wwow",excellent,UNKNOWN,gas,11920.0,clean,automatic,4wd,SUV,UNKNOWN,ca,35.283445,-120.658029,2021-04-29 19:31:24+00:00,8,2021,4
-phoenix,1000.0,2005,chevrolet,malibu sedan four-door,salvage,4,gas,180000.0,clean,automatic,rwd,sedan,UNKNOWN,az,33.6238,-112.0044,2021-05-02 17:16:15+00:00,21,2021,5
 phoenix,12000.0,1995,mercedes-benz,benz e350,excellent,UNKNOWN,gas,89000.0,clean,automatic,UNKNOWN,convertible,UNKNOWN,az,33.6165,-111.9554,2021-05-03 13:36:13+00:00,31,2021,5
 phoenix,5500.0,2009,nissan,cube 1.8 s,excellent,4,gas,149465.0,clean,manual,fwd,UNKNOWN,silver,az,33.688,-112.1065,2021-05-03 23:21:20+00:00,17,2021,5
 fresno / madera,11498.0,2016,chevrolet,sonic,excellent,UNKNOWN,gas,31791.0,clean,automatic,fwd,sedan,black,ca,38.641098,-121.428624,2021-04-27 19:46:18+00:00,10,2021,4
@@ -3549,7 +3513,6 @@ mohave county,6500.0,1968,volkswagen,bug,good,4,gas,88000.0,clean,manual,UNKNOWN
 flagstaff / sedona,8995.0,1995,gmc,sierra,UNKNOWN,UNKNOWN,other,195232.0,clean,automatic,4wd,pickup,green,az,34.728066,-112.019379,2021-04-10 16:08:59+00:00,31,2021,4
 mobile,8950.0,2009,infiniti,ex35,excellent,6,gas,159294.0,clean,automatic,fwd,SUV,blue,al,30.667772,-88.126338,2021-04-26 20:42:01+00:00,17,2021,4
 fayetteville,13495.0,2014,bmw,3-series,good,UNKNOWN,gas,96431.0,clean,automatic,rwd,sedan,black,ar,36.1716,-94.0428,2021-05-01 18:41:54+00:00,12,2021,5
-gadsden-anniston,700.0,1996,honda,accord ex,fair,4,gas,274250.0,clean,automatic,fwd,UNKNOWN,grey,al,34.4368,-85.7124,2021-04-23 15:24:19+00:00,30,2021,4
 gold country,7499.0,2013,volkswagen,cc sport,UNKNOWN,4,gas,126433.0,clean,automatic,fwd,sedan,white,ca,38.905363,-121.0774,2021-04-29 23:31:12+00:00,13,2021,4
 huntsville / decatur,16999.0,2017,infiniti,q50 premium,excellent,6,gas,27000.0,rebuilt,automatic,rwd,sedan,blue,al,35.11212,-86.513843,2021-04-18 17:35:56+00:00,9,2021,4
 flagstaff / sedona,5500.0,1999,gmc,sierra 1500 z71 sle,good,8,gas,280000.0,clean,automatic,4wd,truck,grey,az,34.7055,-112.0091,2021-04-30 06:12:38+00:00,27,2021,4
@@ -3673,7 +3636,6 @@ tuscaloosa,21590.0,2018,honda,civic ex sedan 4d,good,UNKNOWN,gas,7885.0,clean,ot
 little rock,8500.0,2009,chevrolet,UNKNOWN,UNKNOWN,UNKNOWN,gas,235116.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,35.2295,-92.3578,2021-05-04 16:03:17+00:00,17,2021,5
 montgomery,11400.0,2009,chevrolet,colorado crew cab,UNKNOWN,4,gas,95490.0,clean,automatic,UNKNOWN,pickup,custom,al,32.4715,-86.4831,2021-05-02 17:04:24+00:00,17,2021,5
 fresno / madera,19999.0,2012,audi,a7,UNKNOWN,6,gas,92000.0,clean,automatic,4wd,sedan,black,ca,38.614287,-121.270495,2021-04-22 17:05:12+00:00,14,2021,4
-phoenix,1000.0,2001,cadillac,dts,good,8,gas,59500.0,clean,automatic,fwd,sedan,black,az,33.41479,-111.624874,2021-05-04 16:17:24+00:00,25,2021,5
 anchorage / mat-su,3500.0,2002,chevrolet,astro cargo van,fair,UNKNOWN,gas,163857.0,clean,automatic,4wd,van,white,ak,61.2116,-149.8761,2021-05-03 18:00:52+00:00,24,2021,5
 jonesboro,18590.0,2018,hyundai,sonata sel sedan 4d,good,UNKNOWN,gas,22075.0,clean,other,fwd,sedan,white,ar,35.82,-90.68,2021-04-11 15:41:30+00:00,8,2021,4
 texarkana,24590.0,2018,lincoln,mkz select sedan 4d,good,UNKNOWN,gas,16081.0,clean,automatic,fwd,sedan,white,ar,33.7865,-84.4454,2021-04-05 10:20:36+00:00,8,2021,4
@@ -3699,7 +3661,6 @@ phoenix,3900.0,2005,ford,hyndai tucson,excellent,4,gas,160000.0,clean,manual,UNK
 bakersfield,15990.0,2015,toyota,prius four hatchback 4d,good,UNKNOWN,gas,66732.0,clean,other,fwd,hatchback,white,ca,35.38,-119.02,2021-04-30 04:31:26+00:00,11,2021,4
 phoenix,3000.0,2000,mercury,villager estate edition,good,6,gas,187000.0,clean,automatic,fwd,mini-van,white,az,33.5623,-112.0559,2021-05-02 22:39:21+00:00,26,2021,5
 little rock,35653.0,2015,chevrolet,silverado 1500,UNKNOWN,UNKNOWN,gas,72185.0,clean,automatic,4wd,pickup,UNKNOWN,ar,38.4018,-93.785,2021-04-26 00:20:41+00:00,11,2021,4
-phoenix,1000.0,1997,gmc,UNKNOWN,UNKNOWN,UNKNOWN,gas,358000.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,az,33.288997,-112.577921,2021-05-04 18:13:07+00:00,29,2021,5
 anchorage / mat-su,42194.0,2018,ford,f-150,UNKNOWN,6,gas,25776.0,clean,automatic,4wd,truck,UNKNOWN,ak,61.176984,-149.86941,2021-04-10 00:34:53+00:00,8,2021,4
 fayetteville,28900.0,2003,ford,f-550,UNKNOWN,UNKNOWN,diesel,86000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,39.7965,-94.8443,2021-04-16 02:32:17+00:00,23,2021,4
 gold country,28590.0,2018,chevrolet,silverado 1500 regular,good,6,gas,19326.0,clean,automatic,UNKNOWN,pickup,black,ca,38.73,-120.8,2021-04-27 14:31:32+00:00,8,2021,4
@@ -3773,7 +3734,6 @@ flagstaff / sedona,22944.0,2020,chevrolet,trax lt,good,UNKNOWN,gas,5507.0,clean,
 mohave county,10000.0,1996,ford,1996 Bluebird,good,UNKNOWN,diesel,345000.0,clean,automatic,UNKNOWN,UNKNOWN,yellow,az,33.485969,-117.322836,2021-05-02 23:32:49+00:00,30,2021,5
 phoenix,10987.0,2016,kia,soul wagon,UNKNOWN,UNKNOWN,gas,64417.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.1911,-111.528,2021-05-04 16:39:25+00:00,10,2021,5
 bakersfield,22998.0,2017,buick,enclave leather,excellent,UNKNOWN,gas,60587.0,clean,automatic,fwd,SUV,UNKNOWN,ca,35.283445,-120.658029,2021-04-23 20:16:14+00:00,9,2021,4
-gold country,978.0,2020,ram,5500 chassis cab tradesman,excellent,6,diesel,15.0,clean,automatic,UNKNOWN,van,UNKNOWN,ca,39.140569,-121.656918,2021-05-01 18:33:21+00:00,6,2021,5
 mobile,18995.0,2015,ford,f-250 sd,UNKNOWN,8,gas,178397.0,clean,automatic,rwd,UNKNOWN,white,al,30.8516,-88.0533,2021-04-19 22:22:08+00:00,11,2021,4
 anchorage / mat-su,14995.0,2014,ram,cargo van tradesman,like new,6,gas,65812.0,clean,automatic,fwd,van,white,ak,61.166252,-149.857916,2021-04-19 02:37:31+00:00,12,2021,4
 fayetteville,18495.0,2016,cadillac,srx luxury collection,good,6,gas,75036.0,clean,automatic,UNKNOWN,other,UNKNOWN,ar,36.203482,-94.138862,2021-04-08 18:31:28+00:00,10,2021,4
@@ -3813,7 +3773,6 @@ huntsville / decatur,10882.0,2015,ford,- PROMASTER CITY,excellent,UNKNOWN,gas,12
 phoenix,8500.0,2015,dodge,grand caravan,like new,6,gas,114300.0,clean,automatic,fwd,mini-van,white,az,33.5761,-112.2344,2021-05-04 17:21:05+00:00,11,2021,5
 anchorage / mat-su,46194.0,2021,acura,tlx,UNKNOWN,4,gas,1041.0,clean,other,4wd,sedan,white,ak,61.176984,-149.86941,2021-04-29 00:30:45+00:00,5,2021,4
 huntsville / decatur,36995.0,2012,ford,f250 super duty 4x4,UNKNOWN,UNKNOWN,gas,41364.0,clean,automatic,4wd,UNKNOWN,silver,al,34.9506,-85.2432,2021-04-09 20:09:45+00:00,14,2021,4
-tucson,1000.0,1973,volkswagen,beetle,good,3,gas,200000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.1941,-110.9739,2021-05-04 02:12:31+00:00,53,2021,5
 little rock,33693.0,2016,chevrolet,silverado 1500,UNKNOWN,UNKNOWN,gas,72125.0,clean,automatic,4wd,pickup,UNKNOWN,ar,38.4018,-93.785,2021-04-16 02:00:21+00:00,10,2021,4
 prescott,16590.0,2015,volkswagen,beetle 1.8t fleet,good,UNKNOWN,gas,39649.0,clean,other,fwd,hatchback,black,az,34.62,-112.42,2021-04-30 04:51:31+00:00,11,2021,4
 gadsden-anniston,19000.0,2011,chevrolet,silverado 1500,good,8,gas,187700.0,clean,automatic,4wd,pickup,white,al,34.3449,-86.2752,2021-05-02 21:37:00+00:00,15,2021,5
@@ -3970,7 +3929,6 @@ fresno / madera,16500.0,1967,dodge,d-100,good,8,gas,58000.0,clean,automatic,rwd,
 anchorage / mat-su,12000.0,2016,volvo,s60 t5 premier,good,5,gas,93000.0,rebuilt,automatic,4wd,sedan,black,ak,61.5511,-149.3874,2021-04-21 20:43:53+00:00,10,2021,4
 anchorage / mat-su,8650.0,2012,chevrolet,impala ltz,good,6,gas,79767.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ak,61.0683,-149.8005,2021-04-14 21:57:11+00:00,14,2021,4
 phoenix,10649.0,2016,chevrolet,spark ev,UNKNOWN,UNKNOWN,electric,23754.0,clean,automatic,fwd,hatchback,custom,az,33.338295,-111.934644,2021-05-03 09:16:47+00:00,10,2021,5
-fresno / madera,1000.0,2015,hyundai,elantra sesedan 6a,excellent,4,gas,109337.0,clean,automatic,UNKNOWN,sedan,UNKNOWN,ca,36.750095,-119.758732,2021-05-02 21:06:56+00:00,11,2021,5
 fresno / madera,3995.0,2002,lincoln,town car,excellent,UNKNOWN,gas,134000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.5695,-119.617,2021-05-03 00:50:30+00:00,24,2021,5
 kenai peninsula,23988.0,2017,buick,enclave,UNKNOWN,6,gas,65035.0,clean,automatic,fwd,SUV,black,ak,61.1381,-149.86727,2021-04-08 17:08:02+00:00,9,2021,4
 little rock,28990.0,2014,ford,f150 super cab xlt pickup,good,UNKNOWN,other,36038.0,clean,other,4wd,pickup,black,ar,34.72,-92.35,2021-04-30 15:41:29+00:00,12,2021,4
@@ -3994,7 +3952,6 @@ flagstaff / sedona,8500.0,1983,chevrolet,c10,UNKNOWN,UNKNOWN,diesel,85000.0,clea
 mobile,22478.0,2015,chevrolet,camaro,UNKNOWN,6,gas,32159.0,clean,automatic,rwd,coupe,white,al,30.668786,-88.105874,2021-04-15 15:39:33+00:00,11,2021,4
 flagstaff / sedona,18590.0,2017,mazda,mazda3 touring 2.5,good,UNKNOWN,gas,34723.0,clean,other,fwd,hatchback,blue,az,33.7865,-84.4454,2021-04-26 11:40:27+00:00,9,2021,4
 bakersfield,17590.0,2017,mitsubishi,outlander sel sport,good,UNKNOWN,gas,62193.0,clean,automatic,UNKNOWN,SUV,silver,ca,35.38,-119.02,2021-04-12 19:41:13+00:00,9,2021,4
-chico,965.0,2021,ram,2500 big horn,excellent,6,diesel,7.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-22 21:53:57+00:00,5,2021,4
 phoenix,34590.0,2017,cadillac,ct6 3.6 luxury sedan 4d,good,6,gas,33710.0,clean,other,UNKNOWN,sedan,white,az,33.44,-112.08,2021-05-02 20:11:18+00:00,9,2021,5
 bakersfield,12500.0,2000,chevrolet,camaro,UNKNOWN,UNKNOWN,gas,108000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,38.5673,-121.5516,2021-05-02 05:16:30+00:00,26,2021,5
 prescott,11500.0,2006,ram,UNKNOWN,UNKNOWN,UNKNOWN,diesel,157000.0,rebuilt,automatic,rwd,UNKNOWN,UNKNOWN,az,34.6019,-112.3264,2021-04-30 00:46:30+00:00,20,2021,4
@@ -4161,7 +4118,6 @@ tucson,52877.0,2014,ford,ierra 1500,UNKNOWN,8,gas,14396.0,clean,automatic,4wd,pi
 birmingham,1350.0,1999,ford,plymouth voyager,fair,6,gas,200000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,33.758741,-86.618614,2021-04-20 12:41:35+00:00,27,2021,4
 phoenix,16000.0,2019,toyota,corolla,UNKNOWN,UNKNOWN,gas,30634.0,clean,automatic,fwd,UNKNOWN,UNKNOWN,az,33.606762,-112.4231,2021-05-02 13:47:11+00:00,7,2021,5
 flagstaff / sedona,30000.0,1985,volkswagen,vanagon westfalia,excellent,4,gas,133706.0,clean,manual,rwd,van,brown,az,35.18269,-111.582878,2021-04-09 20:37:18+00:00,41,2021,4
-mobile,750.0,2002,chevrolet,astro van,fair,6,gas,130000.0,clean,automatic,rwd,mini-van,UNKNOWN,al,30.5928,-88.1946,2021-04-28 19:32:50+00:00,24,2021,4
 tucson,35498.0,2016,gmc,yukon,UNKNOWN,UNKNOWN,gas,45818.0,clean,automatic,4wd,SUV,silver,az,32.23539,-110.916482,2021-04-25 13:02:10+00:00,10,2021,4
 jonesboro,15995.0,2017,chevrolet,equinox,UNKNOWN,4,gas,77302.0,clean,automatic,fwd,SUV,silver,ar,36.059843,-91.909949,2021-04-22 21:31:24+00:00,9,2021,4
 fayetteville,24995.0,2018,mercedes-benz,c-class c 300 4dr,good,UNKNOWN,gas,22080.0,clean,automatic,UNKNOWN,sedan,white,ar,36.203482,-94.138862,2021-04-12 18:41:23+00:00,8,2021,4
@@ -4275,7 +4231,6 @@ montgomery,1500.0,2001,buick,park avenue,UNKNOWN,UNKNOWN,gas,87000.0,clean,autom
 tucson,15800.0,2014,audi,q5 quattro premium plus,excellent,6,gas,99839.0,clean,automatic,4wd,SUV,black,az,32.322292,-110.960999,2021-04-29 17:59:13+00:00,12,2021,4
 fresno / madera,24990.0,2017,toyota,tacoma access cab sr,good,UNKNOWN,gas,72999.0,clean,other,UNKNOWN,pickup,white,ca,33.779214,-84.411811,2021-04-24 11:20:51+00:00,9,2021,4
 huntsville / decatur,27995.0,2014,ram,1500 sport crew cab lwb 4wd,UNKNOWN,UNKNOWN,gas,86325.0,clean,automatic,4wd,pickup,UNKNOWN,al,33.971956,-86.053098,2021-04-08 19:15:17+00:00,12,2021,4
-phoenix,1000.0,2013,toyota,prius,excellent,4,hybrid,138570.0,clean,automatic,fwd,hatchback,black,az,33.380564,-111.81181,2021-05-03 14:35:38+00:00,13,2021,5
 tucson,22590.0,2013,ford,f150 super cab xl pickup 4d,good,6,other,14169.0,clean,other,UNKNOWN,pickup,silver,az,32.21,-110.96,2021-04-23 19:51:11+00:00,13,2021,4
 prescott,35990.0,2019,acura,rdx sh-awd technology pkg,good,UNKNOWN,gas,22100.0,clean,other,UNKNOWN,other,white,az,34.62,-112.42,2021-04-13 18:21:12+00:00,7,2021,4
 fresno / madera,7700.0,2012,gmc,acadia slt,good,6,gas,176000.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,ca,38.5662,-121.3286,2021-05-02 05:28:32+00:00,14,2021,5
@@ -4340,7 +4295,6 @@ texarkana,23995.0,2009,ford,f250 super duty crew cab,UNKNOWN,8,diesel,182184.0,c
 fresno / madera,27995.0,2017,chevrolet,silverado 1500,excellent,6,gas,75588.0,clean,automatic,rwd,UNKNOWN,white,ca,34.19004,-118.387533,2021-04-19 20:19:05+00:00,9,2021,4
 bakersfield,21990.0,2020,mini,hardtop 2 door cooper,good,UNKNOWN,other,8552.0,clean,other,UNKNOWN,hatchback,silver,ca,35.38,-119.02,2021-04-07 14:11:10+00:00,6,2021,4
 fayetteville,16900.0,2014,honda,cr-v,UNKNOWN,UNKNOWN,gas,95309.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,36.188577,-94.138303,2021-04-07 15:56:42+00:00,12,2021,4
-southeast alaska,800.0,1999,toyota,corolla,fair,UNKNOWN,gas,127235.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,ak,58.3628,-134.5294,2021-05-04 19:11:39+00:00,27,2021,5
 fresno / madera,29991.0,2017,mercedes-benz,e-class,UNKNOWN,UNKNOWN,gas,79935.0,clean,automatic,rwd,sedan,white,ca,38.597771,-121.403061,2021-05-01 17:30:20+00:00,9,2021,5
 flagstaff / sedona,28990.0,2019,acura,ilx technology and a-spec,good,UNKNOWN,gas,8256.0,clean,other,fwd,sedan,white,az,33.779214,-84.411811,2021-04-19 12:12:35+00:00,7,2021,4
 auburn,39590.0,2020,chevrolet,silverado 1500 crew,good,8,gas,19160.0,clean,other,UNKNOWN,pickup,red,al,32.59,-85.48,2021-05-04 17:31:25+00:00,6,2021,5
@@ -4350,7 +4304,6 @@ bakersfield,33990.0,2019,toyota,rav4 hybrid xse sport,good,UNKNOWN,hybrid,23963.
 huntsville / decatur,27995.0,2017,nissan,nv2500 hd cargo,UNKNOWN,UNKNOWN,gas,48769.0,clean,automatic,UNKNOWN,UNKNOWN,white,al,34.9506,-85.2432,2021-04-16 20:27:35+00:00,9,2021,4
 phoenix,27590.0,2018,mazda,cx-9 touring sport utility,good,UNKNOWN,other,32850.0,clean,other,fwd,other,UNKNOWN,az,33.5,-112.05,2021-05-04 15:41:15+00:00,8,2021,5
 phoenix,2300.0,2007,chevrolet,impala,good,6,gas,162506.0,rebuilt,automatic,fwd,sedan,white,az,33.640128,-112.057855,2021-05-03 03:46:47+00:00,19,2021,5
-southeast alaska,1000.0,1995,chevrolet,one ton,UNKNOWN,UNKNOWN,gas,130000.0,salvage,manual,UNKNOWN,UNKNOWN,UNKNOWN,ak,58.2756,-134.395,2021-05-04 04:40:19+00:00,31,2021,5
 huntsville / decatur,10990.0,2013,nissan,sentra s sedan 4d,good,UNKNOWN,gas,81557.0,clean,other,fwd,sedan,red,al,34.57,-86.98,2021-04-08 12:18:16+00:00,13,2021,4
 jonesboro,22995.0,2018,gmc,terrain,UNKNOWN,4,gas,25001.0,clean,automatic,fwd,SUV,black,ar,36.059843,-91.909949,2021-05-01 13:00:09+00:00,8,2021,5
 gold country,8000.0,1959,gmc,UNKNOWN,fair,8,gas,1000.0,clean,manual,rwd,UNKNOWN,UNKNOWN,ca,38.4175,-120.7951,2021-04-23 17:01:59+00:00,67,2021,4
@@ -4557,7 +4510,6 @@ birmingham,19900.0,2018,kia,sportage,good,4,gas,35823.0,clean,automatic,fwd,SUV,
 fresno / madera,52950.0,2016,ford,super duty f-250,excellent,8,diesel,110690.0,clean,automatic,4wd,pickup,UNKNOWN,ca,38.903313,-121.075553,2021-04-27 00:30:26+00:00,10,2021,4
 little rock,33996.0,2017,chevrolet,silverado 1500,UNKNOWN,UNKNOWN,gas,91644.0,clean,automatic,4wd,pickup,black,ar,38.4018,-93.785,2021-05-04 17:02:31+00:00,9,2021,5
 tucson,7800.0,2005,toyota,4runner,excellent,8,gas,179151.0,clean,automatic,rwd,SUV,white,az,32.355668,-111.108252,2021-04-25 19:43:10+00:00,21,2021,4
-prescott,741.0,2018,honda,cr v,excellent,4,gas,26262.0,clean,automatic,UNKNOWN,SUV,red,az,34.605818,-112.451775,2021-04-23 17:29:58+00:00,8,2021,4
 chico,37997.0,2015,toyota,tundra 1794 edition 1-owner* local oregon truck since new* blind spot* 2-keys* non smoker* like new in & out* new brakes and service,UNKNOWN,8,gas,114910.0,clean,automatic,4wd,pickup,grey,ca,45.5472,-122.5001,2021-04-20 02:49:54+00:00,11,2021,4
 birmingham,26995.0,2015,ford,f-250,UNKNOWN,UNKNOWN,diesel,210000.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,al,33.521,-86.8066,2021-04-06 14:09:37+00:00,11,2021,4
 flagstaff / sedona,26990.0,2018,alfa-romeo,romeo giulia ti sedan 4d,good,UNKNOWN,gas,14017.0,clean,other,rwd,sedan,white,az,33.7865,-84.4454,2021-04-12 10:50:23+00:00,8,2021,4
@@ -4598,7 +4550,6 @@ tucson,39999.0,2018,chevrolet,silverado,UNKNOWN,UNKNOWN,gas,37003.0,clean,automa
 little rock,28063.0,2018,chevrolet,traverse,UNKNOWN,UNKNOWN,gas,70819.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,38.4018,-93.785,2021-04-17 01:10:33+00:00,8,2021,4
 birmingham,4500.0,2005,toyota,camry xle,like new,4,gas,170000.0,clean,automatic,fwd,sedan,white,al,33.6989,-84.7454,2021-04-24 23:44:09+00:00,21,2021,4
 chico,30777.0,2013,cadillac,escalade,UNKNOWN,UNKNOWN,gas,100468.0,clean,automatic,fwd,SUV,silver,ca,38.605011,-121.401917,2021-05-01 19:21:04+00:00,13,2021,5
-yuma,700.0,2003,ford,Ponitac Grand Am GT,fair,4,gas,293242.0,clean,automatic,fwd,sedan,white,az,32.686582,-114.649697,2021-04-17 19:18:43+00:00,23,2021,4
 birmingham,53990.0,2012,ford,International TerraStar,good,8,diesel,63550.0,clean,automatic,rwd,truck,white,al,40.468785,-74.281707,2021-04-14 21:10:00+00:00,14,2021,4
 mohave county,15000.0,1922,ford,t-bucket roadster,good,4,gas,80000.0,clean,automatic,UNKNOWN,convertible,orange,az,35.3896,-114.2221,2021-04-15 16:07:56+00:00,104,2021,4
 tucson,16900.0,2013,chevrolet,silverado 1500,excellent,8,gas,75588.0,clean,automatic,4wd,truck,blue,az,32.252974,-110.97871,2021-05-01 19:30:21+00:00,13,2021,5
@@ -4626,7 +4577,6 @@ bakersfield,32500.0,1987,volkswagen,vanagon,excellent,4,gas,177313.0,clean,autom
 jonesboro,26995.0,2020,ford,edge,UNKNOWN,4,gas,15524.0,clean,automatic,fwd,SUV,red,ar,36.059843,-91.909949,2021-04-12 21:30:36+00:00,6,2021,4
 little rock,30990.0,2019,lincoln,continental select sedan,good,6,gas,25786.0,clean,other,fwd,sedan,silver,ar,34.72,-92.35,2021-04-08 09:21:03+00:00,7,2021,4
 sierra vista,7500.0,2005,lexus,rx 330,like new,6,gas,159000.0,clean,automatic,fwd,SUV,silver,az,31.5365,-110.2666,2021-04-12 19:30:50+00:00,21,2021,4
-fresno / madera,1000.0,2008,nissan,altima,UNKNOWN,UNKNOWN,gas,110000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.3314,-119.6491,2021-05-03 02:34:02+00:00,18,2021,5
 bakersfield,19999.0,2012,dodge,challenger,excellent,UNKNOWN,gas,86696.0,clean,automatic,rwd,coupe,grey,ca,34.227125,-118.467977,2021-04-28 18:15:58+00:00,14,2021,4
 gold country,3895.0,2003,mercury,sable,excellent,6,gas,85750.0,clean,automatic,fwd,sedan,white,ca,39.363221,-121.686417,2021-05-04 19:12:21+00:00,23,2021,5
 gold country,15995.0,2006,toyota,tundra sr5 access cab 4x4,good,8,gas,62100.0,clean,automatic,4wd,truck,red,ca,39.2019,-121.2026,2021-04-25 22:32:50+00:00,20,2021,4
@@ -4641,7 +4591,6 @@ huntsville / decatur,10000.0,1989,gmc,sierra 1500,excellent,8,gas,155778.0,clean
 fresno / madera,11999.0,2012,hyundai,genesis,excellent,UNKNOWN,gas,79549.0,clean,automatic,rwd,sedan,black,ca,38.627766,-121.400904,2021-04-27 01:00:24+00:00,14,2021,4
 phoenix,14500.0,2015,bmw,3 series 328i,good,4,gas,94104.0,clean,manual,rwd,sedan,UNKNOWN,az,33.569105,-112.06387,2021-05-03 22:50:54+00:00,11,2021,5
 prescott,3900.0,2006,toyota,tundra 2wd truck,fair,6,gas,206300.0,clean,automatic,rwd,UNKNOWN,white,az,34.8185,-112.9584,2021-05-01 17:18:41+00:00,20,2021,5
-prescott,540.0,2019,honda,hr v,excellent,4,gas,21325.0,clean,automatic,fwd,SUV,silver,az,34.605818,-112.451775,2021-04-21 17:30:06+00:00,7,2021,4
 dothan,34990.0,2018,ram,1500 quad cab big horn,good,6,other,22064.0,clean,other,4wd,pickup,silver,al,31.23,-85.4,2021-04-30 15:31:01+00:00,8,2021,4
 fayetteville,9400.0,2011,toyota,sienna le awd,good,6,gas,117000.0,rebuilt,automatic,4wd,mini-van,silver,ar,36.084652,-94.167058,2021-05-03 00:16:07+00:00,15,2021,5
 auburn,35990.0,2019,volvo,s60 t6 r-design sedan 4d,good,UNKNOWN,other,15567.0,clean,other,UNKNOWN,sedan,red,al,32.59,-85.48,2021-04-13 15:01:15+00:00,7,2021,4
@@ -4814,7 +4763,6 @@ fairbanks,15555.0,2008,ford,f250 super duty super cab,UNKNOWN,8,diesel,197412.0,
 birmingham,7480.0,2013,hyundai,sonata gls,UNKNOWN,UNKNOWN,gas,117000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,33.209824,-86.782894,2021-04-23 21:05:47+00:00,13,2021,4
 little rock,28865.0,2015,lexus,rc 350,UNKNOWN,UNKNOWN,gas,70908.0,clean,automatic,UNKNOWN,UNKNOWN,silver,ar,38.4018,-93.785,2021-04-15 16:40:43+00:00,11,2021,4
 bakersfield,28995.0,2017,ford,f-350sd,UNKNOWN,UNKNOWN,other,147053.0,clean,automatic,rwd,UNKNOWN,white,ca,34.070311,-117.446303,2021-04-15 00:00:20+00:00,9,2021,4
-yuma,1000.0,2018,chevrolet,UNKNOWN,UNKNOWN,UNKNOWN,gas,45000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.7093,-114.4905,2021-04-12 16:42:42+00:00,8,2021,4
 birmingham,5970.0,2010,nissan,altima,UNKNOWN,4,gas,122584.0,clean,automatic,fwd,sedan,grey,al,33.209789,-86.783493,2021-04-04 19:30:28+00:00,16,2021,4
 fresno / madera,43430.0,2020,honda,pilot elite,like new,6,gas,10751.0,clean,automatic,4wd,SUV,white,ca,36.6207,-119.7308,2021-04-28 21:44:26+00:00,6,2021,4
 phoenix,19900.0,2016,honda,accord,UNKNOWN,4,gas,28418.0,clean,automatic,fwd,sedan,custom,az,33.639923,-112.1144,2021-05-03 11:32:39+00:00,10,2021,5
@@ -4982,7 +4930,6 @@ mobile,23995.0,2018,jeep,compass,UNKNOWN,4,gas,31029.0,clean,automatic,4wd,SUV,b
 tucson,36990.0,2019,chevrolet,silverado 1500 ld,good,8,gas,15898.0,clean,other,4wd,pickup,blue,az,32.21,-110.96,2021-04-23 19:00:57+00:00,7,2021,4
 bakersfield,30990.0,2014,audi,s5 prestige convertible 2d,good,6,gas,37573.0,clean,automatic,UNKNOWN,convertible,UNKNOWN,ca,35.38,-119.02,2021-04-04 18:21:23+00:00,12,2021,4
 anchorage / mat-su,24995.0,2016,dodge,charger se awd,like new,6,gas,42422.0,clean,automatic,4wd,sedan,black,ak,61.166252,-149.857916,2021-04-29 05:28:36+00:00,10,2021,4
-prescott,810.0,2017,honda,pilot,excellent,6,gas,47675.0,clean,automatic,fwd,SUV,silver,az,34.605818,-112.451775,2021-04-27 17:00:13+00:00,9,2021,4
 fresno / madera,13995.0,2006,ford,f-250 super duty,excellent,UNKNOWN,gas,109178.0,clean,automatic,rwd,pickup,white,ca,37.738239,-120.939159,2021-04-19 20:16:20+00:00,20,2021,4
 fayetteville,30995.0,2018,acura,rdx w/advance 4dr suv,good,6,gas,30140.0,clean,automatic,UNKNOWN,other,black,ar,36.203482,-94.138862,2021-04-15 19:10:50+00:00,8,2021,4
 kenai peninsula,18950.0,2012,ram,2500 crew 4x4,excellent,8,gas,245000.0,clean,automatic,4wd,pickup,white,ak,60.4999,-151.0212,2021-05-02 04:43:25+00:00,14,2021,5
@@ -5283,7 +5230,6 @@ huntsville / decatur,11900.0,2007,chevrolet,silverado 2500,UNKNOWN,UNKNOWN,gas,1
 tucson,9900.0,2006,chevrolet,tahoe,excellent,8,gas,75588.0,clean,automatic,4wd,SUV,silver,az,32.252974,-110.97871,2021-04-22 20:01:32+00:00,20,2021,4
 texarkana,28995.0,2008,gmc,sierra 2500 hd crew cab,UNKNOWN,8,diesel,183141.0,clean,automatic,4wd,pickup,black,ar,30.1237,-95.2686,2021-04-08 20:11:22+00:00,18,2021,4
 anchorage / mat-su,30550.0,2017,mercedes-benz,c 300,UNKNOWN,4,gas,20823.0,clean,automatic,4wd,sedan,white,ak,61.1381,-149.86727,2021-04-29 01:02:34+00:00,9,2021,4
-anchorage / mat-su,800.0,1986,ford,f-350 super duty,salvage,UNKNOWN,gas,200000.0,clean,automatic,4wd,truck,UNKNOWN,ak,61.54823,-149.50736,2021-05-02 01:18:51+00:00,40,2021,5
 huntsville / decatur,8800.0,2005,lexus,ls 430,good,8,gas,162000.0,clean,automatic,rwd,UNKNOWN,UNKNOWN,al,34.9804,-86.8346,2021-04-23 23:07:33+00:00,21,2021,4
 bakersfield,24990.0,2019,ram,pickup 1500 classic,excellent,UNKNOWN,gas,21000.0,clean,automatic,UNKNOWN,pickup,white,ca,36.533226,-119.576488,2021-04-09 15:30:40+00:00,7,2021,4
 anchorage / mat-su,34999.0,2016,porsche,macan,UNKNOWN,6,gas,62005.0,clean,other,4wd,SUV,UNKNOWN,ak,61.21722,-149.86996,2021-04-22 16:02:54+00:00,10,2021,4
@@ -5471,7 +5417,6 @@ fresno / madera,39995.0,2011,ram,2500 laramie 4wd 6.7 cummins,UNKNOWN,6,diesel,1
 tucson,6620.0,2007,toyota,rav4,UNKNOWN,UNKNOWN,gas,216667.0,clean,automatic,4wd,SUV,blue,az,32.23539,-110.916482,2021-04-30 13:08:42+00:00,19,2021,4
 yuma,8800.0,2004,chevrolet,silverado 2500hd,UNKNOWN,UNKNOWN,gas,146000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.7093,-114.4905,2021-04-19 02:17:46+00:00,22,2021,4
 auburn,26990.0,2016,ford,f150 regular cab xl pickup,good,6,gas,14230.0,clean,other,UNKNOWN,pickup,black,al,32.59,-85.48,2021-04-28 16:01:11+00:00,10,2021,4
-birmingham,1000.0,2021,ford,SPECIAL FINANCE PROGRAM 2021,fair,UNKNOWN,other,1400.0,clean,other,UNKNOWN,bus,green,al,32.9229,-86.545,2021-04-07 19:13:21+00:00,5,2021,4
 phoenix,5200.0,1994,ford,ranger xlt,good,6,gas,169000.0,clean,manual,4wd,truck,red,az,33.522232,-112.283751,2021-05-02 19:23:01+00:00,32,2021,5
 fresno / madera,4500.0,2001,saturn,l-series l300 sedan,excellent,6,gas,89588.0,clean,automatic,fwd,sedan,red,ca,36.77038,-119.699843,2021-05-03 17:44:09+00:00,25,2021,5
 tucson,12900.0,2010,ford,f-150,excellent,8,gas,75588.0,clean,automatic,rwd,pickup,red,az,32.252974,-110.97871,2021-04-26 19:47:02+00:00,16,2021,4
@@ -5609,7 +5554,6 @@ phoenix,17600.0,2015,chevrolet,colorado lt,UNKNOWN,4,gas,127150.0,clean,automati
 phoenix,13700.0,2017,toyota,corolla,excellent,UNKNOWN,gas,46000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.3354,-111.8153,2021-05-03 21:02:15+00:00,9,2021,5
 anchorage / mat-su,27999.0,2013,lexus,gs 350 awd,excellent,6,gas,63629.0,clean,automatic,4wd,sedan,silver,ak,61.166353,-149.847206,2021-04-22 21:31:54+00:00,13,2021,4
 birmingham,2800.0,2009,nissan,versa,UNKNOWN,UNKNOWN,gas,109000.0,rebuilt,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,33.6053,-84.4813,2021-05-03 22:21:15+00:00,17,2021,5
-tucson,600.0,1998,buick,century,fair,6,gas,190000.0,clean,automatic,UNKNOWN,UNKNOWN,blue,az,32.2127,-110.8829,2021-05-04 19:15:01+00:00,28,2021,5
 phoenix,9995.0,2008,chevrolet,silverado 1500,excellent,6,gas,123000.0,clean,automatic,rwd,UNKNOWN,UNKNOWN,az,33.693829,-112.100018,2021-05-04 18:40:42+00:00,18,2021,5
 birmingham,21990.0,2019,toyota,camry l sedan 4d,good,UNKNOWN,other,5607.0,clean,other,UNKNOWN,sedan,red,al,33.52,-86.79,2021-04-30 03:11:07+00:00,7,2021,4
 huntsville / decatur,11000.0,2007,honda,ridgeline,good,6,gas,125000.0,clean,automatic,4wd,pickup,silver,al,34.5484,-87.0004,2021-05-02 15:40:46+00:00,19,2021,5
@@ -5709,7 +5653,6 @@ tucson,17995.0,2018,chevrolet,colorado,excellent,4,gas,119316.0,clean,automatic,
 tucson,7295.0,2006,nissan,armada,good,8,gas,126340.0,clean,automatic,4wd,SUV,silver,az,32.195597,-110.874466,2021-04-29 16:45:42+00:00,20,2021,4
 prescott,25990.0,2017,toyota,tacoma access cab sr,good,UNKNOWN,gas,22820.0,clean,other,UNKNOWN,pickup,UNKNOWN,az,34.62,-112.42,2021-04-17 17:01:01+00:00,9,2021,4
 anchorage / mat-su,27999.0,2013,ford,f-150 king ranch,good,6,gas,100458.0,clean,automatic,4wd,truck,brown,ak,61.166353,-149.847206,2021-04-09 21:01:27+00:00,13,2021,4
-gold country,800.0,2002,chrysler,pt cruiser,good,UNKNOWN,gas,150000.0,clean,automatic,fwd,UNKNOWN,silver,ca,39.0031,-121.0292,2021-04-18 15:42:23+00:00,24,2021,4
 fresno / madera,15900.0,2019,nissan,rogue sport,UNKNOWN,UNKNOWN,gas,31685.0,clean,automatic,fwd,hatchback,UNKNOWN,ca,36.605403,-119.556195,2021-04-21 23:25:37+00:00,7,2021,4
 bakersfield,2000.0,1995,nissan,UNKNOWN,good,4,gas,160000.0,salvage,manual,rwd,pickup,red,ca,35.3935,-119.1205,2021-04-15 21:28:17+00:00,31,2021,4
 tucson,2250.0,2004,acura,mdx,UNKNOWN,UNKNOWN,gas,200000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,32.169772,-110.98938,2021-05-02 20:00:23+00:00,22,2021,5
@@ -5896,7 +5839,6 @@ birmingham,9900.0,2013,gmc,terrain,UNKNOWN,6,gas,148285.0,clean,automatic,fwd,UN
 fresno / madera,39995.0,2016,ford,f-250 super duty 4x2 2dr re,UNKNOWN,UNKNOWN,gas,35000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.1149,-115.2161,2021-04-26 15:00:59+00:00,10,2021,4
 fayetteville,9999.0,2017,volkswagen,jetta,UNKNOWN,UNKNOWN,gas,102000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,36.176503,-94.23465,2021-04-14 15:37:19+00:00,9,2021,4
 prescott,10500.0,2012,jeep,liberty limited,excellent,6,gas,63500.0,clean,automatic,UNKNOWN,SUV,green,az,34.894205,-111.874246,2021-04-19 06:45:45+00:00,14,2021,4
-anchorage / mat-su,1000.0,2002,ford,%,fair,6,gas,280222.0,clean,automatic,fwd,mini-van,orange,ak,61.165241,-149.894603,2021-04-26 22:44:29+00:00,24,2021,4
 phoenix,7500.0,2006,ford,mustang gt,good,8,gas,200000.0,clean,manual,UNKNOWN,UNKNOWN,red,az,33.3054,-111.7408,2021-05-02 21:24:12+00:00,20,2021,5
 fresno / madera,8950.0,2005,lexus,rx 330,excellent,6,gas,153485.0,clean,automatic,4wd,SUV,UNKNOWN,ca,36.905852,-119.794299,2021-04-30 21:21:14+00:00,21,2021,4
 flagstaff / sedona,45590.0,2019,toyota,tundra crewmax limited,good,8,gas,10056.0,clean,other,UNKNOWN,pickup,silver,az,33.7865,-84.4454,2021-04-13 11:30:20+00:00,7,2021,4
@@ -6033,7 +5975,6 @@ phoenix,22590.0,2019,honda,clarity plug-in hybrid,good,UNKNOWN,gas,32706.0,clean
 huntsville / decatur,2900.0,2007,nissan,altima,like new,4,gas,176067.0,clean,automatic,rwd,sedan,white,al,36.2306,-86.519448,2021-04-09 19:31:37+00:00,19,2021,4
 anchorage / mat-su,46988.0,2019,nissan,armada platinum automatic,UNKNOWN,UNKNOWN,gas,36754.0,clean,automatic,4wd,SUV,silver,ak,61.15819,-149.86614,2021-04-16 15:20:40+00:00,7,2021,4
 prescott,44995.0,2015,chevrolet,silverado 2500 ltz crew cab 6.6 duramax,UNKNOWN,8,diesel,140041.0,clean,automatic,4wd,pickup,brown,az,33.396353,-111.954863,2021-04-16 23:50:01+00:00,11,2021,4
-anchorage / mat-su,900.0,2003,volkswagen,passat,UNKNOWN,UNKNOWN,gas,134000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ak,61.600992,-149.362822,2021-04-13 21:02:58+00:00,23,2021,4
 huntsville / decatur,38995.0,2012,ford,f-250 super duty,UNKNOWN,UNKNOWN,gas,9205.0,clean,automatic,4wd,UNKNOWN,white,al,34.9506,-85.2432,2021-05-03 14:53:41+00:00,14,2021,5
 fayetteville,24900.0,2018,subaru,wrx,UNKNOWN,UNKNOWN,gas,34227.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,36.188577,-94.138303,2021-04-14 20:03:02+00:00,8,2021,4
 little rock,37917.0,2015,jeep,wrangler unlimited,UNKNOWN,UNKNOWN,gas,36767.0,clean,automatic,4wd,convertible,UNKNOWN,ar,38.4018,-93.785,2021-04-08 23:15:19+00:00,11,2021,4
@@ -6041,7 +5982,6 @@ phoenix,10500.0,2010,audi,a6 3.0t quattro,excellent,UNKNOWN,gas,134000.0,clean,a
 anchorage / mat-su,31995.0,2019,toyota,highlander,UNKNOWN,UNKNOWN,gas,27483.0,clean,automatic,4wd,wagon,silver,ak,61.16167,-149.86312,2021-04-13 21:38:37+00:00,7,2021,4
 huntsville / decatur,18590.0,2017,mitsubishi,outlander sport es,good,UNKNOWN,other,18994.0,clean,other,4wd,hatchback,blue,al,34.57,-86.98,2021-04-22 19:51:00+00:00,9,2021,4
 fayetteville,13457.0,2014,chevrolet,malibu ls,good,UNKNOWN,other,35819.0,clean,automatic,fwd,sedan,white,ar,36.093598,-94.19146,2021-04-21 20:50:39+00:00,12,2021,4
-phoenix,607.0,2019,honda,civic,excellent,4,gas,21839.0,clean,automatic,fwd,sedan,blue,az,34.605818,-112.451775,2021-05-03 17:59:20+00:00,7,2021,5
 flagstaff / sedona,34590.0,2016,toyota,tundra crewmax sr5 pickup,good,8,gas,49798.0,clean,other,UNKNOWN,pickup,UNKNOWN,az,33.7865,-84.4454,2021-04-21 11:50:12+00:00,10,2021,4
 phoenix,11500.0,2013,volkswagen,tiguan,good,4,gas,26794.0,clean,automatic,fwd,SUV,black,az,33.6186,-111.92237,2021-05-04 17:03:26+00:00,13,2021,5
 prescott,25990.0,2013,toyota,tundra crewmax pickup 4d,good,8,gas,98879.0,clean,other,UNKNOWN,pickup,white,az,34.62,-112.42,2021-05-02 19:50:53+00:00,13,2021,5
@@ -6184,7 +6124,6 @@ phoenix,12999.0,2011,mercedes-benz,benz gl550 4matic,excellent,8,gas,157467.0,cl
 tucson,42997.0,2015,toyota,4runner sr5 premium 25k in add ons and modifications * overland 4x4 ready* all keys*remote start* full icon lift set up* full gobi roof rack set up w/ tent* upgraded sound,UNKNOWN,6,gas,79355.0,clean,automatic,4wd,SUV,white,az,45.5472,-122.5001,2021-04-22 00:34:54+00:00,11,2021,4
 fresno / madera,3850.0,2014,chrysler,200,good,4,gas,99000.0,salvage,automatic,fwd,UNKNOWN,grey,ca,36.755049,-119.727375,2021-04-25 21:23:06+00:00,12,2021,4
 phoenix,19990.0,2017,mercedes-benz,c-class,UNKNOWN,4,gas,103782.0,clean,automatic,rwd,sedan,grey,az,33.631619,-111.919366,2021-05-03 17:40:37+00:00,9,2021,5
-flagstaff / sedona,755.0,2019,honda,odyssey,excellent,6,gas,21351.0,clean,automatic,fwd,mini-van,silver,az,34.605818,-112.451775,2021-04-09 17:00:08+00:00,7,2021,4
 huntsville / decatur,32590.0,2020,cadillac,xt4 sport suv 4d,good,UNKNOWN,gas,14913.0,clean,other,UNKNOWN,hatchback,silver,al,34.57,-86.98,2021-04-19 15:31:01+00:00,6,2021,4
 anchorage / mat-su,29995.0,2018,honda,cr-v,UNKNOWN,4,gas,26210.0,clean,automatic,4wd,SUV,white,ak,61.56939,-149.35645,2021-04-16 17:07:27+00:00,8,2021,4
 fairbanks,10730.0,2011,chevrolet,silverado 1500,fair,UNKNOWN,gas,131700.0,rebuilt,automatic,UNKNOWN,truck,white,ak,64.8378,-147.7164,2021-04-29 22:36:31+00:00,15,2021,4
@@ -6267,7 +6206,6 @@ tucson,7499.0,2010,mazda,mazda6,UNKNOWN,UNKNOWN,gas,149219.0,clean,automatic,UNK
 fresno / madera,29000.0,1976,pontiac,firebird ta,excellent,8,gas,76000.0,clean,automatic,rwd,coupe,yellow,ca,36.5358,-119.8446,2021-04-20 21:42:57+00:00,50,2021,4
 fort smith,4950.0,2002,chevrolet,tahoe z71 4x4,UNKNOWN,UNKNOWN,gas,232000.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,ar,35.3653,-94.411,2021-04-14 20:12:22+00:00,24,2021,4
 show low,15000.0,2004,subaru,wrx wagon,excellent,4,gas,181000.0,clean,manual,4wd,UNKNOWN,silver,az,34.1077,-109.294,2021-04-13 21:27:08+00:00,22,2021,4
-tucson,700.0,1994,chevrolet,camaro,UNKNOWN,6,gas,166965.0,clean,automatic,UNKNOWN,coupe,UNKNOWN,az,32.2691,-110.9845,2021-05-04 18:14:50+00:00,32,2021,5
 anchorage / mat-su,8950.0,2012,ford,flex,excellent,6,gas,157614.0,clean,automatic,fwd,wagon,brown,ak,61.166776,-149.8683,2021-04-22 01:35:54+00:00,14,2021,4
 fresno / madera,45000.0,2014,ram,2500 mega cab,excellent,UNKNOWN,diesel,102700.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.8253,-119.6802,2021-05-03 18:28:48+00:00,12,2021,5
 sierra vista,45590.0,2020,acura,mdx advance pkg sport,good,6,gas,3687.0,clean,other,fwd,SUV,white,az,31.59,-110.17,2021-04-04 14:01:38+00:00,6,2021,4
@@ -6721,7 +6659,6 @@ little rock,9200.0,1996,ford,f800,good,6,diesel,196000.0,clean,automatic,rwd,oth
 chico,25999.0,2015,ram,1500,UNKNOWN,UNKNOWN,gas,88000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,39.3532,-121.7137,2021-04-19 19:34:25+00:00,11,2021,4
 anchorage / mat-su,36975.0,2019,jeep,grand cherokee limited 4x4,UNKNOWN,UNKNOWN,gas,41188.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ak,61.573915,-149.399197,2021-04-05 19:47:11+00:00,7,2021,4
 birmingham,22990.0,2017,infiniti,qx50 sport utility 4d,good,UNKNOWN,other,21297.0,clean,other,UNKNOWN,hatchback,black,al,33.52,-86.79,2021-04-22 18:30:36+00:00,9,2021,4
-mobile,800.0,2006,mazda,3,fair,4,gas,1234.0,clean,automatic,fwd,sedan,grey,al,30.5222,-87.7457,2021-04-04 21:41:33+00:00,20,2021,4
 florence / muscle shoals,14990.0,2016,ford,Scion iM Hatchback 4D,good,UNKNOWN,gas,65203.0,clean,other,fwd,hatchback,red,al,33.779214,-84.411811,2021-04-13 15:41:28+00:00,10,2021,4
 huntsville / decatur,21990.0,2020,hyundai,sonata se sedan 4d,good,UNKNOWN,other,13793.0,clean,other,UNKNOWN,sedan,blue,al,34.57,-86.98,2021-04-04 19:01:34+00:00,6,2021,4
 huntsville / decatur,16989.0,2014,gmc,acadia,UNKNOWN,6,gas,82459.0,clean,automatic,fwd,SUV,grey,al,36.138037,-86.731163,2021-04-29 17:12:02+00:00,12,2021,4
@@ -6813,7 +6750,6 @@ phoenix,12944.0,2015,hyundai,sonata sport 2.0t sedan,UNKNOWN,UNKNOWN,gas,111127.
 anchorage / mat-su,9999.0,2015,chevrolet,cruze,UNKNOWN,4,gas,84763.0,clean,other,fwd,sedan,green,ak,61.572407,-149.375517,2021-04-22 16:36:11+00:00,11,2021,4
 anchorage / mat-su,11991.0,2018,ford,fiesta,UNKNOWN,4,gas,45368.0,clean,automatic,fwd,sedan,silver,ak,61.180231,-149.869503,2021-04-30 17:35:53+00:00,8,2021,4
 tucson,11495.0,2015,honda,civic,UNKNOWN,4,gas,104399.0,clean,automatic,fwd,sedan,silver,az,32.271329,-110.993712,2021-04-30 12:20:18+00:00,11,2021,4
-gold country,783.0,2021,jeep,wrangler sahara,excellent,6,hybrid,9.0,clean,automatic,4wd,other,UNKNOWN,ca,39.140569,-121.656918,2021-04-28 15:32:21+00:00,5,2021,4
 fresno / madera,4999.0,2008,saturn,aura,excellent,UNKNOWN,gas,152934.0,clean,automatic,fwd,sedan,UNKNOWN,ca,37.803997,-121.216343,2021-04-18 21:42:22+00:00,18,2021,4
 jonesboro,3000.0,1995,nissan,UNKNOWN,UNKNOWN,UNKNOWN,gas,254767.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,36.2672,-90.2702,2021-04-17 23:31:07+00:00,31,2021,4
 huntsville / decatur,28990.0,2018,lincoln,mkx select sport utility,good,6,gas,27343.0,clean,other,UNKNOWN,SUV,UNKNOWN,al,34.57,-86.98,2021-04-11 18:41:10+00:00,8,2021,4
@@ -7008,7 +6944,6 @@ southeast alaska,14995.0,2019,nissan,versa,UNKNOWN,UNKNOWN,gas,32245.0,clean,aut
 little rock,6995.0,2013,chevrolet,cruze lt,UNKNOWN,UNKNOWN,gas,411.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,34.560046,-92.585841,2021-04-30 13:27:18+00:00,13,2021,4
 gold country,7499.0,2011,subaru,outback 2.5i,UNKNOWN,4,gas,171656.0,clean,automatic,4wd,wagon,red,ca,38.905363,-121.0774,2021-04-29 23:30:39+00:00,15,2021,4
 bakersfield,4300.0,2007,bmw,328i,UNKNOWN,UNKNOWN,gas,140000.0,salvage,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,35.3729,-119.0001,2021-04-28 20:31:36+00:00,19,2021,4
-kenai peninsula,850.0,1994,ford,ranger,good,4,gas,250000.0,clean,manual,4wd,pickup,blue,ak,59.5374,-151.2356,2021-04-27 23:31:47+00:00,32,2021,4
 phoenix,13999.0,2006,chrysler,town and country,excellent,6,gas,173008.0,clean,automatic,UNKNOWN,van,UNKNOWN,az,33.422577,-112.053651,2021-05-03 14:21:51+00:00,20,2021,5
 little rock,3650.0,2007,chrysler,pt crusier,good,UNKNOWN,gas,158000.0,clean,automatic,fwd,wagon,black,ar,34.5751,-92.544,2021-04-28 18:05:46+00:00,19,2021,4
 jonesboro,17483.0,2016,nissan,altima sr,excellent,4,gas,64714.0,clean,automatic,fwd,sedan,white,ar,35.172002,-89.943849,2021-05-01 02:31:02+00:00,10,2021,5
@@ -7338,7 +7273,6 @@ jonesboro,8250.0,2007,gmc,yukon,UNKNOWN,UNKNOWN,gas,261000.0,clean,automatic,UNK
 phoenix,12995.0,2014,hyundai,tucson gls,excellent,4,gas,74553.0,clean,automatic,fwd,SUV,UNKNOWN,az,33.5943,-112.1746,2021-05-03 16:51:24+00:00,12,2021,5
 gold country,8999.0,2015,chevrolet,sonic,good,4,gas,85739.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,37.7741,-120.8377,2021-05-01 00:19:21+00:00,11,2021,5
 birmingham,21790.0,2016,chevrolet,silverado 1500 lt,good,6,gas,100662.0,clean,automatic,rwd,pickup,white,al,33.9382,-84.5403,2021-04-21 15:53:11+00:00,10,2021,4
-prescott,850.0,1990,volvo,240 dl,fair,4,gas,164000.0,clean,automatic,rwd,sedan,silver,az,34.7757,-112.4731,2021-04-18 02:35:00+00:00,36,2021,4
 phoenix,6900.0,2010,toyota,scion xb,like new,UNKNOWN,gas,158000.0,clean,automatic,UNKNOWN,wagon,UNKNOWN,az,33.63949,-112.118053,2021-05-02 21:40:13+00:00,16,2021,5
 tucson,32900.0,2012,ford,f-350 super duty,excellent,UNKNOWN,diesel,166896.0,clean,automatic,4wd,UNKNOWN,white,az,32.252346,-110.978729,2021-04-26 18:03:15+00:00,14,2021,4
 tucson,9900.0,2011,volkswagen,golf,excellent,UNKNOWN,diesel,90394.0,clean,automatic,fwd,UNKNOWN,black,az,32.252346,-110.978729,2021-05-03 19:32:20+00:00,15,2021,5
@@ -7408,10 +7342,7 @@ chico,19990.0,2019,mitsubishi,outlander es sport,good,UNKNOWN,gas,35819.0,clean,
 tucson,11995.0,2016,jeep,patriot,excellent,4,gas,76000.0,clean,automatic,fwd,SUV,grey,az,32.25,-110.8869,2021-04-29 06:01:25+00:00,10,2021,4
 fresno / madera,11700.0,2007,chevrolet,tahoe,UNKNOWN,8,gas,199544.0,clean,automatic,UNKNOWN,SUV,black,ca,36.770764,-119.699392,2021-05-02 17:01:13+00:00,19,2021,5
 huntsville / decatur,31900.0,2013,ford,f350,UNKNOWN,UNKNOWN,gas,95000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,35.265997,-87.322254,2021-04-23 22:28:39+00:00,13,2021,4
-chico,541.0,2011,ram,2500,UNKNOWN,6,diesel,62711.0,clean,automatic,4wd,truck,UNKNOWN,ca,38.01787,-121.268904,2021-04-21 14:08:19+00:00,15,2021,4
 prescott,40995.0,2018,jeep,wrangler unlimited sport s,UNKNOWN,6,gas,26335.0,clean,automatic,4wd,SUV,white,az,33.396353,-111.954863,2021-04-16 23:17:07+00:00,8,2021,4
-phoenix,879.0,2020,mercedes-benz,gle gle 350,excellent,4,gas,26313.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,33.638441,-112.266352,2021-05-04 14:41:06+00:00,6,2021,5
-gold country,919.0,2020,jeep,gladiator rubicon,excellent,6,gas,60.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-24 15:33:24+00:00,6,2021,4
 flagstaff / sedona,6200.0,2011,subaru,outback,good,4,gas,189110.0,clean,automatic,4wd,wagon,grey,az,35.173029,-111.679909,2021-04-22 20:08:42+00:00,15,2021,4
 little rock,31900.0,2013,ford,f150,UNKNOWN,6,gas,65000.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,ar,36.7284,-91.8717,2021-05-03 16:03:30+00:00,13,2021,5
 yuma,27500.0,2014,jeep,wrangler,excellent,UNKNOWN,gas,109000.0,clean,automatic,4wd,UNKNOWN,black,az,34.4228,-114.125,2021-04-15 00:40:46+00:00,12,2021,4
@@ -7555,14 +7486,12 @@ phoenix,5695.0,2002,lexus,sc430 convertible,good,8,gas,232000.0,clean,automatic,
 texarkana,30590.0,2020,ford,mustang ecoboost,good,UNKNOWN,gas,30588.0,clean,other,rwd,other,silver,ar,33.779214,-84.411811,2021-05-02 12:55:23+00:00,6,2021,5
 mobile,6499.0,2000,toyota,4runner,good,6,gas,236552.0,clean,automatic,rwd,UNKNOWN,black,al,30.6975,-88.1029,2021-04-24 03:07:43+00:00,26,2021,4
 tuscaloosa,24590.0,2013,gmc,sierra 1500 extended cab slt,good,8,other,80318.0,clean,other,UNKNOWN,pickup,UNKNOWN,al,33.23,-87.54,2021-04-27 16:21:24+00:00,13,2021,4
-fresno / madera,900.0,1997,chevrolet,lumina,fair,6,gas,142000.0,clean,automatic,fwd,UNKNOWN,brown,ca,36.74,-119.7532,2021-04-30 23:05:15+00:00,29,2021,4
 tucson,7999.0,2000,chevrolet,camaro z28,UNKNOWN,UNKNOWN,gas,118000.0,clean,automatic,UNKNOWN,convertible,UNKNOWN,az,32.1707,-110.9719,2021-04-30 02:11:29+00:00,26,2021,4
 bakersfield,32588.0,2019,chevrolet,silverado 1500,UNKNOWN,8,gas,13605.0,clean,automatic,rwd,truck,white,ca,34.070422,-117.383339,2021-04-16 04:00:32+00:00,7,2021,4
 fresno / madera,28990.0,2020,subaru,wrx sedan 4d,good,UNKNOWN,gas,12567.0,clean,other,UNKNOWN,sedan,blue,ca,33.779214,-84.411811,2021-04-30 14:01:21+00:00,6,2021,4
 montgomery,25590.0,2015,gmc,sierra 1500 regular cab,good,6,other,35290.0,clean,other,UNKNOWN,pickup,white,al,32.35,-86.28,2021-04-30 16:21:09+00:00,11,2021,4
 fresno / madera,2999.0,2003,ford,mistubishi lancer,excellent,4,gas,190407.0,clean,automatic,fwd,sedan,UNKNOWN,ca,37.6236,-120.9966,2021-04-19 17:54:55+00:00,23,2021,4
 phoenix,9499.0,2010,ford,fusion sport,good,6,gas,90000.0,clean,automatic,fwd,sedan,red,az,33.415592,-111.658001,2021-05-04 17:49:39+00:00,16,2021,5
-sierra vista,1000.0,1994,ford,explorer eddie bauer,fair,6,gas,260000.0,clean,automatic,4wd,SUV,white,az,31.392,-109.632697,2021-04-28 15:35:33+00:00,32,2021,4
 anchorage / mat-su,21999.0,2015,volvo,xc60,UNKNOWN,6,gas,95856.0,clean,automatic,UNKNOWN,SUV,white,ak,61.2116,-149.8761,2021-04-30 18:05:01+00:00,11,2021,4
 huntsville / decatur,21900.0,2012,chevrolet,silverado 2500,UNKNOWN,UNKNOWN,gas,104000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,35.265997,-87.322254,2021-04-29 19:16:05+00:00,14,2021,4
 florence / muscle shoals,46990.0,2014,chevrolet,corvette stingray,good,8,gas,16966.0,clean,other,rwd,other,white,al,33.779214,-84.411811,2021-04-18 13:53:44+00:00,12,2021,4
@@ -7598,7 +7527,6 @@ phoenix,9200.0,2010,mazda,cx-9 grand touring,excellent,6,gas,120000.0,clean,auto
 birmingham,11977.0,2014,buick,verano,UNKNOWN,UNKNOWN,gas,54693.0,clean,automatic,fwd,UNKNOWN,silver,al,33.168322,-87.491902,2021-04-27 13:47:59+00:00,12,2021,4
 anchorage / mat-su,16961.0,2019,toyota,corolla,UNKNOWN,4,gas,29854.0,clean,automatic,fwd,sedan,white,ak,61.572407,-149.375517,2021-04-23 16:03:14+00:00,7,2021,4
 tucson,15590.0,2013,toyota,prius four hatchback 4d,good,UNKNOWN,hybrid,61307.0,clean,other,fwd,hatchback,UNKNOWN,az,32.21,-110.96,2021-04-24 18:11:02+00:00,13,2021,4
-gold country,775.0,2021,jeep,gladiator mojave,excellent,6,gas,10.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-23 21:33:14+00:00,5,2021,4
 tucson,19990.0,2017,hyundai,sonata plug-in hybrid,good,UNKNOWN,hybrid,29254.0,clean,manual,fwd,sedan,white,az,32.21,-110.96,2021-05-03 13:31:49+00:00,9,2021,5
 gadsden-anniston,37590.0,2019,ford,f150 supercrew cab xl,good,6,gas,8663.0,clean,other,UNKNOWN,pickup,UNKNOWN,al,34.01,-86.01,2021-05-03 16:00:55+00:00,7,2021,5
 phoenix,7000.0,2014,nissan,sentra,UNKNOWN,UNKNOWN,gas,89808.0,clean,automatic,fwd,UNKNOWN,black,az,33.606762,-112.4231,2021-05-02 13:46:59+00:00,12,2021,5
@@ -7678,7 +7606,6 @@ montgomery,32590.0,2020,ford,Genesis G70 2.0T Sedan 4D,good,UNKNOWN,other,4171.0
 tucson,16999.0,2013,toyota,sienna,excellent,UNKNOWN,gas,99100.0,clean,automatic,fwd,mini-van,silver,az,32.260949,-110.96056,2021-05-04 17:00:33+00:00,13,2021,5
 phoenix,9990.0,2011,bmw,3-series,UNKNOWN,UNKNOWN,other,91017.0,clean,automatic,rwd,sedan,UNKNOWN,az,32.24951,-110.972417,2021-05-04 16:00:24+00:00,15,2021,5
 phoenix,10400.0,2015,chevrolet,malibu,excellent,4,gas,90482.0,clean,automatic,fwd,sedan,silver,az,33.2414,-111.7745,2021-05-04 03:41:01+00:00,11,2021,5
-fresno / madera,1000.0,1990,chevrolet,cargo van,fair,UNKNOWN,gas,42000.0,clean,automatic,UNKNOWN,van,white,ca,36.7918,-119.8801,2021-04-19 04:23:03+00:00,36,2021,4
 birmingham,16990.0,2018,hyundai,sonata se sedan 4d,good,UNKNOWN,gas,31871.0,clean,other,fwd,sedan,red,al,33.52,-86.79,2021-04-20 16:40:55+00:00,8,2021,4
 phoenix,5995.0,2003,toyota,camry le,UNKNOWN,UNKNOWN,gas,137747.0,clean,automatic,UNKNOWN,sedan,silver,az,33.407746,-111.853233,2021-05-03 17:32:06+00:00,23,2021,5
 montgomery,31990.0,2020,mazda,mx-5 miata grand touring,good,UNKNOWN,gas,2408.0,clean,other,rwd,other,white,al,32.35,-86.28,2021-04-23 12:34:33+00:00,6,2021,4
@@ -7864,7 +7791,6 @@ fayetteville,24995.0,2016,ram,1500,excellent,8,gas,140327.0,clean,automatic,4wd,
 anchorage / mat-su,24999.0,2017,bmw,320i xdrive,UNKNOWN,4,gas,33446.0,clean,other,4wd,sedan,grey,ak,61.21722,-149.86996,2021-04-24 01:02:18+00:00,9,2021,4
 anchorage / mat-su,25995.0,2019,gmc,terrain,UNKNOWN,UNKNOWN,gas,27173.0,clean,automatic,UNKNOWN,SUV,black,ak,61.16167,-149.86312,2021-04-29 19:50:47+00:00,7,2021,4
 anchorage / mat-su,47988.0,2017,ford,f-150,UNKNOWN,UNKNOWN,gas,38360.0,clean,automatic,4wd,pickup,red,ak,61.5729,-149.38131,2021-04-16 15:54:19+00:00,9,2021,4
-fayetteville,600.0,2013,ford,SUPER EASY FINANCE,excellent,4,diesel,111111.0,clean,automatic,fwd,SUV,grey,ar,36.17528,-94.171629,2021-04-19 16:32:09+00:00,13,2021,4
 bakersfield,28990.0,2012,chevrolet,silverado 2500hd,excellent,UNKNOWN,gas,14921.0,clean,automatic,UNKNOWN,pickup,white,ca,36.533226,-119.576488,2021-04-09 15:32:53+00:00,14,2021,4
 auburn,29990.0,2014,chevrolet,silverado 1500 double,good,8,gas,26129.0,clean,other,4wd,pickup,brown,al,32.59,-85.48,2021-04-26 13:42:39+00:00,12,2021,4
 fresno / madera,24999.0,2016,bmw,x4 xdrive28i,UNKNOWN,4,gas,46000.0,clean,automatic,4wd,SUV,black,ca,38.614287,-121.270495,2021-04-22 21:34:58+00:00,10,2021,4
@@ -8156,7 +8082,6 @@ mobile,27295.0,2014,chevrolet,silverado 1500,UNKNOWN,8,gas,129649.0,clean,automa
 mohave county,6995.0,2007,chevrolet,hhr ls,good,4,gas,92936.0,clean,automatic,fwd,sedan,orange,az,35.108345,-114.598191,2021-04-27 19:37:14+00:00,19,2021,4
 fresno / madera,30777.0,2010,chevrolet,silverado 1500,UNKNOWN,8,gas,11677.0,clean,automatic,4wd,truck,black,ca,34.070422,-117.383339,2021-05-01 18:01:13+00:00,16,2021,5
 huntsville / decatur,35990.0,2019,bmw,5 series 530e xdrive,good,UNKNOWN,gas,19260.0,clean,other,UNKNOWN,sedan,white,al,34.57,-86.98,2021-04-11 17:41:03+00:00,7,2021,4
-gold country,965.0,2021,ram,2500 big horn,excellent,6,diesel,7.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-23 15:32:51+00:00,5,2021,4
 tucson,17900.0,2014,ford,expedition,excellent,UNKNOWN,gas,120098.0,clean,automatic,4wd,UNKNOWN,red,az,32.252346,-110.978729,2021-04-26 18:02:57+00:00,12,2021,4
 sierra vista,7999.0,2005,lexus,is 300,good,6,gas,171224.0,clean,automatic,rwd,sedan,UNKNOWN,az,32.235669,-110.864815,2021-04-08 20:30:42+00:00,21,2021,4
 fresno / madera,21999.0,2007,ford,f-150,UNKNOWN,8,gas,60000.0,clean,automatic,4wd,truck,blue,ca,38.614287,-121.270495,2021-04-22 21:37:37+00:00,19,2021,4
@@ -8284,7 +8209,6 @@ bakersfield,12495.0,2017,hyundai,elantra se,UNKNOWN,4,gas,30805.0,clean,automati
 fayetteville,29995.0,2014,chevrolet,silverado 1500 work,good,6,other,18681.0,clean,automatic,UNKNOWN,pickup,white,ar,36.093434,-94.153768,2021-04-13 21:00:58+00:00,12,2021,4
 fayetteville,9988.0,2016,chevrolet,spark ls,good,UNKNOWN,other,64505.0,clean,automatic,fwd,hatchback,UNKNOWN,ar,36.093598,-94.19146,2021-04-06 20:31:05+00:00,10,2021,4
 phoenix,16590.0,2016,nissan,juke s sport utility 4d,good,UNKNOWN,other,47519.0,clean,other,UNKNOWN,hatchback,black,az,33.44,-111.8,2021-05-02 17:31:03+00:00,10,2021,5
-flagstaff / sedona,741.0,2018,honda,cr v,excellent,4,gas,26262.0,clean,automatic,UNKNOWN,SUV,red,az,34.605818,-112.451775,2021-04-09 17:29:25+00:00,8,2021,4
 huntsville / decatur,21989.0,2013,lexus,ls 460,UNKNOWN,8,gas,143101.0,clean,automatic,UNKNOWN,sedan,white,al,36.138037,-86.731163,2021-05-02 18:12:24+00:00,13,2021,5
 little rock,5500.0,2009,jeep,grand cherokee,excellent,6,gas,122543.0,salvage,automatic,4wd,SUV,blue,ar,35.072761,-91.890955,2021-04-13 10:54:47+00:00,17,2021,4
 phoenix,5500.0,2014,ford,focus,UNKNOWN,UNKNOWN,gas,0.0,clean,automatic,fwd,hatchback,UNKNOWN,az,33.606762,-112.4231,2021-05-04 13:33:12+00:00,12,2021,5
@@ -8522,7 +8446,6 @@ little rock,15000.0,1970,chevrolet,nova,good,8,gas,28521.0,clean,manual,rwd,coup
 little rock,19990.0,2020,mitsubishi,outlander sport es,good,UNKNOWN,other,11103.0,clean,other,UNKNOWN,hatchback,orange,ar,34.72,-92.35,2021-04-08 09:40:23+00:00,6,2021,4
 little rock,2500.0,2007,cadillac,cts,excellent,6,gas,118360.0,clean,automatic,UNKNOWN,UNKNOWN,silver,ar,34.5268,-92.9587,2021-04-15 21:37:19+00:00,19,2021,4
 tucson,5000.0,2010,lincoln,mkz,good,6,gas,150000.0,clean,automatic,fwd,sedan,white,az,32.2181,-110.8039,2021-05-02 23:52:48+00:00,16,2021,5
-anchorage / mat-su,800.0,1993,ford,isuzu trooper ls,fair,6,gas,269000.0,clean,manual,4wd,SUV,black,ak,61.190548,-149.907305,2021-04-14 12:14:34+00:00,33,2021,4
 bakersfield,21590.0,2018,volkswagen,golf sportwagen tsi s,good,UNKNOWN,gas,14775.0,clean,other,fwd,wagon,UNKNOWN,ca,35.38,-119.02,2021-04-28 13:51:13+00:00,8,2021,4
 phoenix,16950.0,2012,rover,evoque,UNKNOWN,UNKNOWN,gas,100989.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.4367,-111.7731,2021-05-03 19:04:52+00:00,14,2021,5
 phoenix,6999.0,2006,lincoln,mark lt base,good,8,gas,186689.0,clean,automatic,rwd,truck,black,az,33.683889,-112.104557,2021-05-03 17:04:21+00:00,20,2021,5
@@ -8554,7 +8477,6 @@ huntsville / decatur,7442.0,2013,nissan,altima,excellent,UNKNOWN,gas,86356.0,reb
 birmingham,38750.0,2018,tesla,model 3,UNKNOWN,UNKNOWN,electric,14452.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,33.4995,-86.7268,2021-04-13 14:37:20+00:00,8,2021,4
 fairbanks,29995.0,2020,ford,fusion,good,UNKNOWN,gas,32086.0,clean,automatic,UNKNOWN,sedan,white,ak,64.822837,-147.713863,2021-04-29 13:54:36+00:00,6,2021,4
 bakersfield,21950.0,2015,toyota,tacoma prerunner,excellent,6,gas,112081.0,clean,automatic,rwd,truck,white,ca,33.794656,-117.992994,2021-05-01 09:19:41+00:00,11,2021,5
-fayetteville,650.0,2005,kia,spectra 5,good,4,gas,129834.0,clean,automatic,fwd,hatchback,black,ar,36.2442,-94.112,2021-04-30 17:31:09+00:00,21,2021,4
 bakersfield,29990.0,2014,gmc,sierra 1500 crew cab sle,good,8,gas,69200.0,clean,other,4wd,pickup,UNKNOWN,ca,35.38,-119.02,2021-04-18 19:00:44+00:00,12,2021,4
 montgomery,7950.0,2012,toyota,prius v hatchback,good,4,hybrid,156553.0,clean,automatic,fwd,hatchback,silver,al,32.466677,-86.452429,2021-04-09 19:03:27+00:00,14,2021,4
 bakersfield,6995.0,2016,dodge,dart sxt,good,4,gas,51600.0,clean,automatic,fwd,sedan,grey,ca,34.4208,-119.6982,2021-04-16 20:39:28+00:00,10,2021,4
@@ -8620,7 +8542,6 @@ little rock,12500.0,2010,nissan,maxima,UNKNOWN,UNKNOWN,gas,79229.0,clean,automat
 anchorage / mat-su,14991.0,2017,chevrolet,cruze,UNKNOWN,4,gas,53902.0,clean,other,fwd,sedan,red,ak,61.180231,-149.869503,2021-04-10 17:37:55+00:00,9,2021,4
 tucson,8995.0,2012,chrysler,town & country,good,6,gas,94577.0,clean,automatic,fwd,mini-van,UNKNOWN,az,32.195597,-110.874466,2021-05-01 16:30:23+00:00,14,2021,5
 chico,16995.0,2017,nissan,altima sv sedan,UNKNOWN,UNKNOWN,gas,56052.0,clean,automatic,UNKNOWN,sedan,UNKNOWN,ca,40.175298,-122.233025,2021-04-28 22:39:44+00:00,9,2021,4
-fayetteville,800.0,2010,chevrolet,cobalt,good,UNKNOWN,gas,131916.0,clean,automatic,UNKNOWN,UNKNOWN,blue,ar,36.356557,-94.185443,2021-04-16 16:27:57+00:00,16,2021,4
 montgomery,12900.0,2010,chevrolet,silverado 1500 crew cab,UNKNOWN,8,other,190088.0,clean,automatic,UNKNOWN,pickup,blue,al,32.4715,-86.4831,2021-05-03 22:02:56+00:00,16,2021,5
 phoenix,11988.0,2008,ford,f-150,UNKNOWN,UNKNOWN,gas,171627.0,clean,automatic,fwd,pickup,UNKNOWN,az,33.534798,-112.180236,2021-05-03 01:33:00+00:00,18,2021,5
 anchorage / mat-su,39999.0,2015,gmc,sierra 1500 crew cab,UNKNOWN,8,gas,111545.0,clean,automatic,4wd,pickup,blue,ak,61.1194,-149.8974,2021-05-01 04:01:32+00:00,11,2021,5
@@ -8658,7 +8579,6 @@ fairbanks,13350.0,2015,honda,accord coupe ex-l,excellent,6,gas,37950.0,rebuilt,a
 prescott,7000.0,2008,ford,hundai tuscon,like new,4,gas,124100.0,clean,manual,fwd,SUV,white,az,34.7055,-112.0091,2021-04-12 18:53:40+00:00,18,2021,4
 tucson,9000.0,1966,chrysler,300,good,8,gas,92000.0,clean,automatic,fwd,coupe,blue,az,32.1463,-110.9227,2021-05-04 06:11:02+00:00,60,2021,5
 chico,20777.0,2013,ford,expedition,UNKNOWN,UNKNOWN,gas,107614.0,clean,automatic,4wd,SUV,silver,ca,38.605011,-121.401917,2021-04-10 17:52:52+00:00,13,2021,4
-prescott,540.0,2017,honda,civic,excellent,4,gas,39787.0,clean,automatic,fwd,sedan,blue,az,34.605818,-112.451775,2021-04-22 17:00:49+00:00,9,2021,4
 fresno / madera,25999.0,2014,ram,1500,UNKNOWN,8,gas,85109.0,clean,automatic,rwd,truck,white,ca,36.774617,-119.791164,2021-05-01 23:31:06+00:00,12,2021,5
 prescott,43995.0,2017,ford,f-150 platinum,UNKNOWN,6,gas,78252.0,clean,automatic,4wd,pickup,white,az,33.396353,-111.954863,2021-04-23 02:28:51+00:00,9,2021,4
 tucson,3999.0,2005,dodge,caravan,excellent,6,gas,75588.0,clean,automatic,fwd,mini-van,grey,az,32.252974,-110.97871,2021-04-26 19:45:39+00:00,21,2021,4
@@ -8725,7 +8645,6 @@ prescott,8754.0,2007,lexus,rx 350,excellent,6,gas,179628.0,clean,automatic,fwd,S
 chico,4000.0,2010,ford,fusion sel,excellent,4,gas,200000.0,clean,automatic,fwd,sedan,UNKNOWN,ca,39.1663,-121.5105,2021-04-23 23:25:06+00:00,16,2021,4
 anchorage / mat-su,15900.0,2013,jeep,grand cherokee,UNKNOWN,UNKNOWN,gas,113000.0,clean,automatic,4wd,SUV,silver,ak,61.1549,-149.8866,2021-04-16 23:36:42+00:00,13,2021,4
 fresno / madera,14000.0,2015,hyundai,sonata 2.4l sport,excellent,4,gas,58021.0,clean,automatic,UNKNOWN,sedan,UNKNOWN,ca,36.866349,-119.656756,2021-05-02 21:24:51+00:00,11,2021,5
-phoenix,998.0,2017,rover,hse,excellent,6,gas,24163.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,33.638441,-112.266352,2021-05-03 14:03:06+00:00,9,2021,5
 dothan,16590.0,2015,hyundai,sonata sport sedan 4d,good,UNKNOWN,gas,26655.0,clean,other,fwd,sedan,white,al,31.23,-85.4,2021-04-19 15:01:24+00:00,11,2021,4
 fayetteville,6900.0,2012,chevrolet,cruze,good,4,gas,173123.0,clean,manual,fwd,sedan,silver,ar,36.644835,-93.218011,2021-04-24 02:21:35+00:00,14,2021,4
 tucson,18500.0,2012,chevrolet,silverado,like new,8,gas,168000.0,lien,automatic,4wd,UNKNOWN,UNKNOWN,az,32.8295,-109.6266,2021-04-26 23:02:16+00:00,14,2021,4
@@ -8757,7 +8676,6 @@ huntsville / decatur,36590.0,2018,audi,q5 prestige sport utility,good,UNKNOWN,ga
 huntsville / decatur,18897.0,2014,toyota,rav4,UNKNOWN,4,gas,90824.0,clean,other,fwd,SUV,blue,al,34.2056,-86.85834,2021-04-24 17:02:42+00:00,12,2021,4
 tucson,10500.0,2006,lexus,gs300,good,6,gas,89124.0,clean,automatic,fwd,sedan,grey,az,32.402,-110.953,2021-04-29 05:45:15+00:00,20,2021,4
 show low,3795.0,2006,subaru,forester,good,4,gas,999999.0,clean,automatic,4wd,wagon,custom,az,34.1175,-109.9197,2021-04-21 21:43:32+00:00,20,2021,4
-anchorage / mat-su,1000.0,1997,ford,f-150,fair,8,gas,200000.0,clean,automatic,4wd,pickup,black,ak,61.1165,-149.8512,2021-04-26 01:59:42+00:00,29,2021,4
 huntsville / decatur,8970.0,2008,audi,a4,UNKNOWN,4,gas,97334.0,clean,other,4wd,sedan,grey,al,34.737799,-86.650889,2021-05-01 14:01:51+00:00,18,2021,5
 huntsville / decatur,39989.0,2016,ram,2500,UNKNOWN,8,gas,67277.0,clean,automatic,4wd,pickup,silver,al,36.138037,-86.731163,2021-04-17 17:11:49+00:00,10,2021,4
 anchorage / mat-su,50000.0,2019,ford,f-150,excellent,6,gas,26000.0,clean,automatic,4wd,truck,red,ak,61.1834,-149.8884,2021-04-26 03:07:12+00:00,7,2021,4
@@ -8821,7 +8739,6 @@ texarkana,18990.0,2016,buick,enclave leather sport,good,UNKNOWN,other,99816.0,cl
 birmingham,6800.0,2010,nissan,altima,like new,4,gas,139000.0,clean,automatic,fwd,coupe,black,al,33.6989,-84.7454,2021-04-19 18:33:38+00:00,16,2021,4
 texarkana,28590.0,2017,buick,enclave leather sport,good,UNKNOWN,other,29324.0,clean,other,UNKNOWN,other,UNKNOWN,ar,33.779214,-84.411811,2021-04-12 10:11:04+00:00,9,2021,4
 mohave county,12777.0,2016,chevrolet,cruze lt,excellent,4,gas,24000.0,clean,automatic,fwd,sedan,silver,az,34.850428,-114.453443,2021-04-27 19:09:36+00:00,10,2021,4
-fayetteville,600.0,2007,ford,focus,good,UNKNOWN,gas,166430.0,clean,automatic,UNKNOWN,UNKNOWN,blue,ar,36.356557,-94.185443,2021-04-16 14:53:38+00:00,19,2021,4
 anchorage / mat-su,6999.0,2007,dodge,caliber,UNKNOWN,4,gas,107888.0,clean,automatic,fwd,wagon,red,ak,61.2116,-149.8761,2021-04-15 16:06:36+00:00,19,2021,4
 phoenix,28999.0,2014,chrysler,town and country,excellent,6,gas,53944.0,clean,automatic,UNKNOWN,van,UNKNOWN,az,33.422577,-112.053651,2021-05-02 14:04:35+00:00,12,2021,5
 phoenix,2400.0,1997,ford,taurus,UNKNOWN,6,gas,117000.0,clean,automatic,fwd,UNKNOWN,UNKNOWN,az,33.56,-112.0927,2021-05-03 22:40:39+00:00,29,2021,5
@@ -8919,7 +8836,6 @@ flagstaff / sedona,22500.0,1972,chevrolet,nova ss,good,8,gas,100.0,clean,manual,
 prescott,42064.0,2020,chevrolet,silverado,like new,8,gas,17260.0,clean,automatic,4wd,truck,white,az,34.586025,-112.318347,2021-04-28 02:51:18+00:00,6,2021,4
 fresno / madera,9995.0,2005,acura,rsx type-s,excellent,4,gas,147622.0,clean,manual,UNKNOWN,UNKNOWN,grey,ca,36.815675,-119.695804,2021-04-22 22:38:20+00:00,21,2021,4
 sierra vista,33990.0,2012,mercedes-benz,e-class e 63 amg,good,8,gas,88107.0,clean,automatic,rwd,sedan,white,az,31.59,-110.17,2021-04-23 12:34:10+00:00,14,2021,4
-little rock,625.0,2015,ford,5th Wheel Hitch floating,like new,UNKNOWN,diesel,625.0,clean,other,UNKNOWN,UNKNOWN,UNKNOWN,ar,34.799268,-92.407272,2021-04-11 20:24:23+00:00,11,2021,4
 fayetteville,24995.0,2015,jeep,wrangler unlimited sport,good,6,gas,108958.0,clean,automatic,UNKNOWN,other,silver,ar,36.093434,-94.153768,2021-04-07 21:21:09+00:00,11,2021,4
 birmingham,8480.0,2012,chrysler,300,UNKNOWN,UNKNOWN,gas,187000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,33.20968,-86.783581,2021-04-27 19:46:09+00:00,14,2021,4
 anchorage / mat-su,22995.0,2014,mazda,mx-5 miata,UNKNOWN,4,gas,6831.0,clean,automatic,rwd,convertible,grey,ak,61.56939,-149.35645,2021-04-08 17:07:24+00:00,12,2021,4
@@ -9059,7 +8975,6 @@ gold country,4200.0,2003,subaru,outback limited wagon,UNKNOWN,UNKNOWN,gas,178900
 phoenix,6900.0,2008,chevrolet,tahoe,UNKNOWN,UNKNOWN,gas,238000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.4413,-112.0421,2021-05-04 00:55:02+00:00,18,2021,5
 mohave county,19000.0,1930,ford,t bucket,like new,8,gas,303.0,clean,automatic,rwd,convertible,orange,az,34.471592,-114.319204,2021-05-01 14:11:50+00:00,96,2021,5
 fairbanks,11500.0,2014,subaru,impreza,excellent,UNKNOWN,gas,103893.0,clean,automatic,UNKNOWN,UNKNOWN,red,ak,64.8378,-147.7164,2021-04-25 22:13:54+00:00,12,2021,4
-gold country,800.0,1995,ford,Isuzu Rodeo 4x4,fair,6,gas,200000.0,clean,manual,4wd,SUV,UNKNOWN,ca,39.215709,-120.903168,2021-04-20 20:52:39+00:00,31,2021,4
 anchorage / mat-su,20991.0,2011,gmc,yukon,UNKNOWN,8,gas,135636.0,clean,automatic,4wd,SUV,black,ak,61.180231,-149.869503,2021-04-24 17:39:28+00:00,15,2021,4
 fayetteville,8999.0,2013,ford,c-max hybrid,good,4,gas,152801.0,clean,automatic,fwd,hatchback,silver,ar,36.644835,-93.218011,2021-04-14 17:59:08+00:00,13,2021,4
 phoenix,6800.0,2009,subaru,- forester,UNKNOWN,UNKNOWN,gas,85029.0,rebuilt,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.6819,-112.0996,2021-05-03 21:35:05+00:00,17,2021,5
@@ -9081,7 +8996,6 @@ tucson,21984.0,2018,honda,accord hybrid,UNKNOWN,4,hybrid,67692.0,clean,automatic
 chico,14995.0,2007,chevrolet,tahoe,UNKNOWN,UNKNOWN,other,128574.0,clean,automatic,4wd,SUV,UNKNOWN,ca,38.611927,-121.423118,2021-04-21 18:20:38+00:00,19,2021,4
 fresno / madera,29500.0,2017,gmc,sierra 1500,UNKNOWN,8,gas,117440.0,clean,automatic,rwd,truck,UNKNOWN,ca,36.790784,-119.789897,2021-04-28 18:30:53+00:00,9,2021,4
 anchorage / mat-su,19999.0,2011,infiniti,m,UNKNOWN,8,gas,122009.0,clean,automatic,UNKNOWN,sedan,custom,ak,61.1194,-149.8974,2021-05-01 03:04:36+00:00,15,2021,5
-chico,800.0,2002,toyota,camry xle,excellent,4,gas,89240.0,clean,automatic,fwd,sedan,green,ca,39.6054,-121.5751,2021-04-18 23:49:16+00:00,24,2021,4
 anchorage / mat-su,25999.0,2014,ford,f-150 stx,good,8,gas,116773.0,clean,automatic,4wd,truck,silver,ak,61.166353,-149.847206,2021-04-06 18:40:50+00:00,12,2021,4
 chico,7500.0,2012,ford,escape xlt,good,4,gas,160000.0,clean,automatic,UNKNOWN,SUV,black,ca,39.4877,-121.4698,2021-05-02 23:02:06+00:00,14,2021,5
 fresno / madera,16900.0,2013,ford,f-150,UNKNOWN,UNKNOWN,gas,16900.0,clean,automatic,4wd,other,custom,ca,36.71459,-119.55572,2021-04-28 18:30:53+00:00,13,2021,4
@@ -9192,7 +9106,6 @@ tucson,29991.0,2016,subaru,wrx sti sti manual,UNKNOWN,UNKNOWN,gas,66135.0,clean,
 tucson,11999.0,2014,dodge,challenger,good,6,gas,92349.0,clean,automatic,rwd,coupe,grey,az,32.20706,-110.8372,2021-05-01 12:28:07+00:00,12,2021,5
 fresno / madera,8999.0,2015,dodge,dart,like new,4,gas,57593.0,clean,automatic,fwd,sedan,white,ca,36.831443,-119.699919,2021-04-26 17:05:21+00:00,11,2021,4
 dothan,40703.0,2020,ford,explorer hybrid limited,UNKNOWN,UNKNOWN,hybrid,3075.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,29.802369,-82.530627,2021-04-10 21:33:32+00:00,6,2021,4
-fayetteville,800.0,2006,jeep,liberty,like new,4,gas,176062.0,clean,automatic,fwd,SUV,grey,ar,36.3567,-94.1856,2021-04-21 13:07:09+00:00,20,2021,4
 flagstaff / sedona,25114.0,2021,chevrolet,equinox ls,good,UNKNOWN,gas,10.0,clean,automatic,UNKNOWN,other,silver,az,35.189958,-111.666438,2021-05-04 01:20:34+00:00,5,2021,5
 florence / muscle shoals,24590.0,2013,gmc,sierra 1500 extended cab slt,good,8,other,80318.0,clean,other,UNKNOWN,pickup,UNKNOWN,al,33.779214,-84.411811,2021-04-27 15:31:18+00:00,13,2021,4
 tucson,16495.0,2014,honda,cr-v,excellent,UNKNOWN,gas,80750.0,clean,automatic,fwd,SUV,grey,az,32.260949,-110.96056,2021-04-26 17:16:01+00:00,12,2021,4
@@ -9216,7 +9129,6 @@ tucson,46667.0,2019,toyota,tundra 4wd,UNKNOWN,UNKNOWN,gas,21281.0,clean,automati
 flagstaff / sedona,33990.0,2019,jeep,wrangler sport suv 2d,good,6,gas,7359.0,clean,other,4wd,other,white,az,33.779214,-84.411811,2021-04-17 11:40:22+00:00,7,2021,4
 kenai peninsula,16977.0,2017,chevrolet,trax,UNKNOWN,4,gas,7113.0,clean,automatic,4wd,SUV,red,ak,61.1381,-149.86727,2021-04-09 16:05:51+00:00,9,2021,4
 texarkana,35990.0,2020,volvo,s60 t6 inscription sedan,good,UNKNOWN,other,11878.0,clean,other,UNKNOWN,sedan,blue,ar,33.7865,-84.4454,2021-04-12 10:11:10+00:00,6,2021,4
-chico,1000.0,1993,ford,explorer xlt 4x4,fair,6,gas,12400.0,clean,manual,4wd,offroad,green,ca,39.5162,-122.195,2021-04-30 04:11:53+00:00,33,2021,4
 fayetteville,7900.0,2006,ford,mustang,UNKNOWN,UNKNOWN,gas,170830.0,clean,manual,UNKNOWN,UNKNOWN,black,ar,36.2554,-94.1308,2021-04-05 21:34:44+00:00,20,2021,4
 bakersfield,29950.0,2007,ford,f250 super duty lariat,excellent,8,diesel,97192.0,clean,automatic,4wd,truck,grey,ca,33.794656,-117.992994,2021-04-28 03:16:54+00:00,19,2021,4
 tucson,12995.0,2007,chevrolet,suburban 1500,excellent,8,gas,163685.0,clean,automatic,4wd,SUV,UNKNOWN,az,32.286159,-110.991568,2021-04-26 21:44:11+00:00,19,2021,4
@@ -9360,7 +9272,6 @@ tucson,8995.0,2012,chevrolet,cruze ls,UNKNOWN,4,gas,74590.0,clean,automatic,fwd,
 phoenix,4000.0,2007,pontiac,grand prix gt,excellent,6,gas,140000.0,clean,automatic,fwd,sedan,red,az,33.4564,-112.1284,2021-05-03 17:10:22+00:00,19,2021,5
 gold country,36300.0,2017,cadillac,xts platinum,excellent,6,gas,31200.0,clean,automatic,4wd,hatchback,red,ca,38.6709,-121.1529,2021-04-18 23:40:46+00:00,9,2021,4
 southeast alaska,32900.0,2020,ford,edge,UNKNOWN,4,gas,12226.0,clean,automatic,UNKNOWN,SUV,blue,ak,61.19,-149.8938,2021-04-30 02:01:42+00:00,6,2021,4
-phoenix,700.0,2020,mercedes-benz,c-class 300,excellent,4,gas,5154.0,clean,automatic,UNKNOWN,sedan,UNKNOWN,az,33.638441,-112.266352,2021-05-03 14:42:00+00:00,6,2021,5
 phoenix,6950.0,2011,ford,fusion sel,excellent,4,gas,114000.0,clean,automatic,rwd,sedan,silver,az,33.582442,-111.9277,2021-05-04 16:55:44+00:00,15,2021,5
 fresno / madera,52990.0,2014,ford,Peterbilt 337,excellent,UNKNOWN,diesel,106430.0,clean,automatic,UNKNOWN,UNKNOWN,white,ca,36.533226,-119.576488,2021-05-03 16:17:38+00:00,12,2021,5
 gadsden-anniston,38590.0,2020,lincoln,continental sedan 4d,good,6,gas,1772.0,clean,other,fwd,sedan,black,al,34.01,-86.01,2021-04-19 14:00:49+00:00,6,2021,4
@@ -9368,7 +9279,6 @@ fresno / madera,3900.0,2013,ford,fiesta,UNKNOWN,UNKNOWN,gas,130000.0,clean,autom
 bakersfield,56990.0,2016,gmc,sierra 3500 diesel truck 6.6l duramax denali 6 speed allison 1000,UNKNOWN,8,diesel,96566.0,clean,automatic,4wd,pickup,black,ca,38.5892,-121.4057,2021-04-06 19:19:55+00:00,10,2021,4
 phoenix,6500.0,2009,honda,crv awd,UNKNOWN,4,gas,129000.0,rebuilt,automatic,4wd,SUV,UNKNOWN,az,33.4321,-112.3438,2021-05-04 14:11:30+00:00,17,2021,5
 chico,21997.0,2014,audi,q7,UNKNOWN,UNKNOWN,gas,88301.0,clean,automatic,UNKNOWN,SUV,white,ca,38.605011,-121.401917,2021-04-10 17:49:19+00:00,12,2021,4
-chico,800.0,2015,ford,ARE,good,UNKNOWN,other,1.0,clean,other,UNKNOWN,UNKNOWN,black,ca,39.732315,-121.823616,2021-04-18 14:19:04+00:00,11,2021,4
 fresno / madera,34590.0,2019,chevrolet,colorado crew cab z71,good,6,gas,7711.0,clean,other,UNKNOWN,pickup,UNKNOWN,ca,33.779214,-84.411811,2021-04-25 11:30:47+00:00,7,2021,4
 tucson,10995.0,2014,kia,soul,excellent,4,gas,82000.0,clean,automatic,fwd,sedan,green,az,32.25,-110.8869,2021-04-23 18:45:26+00:00,12,2021,4
 montgomery,36590.0,2019,toyota,4runner sr5 sport utility,good,UNKNOWN,other,35204.0,clean,other,4wd,SUV,black,al,32.35,-86.28,2021-04-17 17:30:44+00:00,7,2021,4
@@ -9462,7 +9372,6 @@ fresno / madera,12999.0,2012,chevrolet,suburban lt 1500,UNKNOWN,8,other,183230.0
 fairbanks,21999.0,2010,chevrolet,avalanche,UNKNOWN,8,other,136299.0,clean,automatic,4wd,SUV,blue,ak,61.1194,-149.8974,2021-05-01 03:04:24+00:00,16,2021,5
 tucson,23500.0,2018,chevrolet,camaro rs,UNKNOWN,UNKNOWN,gas,52700.0,clean,automatic,UNKNOWN,coupe,UNKNOWN,az,32.2138,-110.824,2021-04-25 00:06:40+00:00,8,2021,4
 little rock,32800.0,2018,ford,transit,excellent,6,gas,43479.0,clean,automatic,rwd,van,white,ar,36.4641,-86.65828,2021-04-08 15:08:17+00:00,8,2021,4
-tucson,1000.0,2005,volvo,xc90,good,6,gas,200000.0,clean,automatic,fwd,SUV,UNKNOWN,az,32.2138,-110.824,2021-05-04 01:50:05+00:00,21,2021,5
 jonesboro,9990.0,1967,volvo,UNKNOWN,UNKNOWN,UNKNOWN,gas,99999.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,ar,35.7456,-90.5507,2021-05-03 11:58:37+00:00,59,2021,5
 dothan,18990.0,2015,volvo,s60 t5 premier sedan 4d,good,UNKNOWN,other,37238.0,clean,other,UNKNOWN,sedan,silver,al,31.23,-85.4,2021-04-13 14:21:19+00:00,11,2021,4
 little rock,8950.0,1990,mercedes-benz,560 sel,good,8,gas,160000.0,clean,automatic,rwd,UNKNOWN,black,ar,34.9532,-91.9004,2021-04-19 17:30:19+00:00,36,2021,4
@@ -9528,7 +9437,6 @@ chico,31590.0,2018,bmw,x3 xdrive30i sport utility,good,UNKNOWN,other,23894.0,cle
 phoenix,34990.0,2018,ford,f150 supercrew cab xl,good,6,gas,35965.0,clean,automatic,4wd,pickup,red,az,33.5,-112.05,2021-05-04 15:41:24+00:00,8,2021,5
 bakersfield,22995.0,2020,toyota,camry se,UNKNOWN,4,gas,16874.0,clean,automatic,fwd,sedan,red,ca,34.183005,-118.370312,2021-04-16 17:15:04+00:00,6,2021,4
 tucson,9995.0,2017,mitsubishi,mirage,excellent,3,gas,45000.0,clean,automatic,fwd,sedan,black,az,32.25,-110.8869,2021-05-04 18:30:54+00:00,9,2021,5
-anchorage / mat-su,60000.0,2016,porsche,cayenne s e-hybrid,UNKNOWN,UNKNOWN,hybrid,52373.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ak,61.1194,-149.8974,2021-04-13 21:42:45+00:00,10,2021,4
 gold country,6500.0,2005,jeep,grand cherokee,good,8,gas,98900.0,clean,automatic,4wd,SUV,brown,ca,39.140419,-121.053543,2021-04-15 19:30:30+00:00,21,2021,4
 bakersfield,4975.0,2007,honda,accord coupe,excellent,4,gas,191000.0,clean,automatic,fwd,coupe,blue,ca,34.070612,-117.383384,2021-04-22 01:21:53+00:00,19,2021,4
 anchorage / mat-su,29995.0,2019,subaru,wrx awd 6-spd,excellent,4,gas,19129.0,clean,manual,4wd,sedan,white,ak,61.217853,-149.870489,2021-04-26 23:49:35+00:00,7,2021,4
@@ -9698,7 +9606,6 @@ little rock,23794.0,2018,chrysler,pacifica,UNKNOWN,UNKNOWN,gas,59058.0,clean,aut
 fairbanks,29999.0,2021,buick,encore gx,UNKNOWN,3,gas,1980.0,clean,automatic,4wd,SUV,black,ak,64.81552,-147.71293,2021-04-23 18:34:45+00:00,5,2021,4
 anchorage / mat-su,22995.0,2015,mercedes-benz,glk350,excellent,6,gas,79546.0,clean,automatic,4wd,SUV,black,ak,61.218361,-149.868987,2021-04-06 19:53:18+00:00,11,2021,4
 little rock,30000.0,1973,volkswagen,kombi,UNKNOWN,UNKNOWN,diesel,42000.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,ar,32.8958,-96.8588,2021-04-22 20:51:34+00:00,53,2021,4
-flagstaff / sedona,1000.0,1999,ford,1999 Izuzu Rodeo LS,fair,6,gas,258000.0,clean,manual,4wd,SUV,white,az,35.212632,-111.606449,2021-05-03 05:13:55+00:00,27,2021,5
 dothan,3000.0,1999,ford,ranger,UNKNOWN,UNKNOWN,gas,216000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,31.2799,-86.2571,2021-04-19 21:18:27+00:00,27,2021,4
 tucson,8995.0,2007,ford,mustang premium v6,UNKNOWN,6,gas,121056.0,clean,automatic,rwd,coupe,blue,az,32.267941,-110.977848,2021-04-22 01:20:45+00:00,19,2021,4
 tucson,5000.0,2009,toyota,camry,good,4,gas,237284.0,clean,automatic,fwd,sedan,silver,az,32.3366,-111.1771,2021-05-01 20:47:42+00:00,17,2021,5
@@ -9872,7 +9779,6 @@ birmingham,2999.0,2005,ford,taurus,UNKNOWN,6,gas,226797.0,clean,automatic,fwd,se
 sierra vista,18595.0,2015,subaru,wrx limited,good,4,gas,84207.0,clean,manual,UNKNOWN,sedan,silver,az,32.235669,-110.864815,2021-04-07 21:21:36+00:00,11,2021,4
 bakersfield,6100.0,2000,toyota,tacoma,good,UNKNOWN,gas,213000.0,clean,automatic,rwd,truck,silver,ca,35.413111,-119.105186,2021-04-27 04:32:11+00:00,26,2021,4
 little rock,24683.0,2019,ford,flex,UNKNOWN,UNKNOWN,gas,47127.0,clean,automatic,fwd,UNKNOWN,white,ar,38.4018,-93.785,2021-05-04 18:00:24+00:00,7,2021,5
-gold country,1000.0,2006,ford,2006 saab 92x,fair,4,gas,160000.0,clean,manual,4wd,wagon,black,ca,38.5953,-120.5949,2021-04-27 23:45:26+00:00,20,2021,4
 phoenix,5999.0,2009,kia,spectra,UNKNOWN,4,gas,90323.0,clean,automatic,fwd,sedan,white,az,33.639923,-112.1144,2021-05-03 11:07:51+00:00,17,2021,5
 huntsville / decatur,7800.0,2005,honda,accord ex-l,excellent,4,gas,155000.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,al,35.7173,-86.9048,2021-05-02 21:36:29+00:00,21,2021,5
 fresno / madera,29995.0,2015,toyota,tacoma prerunner trd rwd,excellent,6,gas,65372.0,clean,automatic,rwd,truck,silver,ca,35.246801,-120.667596,2021-04-20 19:30:56+00:00,11,2021,4
@@ -10078,7 +9984,6 @@ phoenix,30995.0,2020,ram,promaster cargo van,excellent,6,gas,29887.0,clean,autom
 anchorage / mat-su,19194.0,2018,toyota,corolla,UNKNOWN,4,gas,14512.0,clean,automatic,fwd,sedan,black,ak,61.176984,-149.86941,2021-04-25 19:31:26+00:00,8,2021,4
 huntsville / decatur,29990.0,2019,mazda,mx-5 miata grand touring,good,UNKNOWN,gas,5247.0,clean,other,rwd,other,UNKNOWN,al,34.57,-86.98,2021-04-26 17:20:53+00:00,7,2021,4
 tucson,49698.0,2020,gmc,sierra 1500 elevation automatic,UNKNOWN,UNKNOWN,gas,9690.0,clean,automatic,4wd,pickup,black,az,32.23539,-110.916482,2021-04-26 13:02:32+00:00,6,2021,4
-fayetteville,750.0,2002,jaguar,x-type,fair,6,gas,238000.0,clean,automatic,4wd,sedan,blue,ar,36.115066,-94.048911,2021-05-01 17:39:56+00:00,24,2021,5
 anchorage / mat-su,22999.0,2014,bmw,528i xdrive awd,excellent,4,gas,57538.0,clean,automatic,4wd,sedan,silver,ak,61.166353,-149.847206,2021-04-16 01:50:42+00:00,12,2021,4
 huntsville / decatur,7950.0,2015,chrysler,200 limited,good,4,gas,153140.0,clean,automatic,fwd,sedan,red,al,34.768443,-86.895068,2021-04-30 20:46:18+00:00,11,2021,4
 fort smith,11333.0,2013,gmc,acadia sle-1,UNKNOWN,6,gas,136073.0,clean,automatic,fwd,SUV,black,ar,36.146766,-95.917095,2021-04-16 01:36:31+00:00,13,2021,4
@@ -10171,7 +10076,6 @@ chico,17995.0,2013,lexus,ct,UNKNOWN,UNKNOWN,gas,43000.0,clean,automatic,fwd,hatc
 flagstaff / sedona,4695.0,2007,dodge,durango,good,8,gas,156207.0,clean,automatic,4wd,SUV,silver,az,34.1175,-109.9197,2021-05-01 00:50:11+00:00,19,2021,5
 birmingham,12307.0,2018,kia,soul,UNKNOWN,UNKNOWN,gas,95056.0,clean,automatic,fwd,UNKNOWN,red,al,32.9229,-86.545,2021-05-03 13:56:53+00:00,8,2021,5
 flagstaff / sedona,14950.0,2015,ford,mustang,UNKNOWN,8,gas,81206.0,clean,manual,rwd,coupe,black,az,25.827103,-80.24152,2021-04-17 21:36:18+00:00,11,2021,4
-chico,775.0,2021,jeep,gladiator mojave,excellent,6,gas,10.0,clean,manual,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-28 15:32:10+00:00,5,2021,4
 bakersfield,44990.0,2014,chevrolet,corvette stingray z51,good,8,gas,33566.0,clean,other,rwd,coupe,white,ca,35.38,-119.02,2021-04-09 16:51:08+00:00,12,2021,4
 mobile,35900.0,2015,jeep,wrangler unlimited,good,6,gas,55475.0,clean,automatic,4wd,SUV,silver,al,30.6041,-87.8522,2021-04-26 23:25:24+00:00,11,2021,4
 tucson,10999.0,2013,nissan,juke,UNKNOWN,4,gas,86000.0,clean,automatic,UNKNOWN,SUV,custom,az,32.2127,-110.8829,2021-04-30 15:05:27+00:00,13,2021,4
@@ -10227,7 +10131,6 @@ flagstaff / sedona,1700.0,1993,jeep,grand cherokee,fair,8,gas,278000.0,clean,aut
 anchorage / mat-su,22999.0,2017,jeep,renegade sport,excellent,4,gas,42643.0,clean,automatic,4wd,SUV,silver,ak,61.166353,-149.847206,2021-04-22 21:42:24+00:00,9,2021,4
 tucson,12995.0,2019,nissan,sentra,UNKNOWN,UNKNOWN,gas,38346.0,clean,other,fwd,sedan,UNKNOWN,az,33.327848,-111.841594,2021-05-03 13:15:30+00:00,7,2021,5
 fresno / madera,4000.0,2003,ford,escape,UNKNOWN,UNKNOWN,gas,148807.0,clean,automatic,UNKNOWN,SUV,blue,ca,36.829983,-119.786854,2021-04-29 23:00:58+00:00,23,2021,4
-gold country,507.0,2012,chevrolet,silverado 3500hd,UNKNOWN,8,diesel,107779.0,clean,automatic,4wd,truck,UNKNOWN,ca,38.01787,-121.268904,2021-04-22 14:04:51+00:00,14,2021,4
 fayetteville,16495.0,2015,gmc,acadia,UNKNOWN,UNKNOWN,other,125008.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,36.6955,-93.115,2021-04-09 23:15:54+00:00,11,2021,4
 tucson,25590.0,2015,gmc,sierra 1500 regular cab,good,6,other,35290.0,clean,other,UNKNOWN,pickup,white,az,32.21,-110.96,2021-04-30 16:51:13+00:00,11,2021,4
 bakersfield,37888.0,2018,volvo,certified,excellent,UNKNOWN,gas,23707.0,clean,automatic,4wd,sedan,UNKNOWN,ca,35.283445,-120.658029,2021-04-23 20:15:15+00:00,8,2021,4
@@ -10308,7 +10211,6 @@ tucson,6995.0,2014,kia,rio 5-door lx,UNKNOWN,4,gas,115945.0,clean,automatic,fwd,
 fayetteville,9995.0,2015,nissan,altima 2.5,excellent,UNKNOWN,gas,138503.0,clean,automatic,UNKNOWN,truck,white,ar,36.1835,-94.1762,2021-04-16 19:45:29+00:00,11,2021,4
 chico,9995.0,2014,honda,odyssey,excellent,UNKNOWN,gas,173982.0,clean,automatic,fwd,mini-van,silver,ca,39.746191,-121.89503,2021-04-09 21:45:11+00:00,12,2021,4
 fairbanks,36999.0,2018,ford,f-150,UNKNOWN,8,gas,41735.0,clean,automatic,4wd,truck,white,ak,64.81552,-147.71293,2021-04-16 02:30:25+00:00,8,2021,4
-show low,600.0,1998,ford,Ez-go golf cart,fair,UNKNOWN,other,1.0,missing,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,34.222278,-110.029359,2021-04-07 17:18:55+00:00,28,2021,4
 fayetteville,14900.0,2016,kia,optima,UNKNOWN,UNKNOWN,gas,119164.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,36.188577,-94.138303,2021-04-06 16:31:29+00:00,10,2021,4
 phoenix,5200.0,2013,toyota,prius,UNKNOWN,UNKNOWN,gas,86100.0,rebuilt,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.6048,-112.2237,2021-05-03 16:13:14+00:00,13,2021,5
 phoenix,30900.0,2017,dodge,grand caravan sxt wheelch,UNKNOWN,6,gas,39747.0,clean,automatic,fwd,van,UNKNOWN,az,33.681077,-112.05849,2021-05-04 18:41:13+00:00,9,2021,5
@@ -10327,10 +10229,8 @@ gadsden-anniston,36990.0,2016,gmc,sierra 2500 hd double cab,good,8,gas,23190.0,c
 anchorage / mat-su,4400.0,2002,jeep,liberty,UNKNOWN,UNKNOWN,gas,200000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ak,61.1661,-149.96,2021-04-24 21:34:13+00:00,24,2021,4
 anchorage / mat-su,32900.0,2018,dodge,grand caravan,excellent,6,gas,49980.0,clean,automatic,fwd,mini-van,red,ak,61.568132,-149.297333,2021-04-10 04:51:28+00:00,8,2021,4
 prescott,42995.0,2019,toyota,tacoma lifted trd sport,UNKNOWN,6,gas,33078.0,clean,automatic,4wd,pickup,grey,az,33.396353,-111.954863,2021-05-01 21:12:36+00:00,7,2021,5
-chico,918.0,2021,ram,1500 laramie,excellent,8,gas,16.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-30 15:33:06+00:00,5,2021,4
 gold country,20000.0,1999,ford,f250,excellent,8,diesel,370000.0,clean,automatic,4wd,truck,white,ca,38.852107,-121.05732,2021-04-30 14:02:46+00:00,27,2021,4
 birmingham,5980.0,2010,gmc,terrain slt,UNKNOWN,UNKNOWN,gas,208000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,33.209938,-86.783323,2021-04-21 21:14:11+00:00,16,2021,4
-phoenix,670.0,2018,mercedes-benz,gle 350,excellent,6,gas,22750.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,33.638441,-112.266352,2021-05-04 14:11:14+00:00,8,2021,5
 huntsville / decatur,16489.0,2015,buick,enclave,UNKNOWN,6,gas,107711.0,clean,automatic,fwd,SUV,red,al,34.737481,-86.653907,2021-04-14 14:01:03+00:00,11,2021,4
 tucson,4800.0,2007,toyota,camry,good,4,gas,163508.0,clean,manual,fwd,sedan,grey,az,32.3366,-111.1771,2021-04-28 13:27:02+00:00,19,2021,4
 chico,31950.0,2006,ram,2500,excellent,UNKNOWN,diesel,189250.0,clean,manual,4wd,pickup,blue,ca,38.903313,-121.075553,2021-04-10 20:45:37+00:00,20,2021,4
@@ -10339,7 +10239,6 @@ tucson,46993.0,2020,gmc,sierra 1500,UNKNOWN,UNKNOWN,diesel,13658.0,clean,automat
 fresno / madera,6499.0,2008,honda,accord sdn lx-p,excellent,4,gas,218419.0,clean,automatic,fwd,sedan,silver,ca,37.797015,-121.228721,2021-04-20 23:16:11+00:00,18,2021,4
 huntsville / decatur,18990.0,2018,mitsubishi,eclipse cross es,good,UNKNOWN,other,15808.0,clean,other,UNKNOWN,hatchback,red,al,34.57,-86.98,2021-04-30 03:51:02+00:00,8,2021,4
 birmingham,7800.0,2005,honda,accord ex-l,excellent,4,gas,155000.0,clean,manual,UNKNOWN,UNKNOWN,UNKNOWN,al,35.7173,-86.9048,2021-05-02 21:42:04+00:00,21,2021,5
-little rock,800.0,2007,chrysler,sebring,UNKNOWN,UNKNOWN,gas,190000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,34.6836,-92.2776,2021-04-26 02:27:26+00:00,19,2021,4
 huntsville / decatur,21900.0,2014,ford,f250,UNKNOWN,UNKNOWN,gas,175000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,al,35.265997,-87.322254,2021-04-22 21:29:43+00:00,12,2021,4
 southeast alaska,22995.0,2018,toyota,camry,UNKNOWN,UNKNOWN,gas,34436.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ak,58.3628,-134.5294,2021-04-20 17:35:23+00:00,8,2021,4
 tucson,43998.0,2015,mercedes-benz,s-class,UNKNOWN,8,gas,55768.0,clean,automatic,rwd,sedan,black,az,32.271329,-110.993712,2021-04-24 16:06:40+00:00,11,2021,4
@@ -10350,7 +10249,6 @@ bakersfield,31990.0,2013,chevrolet,silverado 2500hd,excellent,UNKNOWN,gas,6537.0
 birmingham,9500.0,2014,ford,transit connect,excellent,4,gas,219581.0,clean,automatic,fwd,van,white,al,36.4641,-86.65828,2021-04-24 02:11:02+00:00,12,2021,4
 mohave county,12000.0,1999,gmc,suburban 2500,excellent,8,diesel,170600.0,clean,automatic,4wd,SUV,black,az,34.4814,-114.3483,2021-04-19 20:17:55+00:00,27,2021,4
 anchorage / mat-su,14599.0,2017,chevrolet,cruze,UNKNOWN,4,gas,17130.0,clean,other,fwd,sedan,red,ak,61.1381,-149.86727,2021-04-23 16:39:35+00:00,9,2021,4
-flagstaff / sedona,702.0,2014,honda,ridgeline,excellent,6,gas,92420.0,clean,automatic,4wd,truck,UNKNOWN,az,34.605818,-112.451775,2021-04-22 17:00:11+00:00,12,2021,4
 huntsville / decatur,32997.0,2008,ford,HUMMER H2,excellent,8,gas,143504.0,clean,automatic,4wd,SUV,black,al,35.839758,-86.387046,2021-04-24 14:45:21+00:00,18,2021,4
 tucson,6995.0,2010,ford,fusion s,UNKNOWN,4,gas,102241.0,clean,automatic,fwd,sedan,red,az,32.200727,-110.874757,2021-05-04 00:14:44+00:00,16,2021,5
 phoenix,14588.0,2016,jeep,grand cherokee,UNKNOWN,UNKNOWN,gas,95507.0,clean,automatic,fwd,SUV,black,az,33.534798,-112.180236,2021-05-03 01:31:58+00:00,10,2021,5
@@ -10382,7 +10280,6 @@ tucson,22861.0,2014,ram,1500,UNKNOWN,UNKNOWN,gas,82392.0,clean,automatic,4wd,pic
 dothan,2800.0,1999,gmc,suburban k1500 4x4,good,8,gas,300000.0,clean,automatic,4wd,SUV,UNKNOWN,al,31.4391,-85.6436,2021-05-03 23:35:05+00:00,27,2021,5
 phoenix,15990.0,2017,jeep,patriot sport suv 4d,good,UNKNOWN,gas,58930.0,clean,automatic,4wd,other,white,az,33.44,-111.8,2021-05-03 17:01:18+00:00,9,2021,5
 fayetteville,28865.0,2015,lexus,rc 350,UNKNOWN,UNKNOWN,gas,70908.0,clean,automatic,UNKNOWN,UNKNOWN,silver,ar,38.4018,-93.785,2021-04-22 19:43:30+00:00,11,2021,4
-tucson,900.0,1997,chevrolet,express 2500,fair,8,gas,197390.0,clean,automatic,rwd,van,white,az,32.2138,-110.824,2021-05-02 00:07:53+00:00,29,2021,5
 bakersfield,36999.0,2015,ford,"ISUZU NPR 6.0L Gas,14Ft box,1600Lb Power lift gate!",UNKNOWN,8,gas,75382.0,clean,automatic,rwd,van,white,ca,33.751002,-117.919522,2021-04-21 19:32:01+00:00,11,2021,4
 auburn,28000.0,2018,acura,tlx,excellent,UNKNOWN,gas,55000.0,clean,automatic,fwd,sedan,white,al,32.562007,-85.66967,2021-04-05 20:53:12+00:00,8,2021,4
 phoenix,22590.0,2018,mazda,cx-5 sport suv 4d,good,UNKNOWN,other,12369.0,clean,other,UNKNOWN,other,black,az,33.44,-112.08,2021-05-02 20:21:16+00:00,8,2021,5
@@ -10849,7 +10746,6 @@ birmingham,27990.0,2014,toyota,tacoma access cab pickup,good,UNKNOWN,other,17805
 birmingham,28990.0,2014,ford,CX-5,UNKNOWN,4,gas,9193.0,clean,automatic,fwd,SUV,white,al,33.669601,-86.817617,2021-04-20 15:10:51+00:00,12,2021,4
 bakersfield,19800.0,2017,toyota,tacoma,like new,4,gas,44000.0,salvage,automatic,rwd,pickup,white,ca,35.3866,-119.0171,2021-04-23 17:14:29+00:00,9,2021,4
 phoenix,7999.0,2015,volkswagen,passat,excellent,4,gas,1.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.683854,-112.104557,2021-05-03 17:03:09+00:00,11,2021,5
-anchorage / mat-su,800.0,1991,ford,"GMC, sierra",fair,6,gas,200000.0,clean,manual,4wd,pickup,white,ak,61.193244,-149.826428,2021-05-04 03:05:44+00:00,35,2021,5
 fresno / madera,9950.0,2014,gmc,terrain,excellent,4,gas,183553.0,clean,automatic,4wd,SUV,red,ca,36.905852,-119.794299,2021-04-30 21:22:38+00:00,12,2021,4
 chico,19995.0,2005,gmc,sierra 3500 crew-cab dually,UNKNOWN,UNKNOWN,diesel,186230.0,clean,automatic,rwd,pickup,UNKNOWN,ca,40.175298,-122.233025,2021-04-28 22:44:18+00:00,21,2021,4
 anchorage / mat-su,15999.0,2010,nissan,titan crew cab,UNKNOWN,8,other,184555.0,clean,automatic,4wd,pickup,black,ak,61.1194,-149.8974,2021-04-10 01:09:25+00:00,16,2021,4
@@ -11069,7 +10965,6 @@ anchorage / mat-su,26995.0,2009,chevrolet,silverado,UNKNOWN,UNKNOWN,gas,128701.0
 fresno / madera,27999.0,2015,ford,f-150,UNKNOWN,8,gas,131000.0,clean,automatic,4wd,truck,silver,ca,38.614952,-121.271667,2021-04-29 17:04:36+00:00,11,2021,4
 jonesboro,24990.0,2017,lexus,es 350 sedan 4d,good,6,gas,40338.0,clean,automatic,fwd,sedan,UNKNOWN,ar,35.82,-90.68,2021-04-10 13:04:49+00:00,9,2021,4
 phoenix,2200.0,2007,pontiac,g6,good,4,gas,162000.0,clean,automatic,fwd,UNKNOWN,UNKNOWN,az,33.437,-111.8057,2021-05-04 19:12:05+00:00,19,2021,5
-fayetteville,600.0,2013,ford,SUPER EASY FINANCE,excellent,4,diesel,111111.0,clean,automatic,fwd,SUV,grey,ar,36.17528,-94.171629,2021-04-21 20:30:33+00:00,13,2021,4
 chico,40995.0,2017,chevrolet,silverado 1500 4wd,excellent,UNKNOWN,gas,28141.0,clean,automatic,4wd,UNKNOWN,white,ca,39.748325,-122.197907,2021-05-04 17:18:18+00:00,9,2021,5
 chico,9500.0,2009,chevrolet,silverado 2500 hd extended cab,excellent,UNKNOWN,gas,218165.0,clean,automatic,UNKNOWN,pickup,white,ca,39.722504,-121.830039,2021-04-24 00:00:24+00:00,17,2021,4
 huntsville / decatur,16997.0,2003,ford,HUMMER H2,excellent,8,gas,161865.0,clean,automatic,4wd,SUV,UNKNOWN,al,35.839758,-86.387046,2021-04-24 14:45:07+00:00,23,2021,4
@@ -11118,7 +11013,6 @@ anchorage / mat-su,16999.0,2006,gmc,sierra 1500 hd crew cab,UNKNOWN,8,gas,176804
 prescott,29990.0,2017,lincoln,continental select sedan,good,6,gas,8867.0,clean,other,UNKNOWN,sedan,UNKNOWN,az,34.62,-112.42,2021-04-12 17:01:20+00:00,9,2021,4
 little rock,1500.0,2007,lincoln,town car,fair,8,gas,322429.0,clean,automatic,rwd,sedan,black,ar,35.281445,-93.12846,2021-04-28 19:24:11+00:00,19,2021,4
 chico,19995.0,2020,buick,"encore essence, awd",like new,4,gas,13500.0,clean,automatic,4wd,SUV,white,ca,39.746292,-121.891723,2021-04-28 01:43:13+00:00,6,2021,4
-prescott,671.0,2018,honda,cr v,excellent,4,gas,35131.0,clean,automatic,fwd,SUV,UNKNOWN,az,34.605818,-112.451775,2021-05-03 17:29:33+00:00,8,2021,5
 prescott,14900.0,2002,chevrolet,corvette coupe,excellent,8,gas,100000.0,clean,automatic,rwd,coupe,red,az,34.5917,-112.4265,2021-05-02 00:52:13+00:00,24,2021,5
 chico,2600.0,1998,toyota,sienna,good,6,gas,199000.0,clean,automatic,fwd,mini-van,blue,ca,39.9296,-122.196,2021-04-26 00:26:03+00:00,28,2021,4
 little rock,27798.0,2014,toyota,4runner,UNKNOWN,UNKNOWN,gas,134352.0,clean,automatic,4wd,UNKNOWN,silver,ar,38.4018,-93.785,2021-04-22 21:43:35+00:00,12,2021,4
@@ -11231,7 +11125,6 @@ tucson,9995.0,2012,dodge,charger se,excellent,6,gas,122415.0,clean,automatic,UNK
 bakersfield,10950.0,2000,ford,excursion limited,excellent,8,gas,140120.0,clean,automatic,rwd,truck,black,ca,33.794656,-117.992994,2021-04-20 04:41:51+00:00,26,2021,4
 chico,32995.0,2020,mercedes-benz,gla-class,UNKNOWN,UNKNOWN,gas,14061.0,clean,automatic,UNKNOWN,SUV,white,ca,38.611927,-121.423118,2021-04-26 18:23:50+00:00,6,2021,4
 huntsville / decatur,8477.0,2015,nissan,altima 2.5 s,excellent,4,gas,123000.0,rebuilt,automatic,UNKNOWN,sedan,black,al,34.7448,-86.6704,2021-04-17 19:05:08+00:00,11,2021,4
-fresno / madera,700.0,2007,chevrolet,uplander,fair,6,gas,200000.0,clean,automatic,fwd,mini-van,silver,ca,36.6486,-119.9987,2021-04-28 01:36:22+00:00,19,2021,4
 southeast alaska,31999.0,2012,jeep,wrangler,UNKNOWN,6,gas,62045.0,clean,manual,4wd,SUV,blue,ak,61.2116,-149.8761,2021-04-26 18:03:31+00:00,14,2021,4
 fresno / madera,16995.0,2014,toyota,tacoma,excellent,UNKNOWN,gas,119550.0,clean,automatic,UNKNOWN,pickup,white,ca,37.738239,-120.939159,2021-04-29 18:16:01+00:00,12,2021,4
 little rock,34899.0,2015,chevrolet,3500hd 4x4 duramax,UNKNOWN,UNKNOWN,diesel,173934.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,30.663,-97.9316,2021-04-19 22:29:18+00:00,11,2021,4
@@ -11259,14 +11152,11 @@ chico,9995.0,2007,gmc,yukon xl,UNKNOWN,UNKNOWN,other,75588.0,clean,automatic,4wd
 sierra vista,11990.0,2017,fiat,500,UNKNOWN,UNKNOWN,other,81611.0,clean,manual,fwd,hatchback,UNKNOWN,az,32.24951,-110.972417,2021-04-17 12:12:32+00:00,9,2021,4
 bakersfield,11500.0,2006,chevrolet,3500 duramax,UNKNOWN,UNKNOWN,diesel,194000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,37.9939,-121.8089,2021-04-24 19:52:22+00:00,20,2021,4
 tucson,29990.0,2019,ford,f150 regular cab xl pickup,good,6,other,14077.0,clean,other,UNKNOWN,pickup,white,az,32.21,-110.96,2021-05-03 22:10:57+00:00,7,2021,5
-flagstaff / sedona,587.0,2018,honda,civic,excellent,4,gas,50916.0,clean,automatic,fwd,hatchback,black,az,34.605818,-112.451775,2021-04-30 17:00:10+00:00,8,2021,4
 fresno / madera,11500.0,2011,dodge,nitro heat 4x4 suv,excellent,6,gas,150253.0,clean,automatic,4wd,SUV,red,ca,36.770328,-119.69995,2021-05-02 18:23:20+00:00,15,2021,5
 anchorage / mat-su,29999.0,2016,ford,transit xlt,excellent,6,gas,40717.0,clean,automatic,rwd,mini-van,white,ak,61.166353,-149.847206,2021-05-01 21:18:44+00:00,10,2021,5
 fresno / madera,14500.0,2018,nissan,altima sr,excellent,4,gas,60500.0,clean,automatic,fwd,sedan,grey,ca,36.7378,-119.7995,2021-04-24 08:11:30+00:00,8,2021,4
-jonesboro,900.0,1963,mercury,comet,UNKNOWN,6,gas,89000.0,clean,automatic,rwd,UNKNOWN,white,ar,35.996337,-91.578339,2021-04-16 03:17:05+00:00,63,2021,4
 little rock,19500.0,1998,ram,2500,good,8,diesel,140000.0,clean,manual,4wd,UNKNOWN,silver,ar,34.857769,-93.315141,2021-05-03 16:48:00+00:00,28,2021,5
 tucson,12995.0,2012,jeep,grand cherokee laredo,UNKNOWN,6,gas,115581.0,clean,automatic,fwd,SUV,black,az,32.267941,-110.977848,2021-04-24 18:46:03+00:00,14,2021,4
-chico,541.0,2011,ram,2500,UNKNOWN,6,diesel,62711.0,clean,automatic,4wd,truck,UNKNOWN,ca,38.01787,-121.268904,2021-04-30 14:04:50+00:00,15,2021,4
 birmingham,5480.0,2005,dodge,durango,UNKNOWN,8,gas,178667.0,clean,automatic,rwd,SUV,UNKNOWN,al,33.209789,-86.783493,2021-04-25 16:50:28+00:00,21,2021,4
 chico,16995.0,2013,infiniti,qx56,UNKNOWN,UNKNOWN,gas,154302.0,clean,automatic,4wd,wagon,white,ca,38.806983,-121.217308,2021-04-30 14:18:44+00:00,13,2021,4
 anchorage / mat-su,55995.0,2019,ford,f-150,excellent,6,gas,43881.0,clean,automatic,4wd,truck,white,ak,61.218092,-149.868987,2021-04-16 21:05:44+00:00,7,2021,4
@@ -11318,7 +11208,6 @@ bakersfield,35990.0,2020,ram,1500 quad cab laramie pickup,good,8,gas,21276.0,cle
 bakersfield,36590.0,2020,cadillac,xt4 sport suv 4d,good,UNKNOWN,gas,9350.0,clean,other,UNKNOWN,hatchback,white,ca,35.38,-119.02,2021-04-17 15:11:02+00:00,6,2021,4
 anchorage / mat-su,31995.0,2013,chevrolet,silverado,UNKNOWN,UNKNOWN,diesel,63481.0,clean,automatic,4wd,pickup,white,ak,61.16167,-149.86312,2021-05-04 18:50:37+00:00,13,2021,5
 mobile,38998.0,2017,nissan,titan xd,excellent,UNKNOWN,diesel,72000.0,clean,automatic,4wd,truck,brown,al,30.6817,-88.2945,2021-04-08 01:22:21+00:00,9,2021,4
-phoenix,641.0,2020,mercedes-benz,glc 300,excellent,4,gas,7016.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,az,33.638441,-112.266352,2021-05-03 14:51:38+00:00,6,2021,5
 birmingham,40990.0,2017,jeep,wrangler unlimited rubicon,good,UNKNOWN,other,30092.0,clean,other,4wd,other,black,al,33.52,-86.79,2021-04-09 17:00:52+00:00,9,2021,4
 tucson,8900.0,2005,ford,ranger,excellent,UNKNOWN,gas,162851.0,clean,automatic,rwd,UNKNOWN,white,az,32.252346,-110.978729,2021-05-03 19:34:03+00:00,21,2021,5
 fresno / madera,9500.0,2012,hyundai,santa fe sesuv 6a,excellent,6,gas,84815.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,ca,37.637869,-120.975297,2021-04-26 16:31:46+00:00,14,2021,4
@@ -11513,7 +11402,6 @@ anchorage / mat-su,8950.0,2011,dodge,journey,excellent,6,gas,107000.0,clean,auto
 sierra vista,9900.0,2013,volkswagen,beetle,UNKNOWN,UNKNOWN,other,36347.0,clean,automatic,fwd,hatchback,UNKNOWN,az,32.24951,-110.972417,2021-04-09 12:32:41+00:00,13,2021,4
 anchorage / mat-su,34943.0,2020,dodge,charger,UNKNOWN,6,gas,5402.0,clean,other,4wd,sedan,UNKNOWN,ak,61.572407,-149.375517,2021-04-10 16:00:53+00:00,6,2021,4
 anchorage / mat-su,29995.0,2019,ford,fusion sport awd,excellent,6,gas,17168.0,clean,automatic,4wd,sedan,white,ak,61.217822,-149.870231,2021-04-24 00:55:59+00:00,7,2021,4
-phoenix,1000.0,2019,kia,optima,excellent,4,gas,42000.0,clean,automatic,fwd,UNKNOWN,black,az,33.45151,-112.053836,2021-05-04 18:01:31+00:00,7,2021,5
 birmingham,15000.0,2009,toyota,tacoma 4x4,good,6,gas,213800.0,clean,automatic,4wd,truck,silver,al,32.8355,-86.6425,2021-05-01 17:19:00+00:00,17,2021,5
 mobile,6900.0,2009,volkswagen,beetle convertible,excellent,5,gas,89000.0,clean,automatic,fwd,convertible,silver,al,30.3949,-86.4692,2021-04-27 16:14:21+00:00,17,2021,4
 fayetteville,36949.0,2017,lincoln,navigator,UNKNOWN,UNKNOWN,gas,83988.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,ar,38.4018,-93.785,2021-04-25 21:26:28+00:00,9,2021,4
@@ -11773,10 +11661,8 @@ phoenix,2200.0,2002,ford,expedition xlt,fair,8,gas,242000.0,clean,automatic,rwd,
 flagstaff / sedona,16000.0,1940,ford,pickup,good,8,gas,999.0,clean,automatic,UNKNOWN,pickup,UNKNOWN,az,34.7256,-111.9086,2021-04-22 02:14:29+00:00,86,2021,4
 fayetteville,8900.0,2006,ford,f350 xl,UNKNOWN,UNKNOWN,gas,179000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,42.11702,-88.436954,2021-04-27 21:28:18+00:00,20,2021,4
 little rock,21831.0,2016,audi,a3 e-tron,UNKNOWN,UNKNOWN,hybrid,38561.0,clean,automatic,fwd,hatchback,black,ar,38.4018,-93.785,2021-04-19 22:01:23+00:00,10,2021,4
-gold country,918.0,2021,ram,1500 laramie,excellent,8,gas,23.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-28 21:31:54+00:00,5,2021,4
 gold country,37990.0,2016,toyota,tacoma,UNKNOWN,UNKNOWN,gas,41396.0,clean,automatic,4wd,pickup,red,ca,38.626049,-121.401344,2021-05-01 18:19:24+00:00,10,2021,5
 fresno / madera,10997.0,2005,chevrolet,tahoe lt,excellent,8,gas,134000.0,clean,automatic,UNKNOWN,SUV,grey,ca,33.811,-117.8493,2021-04-19 22:43:23+00:00,21,2021,4
-huntsville / decatur,1000.0,1973,toyota,UNKNOWN,UNKNOWN,UNKNOWN,other,999999.0,missing,other,UNKNOWN,UNKNOWN,UNKNOWN,al,35.7173,-86.9048,2021-04-29 05:10:28+00:00,53,2021,4
 anchorage / mat-su,42194.0,2020,jeep,wrangler unlimited,UNKNOWN,6,gas,21037.0,clean,manual,4wd,SUV,blue,ak,61.176984,-149.86941,2021-04-27 00:32:51+00:00,6,2021,4
 birmingham,7980.0,2013,bmw,x3,UNKNOWN,4,gas,156295.0,clean,manual,rwd,SUV,white,al,33.209789,-86.783493,2021-04-24 16:50:33+00:00,13,2021,4
 huntsville / decatur,17995.0,2017,ram,promaster 1500 cargo van,UNKNOWN,UNKNOWN,gas,147064.0,clean,automatic,UNKNOWN,UNKNOWN,white,al,34.9506,-85.2432,2021-04-29 20:01:09+00:00,9,2021,4
@@ -11836,7 +11722,6 @@ prescott,21990.0,2020,volkswagen,golf 1.4t tsi,good,UNKNOWN,gas,2515.0,clean,oth
 tucson,32974.0,2018,ram,pickup 1500,UNKNOWN,8,gas,32376.0,clean,automatic,rwd,pickup,white,az,32.271329,-110.993712,2021-04-29 15:47:56+00:00,8,2021,4
 anchorage / mat-su,16500.0,2018,chrysler,300,excellent,6,gas,38566.0,rebuilt,automatic,4wd,sedan,blue,ak,61.155145,-149.891733,2021-05-04 02:01:39+00:00,8,2021,5
 chico,1598.0,2002,toyota,4runner,good,6,gas,300000.0,clean,automatic,4wd,SUV,silver,ca,39.776165,-121.592105,2021-04-20 20:14:56+00:00,24,2021,4
-fresno / madera,1000.0,2014,chevrolet,captiva sport ltsuv,excellent,4,gas,99872.0,clean,automatic,UNKNOWN,SUV,UNKNOWN,ca,36.750095,-119.758732,2021-05-04 17:22:23+00:00,12,2021,5
 fresno / madera,5500.0,2009,pontiac,g6 gt,like new,4,gas,124000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.7991,-119.8016,2021-05-01 18:12:48+00:00,17,2021,5
 bakersfield,34799.0,2014,jeep,wrangler unlimited,UNKNOWN,6,gas,93650.0,clean,automatic,4wd,SUV,white,ca,34.070422,-117.383339,2021-05-01 18:00:56+00:00,12,2021,5
 tucson,15590.0,2013,toyota,prius v two wagon 4d,good,UNKNOWN,hybrid,91468.0,clean,other,fwd,wagon,silver,az,32.21,-110.96,2021-05-02 17:51:07+00:00,13,2021,5
@@ -12088,7 +11973,6 @@ anchorage / mat-su,12999.0,2013,nissan,rogue,UNKNOWN,4,gas,93299.0,clean,automat
 bakersfield,49997.0,2018,toyota,"sequoia sr5 trd build out*1-owner*full new build*bilstein lift*35""master craft mxt tires*new 18""black rhino wheels*chrome delete pkg*custom painted 2-tone bumpers*8-pass seating*",UNKNOWN,8,gas,58476.0,clean,automatic,4wd,SUV,white,ca,45.5472,-122.5001,2021-04-30 22:33:49+00:00,8,2021,4
 little rock,29800.0,2000,ram,2500 cummins laramie,excellent,UNKNOWN,diesel,127088.0,clean,automatic,4wd,UNKNOWN,UNKNOWN,ar,38.5128,-90.6306,2021-04-08 20:33:07+00:00,26,2021,4
 prescott,17590.0,2016,hyundai,sonata sedan 4d,good,UNKNOWN,other,13796.0,clean,other,fwd,sedan,white,az,34.62,-112.42,2021-04-11 14:51:20+00:00,10,2021,4
-bakersfield,1000.0,2016,ford,"HONDAS, NISSANS",good,3,gas,60000.0,lien,automatic,fwd,sedan,white,ca,35.372807,-118.976338,2021-04-05 23:41:12+00:00,10,2021,4
 phoenix,4000.0,2001,nissan,pathfinder,UNKNOWN,UNKNOWN,gas,163000.0,rebuilt,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.3887,-111.8428,2021-05-03 16:39:37+00:00,25,2021,5
 little rock,4250.0,2002,ford,f150,good,8,gas,184000.0,clean,automatic,rwd,pickup,white,ar,34.5616,-92.5857,2021-05-04 15:56:25+00:00,24,2021,5
 anchorage / mat-su,24995.0,2013,ford,f-250,UNKNOWN,UNKNOWN,other,101462.0,clean,automatic,4wd,pickup,red,ak,61.16167,-149.86312,2021-04-27 19:49:53+00:00,13,2021,4
@@ -12104,7 +11988,6 @@ bakersfield,30990.0,2017,toyota,tundra double cab sr,good,8,gas,41124.0,clean,ot
 tucson,23990.0,2018,chevrolet,camaro,UNKNOWN,UNKNOWN,other,35407.0,clean,automatic,rwd,coupe,UNKNOWN,az,32.24951,-110.972417,2021-05-01 15:15:26+00:00,8,2021,5
 gadsden-anniston,31590.0,2018,bmw,3 series 340i xdrive sedan,good,UNKNOWN,gas,39421.0,clean,automatic,UNKNOWN,sedan,blue,al,34.01,-86.01,2021-04-09 14:31:23+00:00,8,2021,4
 tucson,17590.0,2016,volkswagen,beetle 1.8t s,good,UNKNOWN,gas,22167.0,clean,automatic,fwd,hatchback,red,az,32.21,-110.96,2021-04-24 14:51:22+00:00,10,2021,4
-anchorage / mat-su,700.0,1998,ford,ISUZU AMIGO,good,4,gas,123.0,missing,manual,4wd,UNKNOWN,UNKNOWN,ak,61.206,-149.8101,2021-04-30 22:11:25+00:00,28,2021,4
 phoenix,18590.0,2015,honda,accord ex-l coupe 2d,good,UNKNOWN,other,46565.0,clean,other,fwd,coupe,black,az,33.44,-112.08,2021-05-03 23:11:35+00:00,11,2021,5
 bakersfield,19995.0,2004,ford,f-350,UNKNOWN,UNKNOWN,diesel,98696.0,clean,automatic,fwd,pickup,white,ca,38.22774,-122.6194,2021-04-08 21:57:06+00:00,22,2021,4
 tucson,11000.0,1966,dodge,coronet 440,excellent,8,gas,76583.0,clean,automatic,rwd,coupe,red,az,32.2691,-110.9845,2021-05-01 02:24:03+00:00,60,2021,5
@@ -12345,7 +12228,6 @@ dothan,6900.0,2009,ford,volkwagen beetle convertible,excellent,5,gas,89000.0,cle
 anchorage / mat-su,6999.0,2006,dodge,dakota,good,6,gas,167000.0,clean,manual,4wd,truck,blue,ak,61.5923,-149.3959,2021-04-28 18:51:17+00:00,20,2021,4
 kenai peninsula,36700.0,2019,chevrolet,colorado,UNKNOWN,6,gas,34571.0,clean,automatic,4wd,truck,white,ak,61.1381,-149.86727,2021-04-21 16:34:51+00:00,7,2021,4
 gold country,3500.0,1996,ford,F250,UNKNOWN,UNKNOWN,diesel,230000.0,salvage,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,38.398963,-120.526073,2021-04-09 22:41:24+00:00,30,2021,4
-chico,692.0,2021,dodge,challenger r/t,excellent,8,gas,7.0,clean,manual,UNKNOWN,coupe,UNKNOWN,ca,39.140569,-121.656918,2021-04-24 18:32:44+00:00,5,2021,4
 little rock,51792.0,2018,ram,2500,UNKNOWN,UNKNOWN,diesel,19711.0,clean,automatic,rwd,pickup,UNKNOWN,ar,38.4018,-93.785,2021-04-09 23:31:13+00:00,8,2021,4
 birmingham,22795.0,2015,mercedes-benz,c-class,UNKNOWN,4,gas,67870.0,clean,automatic,UNKNOWN,sedan,silver,al,33.669601,-86.817617,2021-04-29 15:11:45+00:00,11,2021,4
 fayetteville,13122.0,2014,chrysler,town and country,good,UNKNOWN,other,71590.0,clean,automatic,fwd,van,UNKNOWN,ar,36.093598,-94.19146,2021-04-13 20:50:46+00:00,12,2021,4
@@ -12581,7 +12463,6 @@ gadsden-anniston,6900.0,2010,chevrolet,malibu lt,excellent,6,gas,143978.0,clean,
 gold country,12995.0,2016,chevrolet,cruze limited,excellent,UNKNOWN,gas,10738.0,clean,automatic,fwd,sedan,white,ca,38.624208,-121.401038,2021-04-30 20:47:05+00:00,10,2021,4
 fresno / madera,6300.0,2009,hyundai,sonata gls 4dr sedan,excellent,4,gas,169540.0,clean,automatic,fwd,sedan,grey,ca,36.770363,-119.699886,2021-04-19 17:34:47+00:00,17,2021,4
 flagstaff / sedona,21997.0,2007,toyota,"4runner sport edition 4dr suv 1-oregon owner*rust free* new bilstein lift*new 33""yokohama geolanders*new mk6 wheels*no accidents*tyger roof basket*all records since new",UNKNOWN,6,gas,171525.0,clean,automatic,4wd,SUV,white,az,45.5472,-122.5001,2021-04-13 20:59:55+00:00,19,2021,4
-fresno / madera,1000.0,2007,toyota,corolla cesedan (1.8l,excellent,4,gas,110688.0,clean,automatic,UNKNOWN,sedan,UNKNOWN,ca,36.750095,-119.758732,2021-04-23 18:07:09+00:00,19,2021,4
 huntsville / decatur,24590.0,2019,nissan,frontier king cab s,good,UNKNOWN,gas,26351.0,clean,other,fwd,pickup,white,al,34.57,-86.98,2021-05-04 17:01:19+00:00,7,2021,5
 phoenix,33888.0,2016,ram,2500 hemi,like new,8,gas,106965.0,clean,automatic,4wd,truck,grey,az,33.690182,-112.100002,2021-05-04 18:45:37+00:00,10,2021,5
 chico,17960.0,2019,toyota,corolla l,like new,4,gas,22518.0,clean,automatic,fwd,sedan,grey,ca,39.1237,-121.6611,2021-04-24 17:00:47+00:00,7,2021,4
@@ -12674,7 +12555,6 @@ montgomery,21990.0,2019,jeep,renegade sport suv 4d,good,UNKNOWN,gas,13869.0,clea
 tuscaloosa,48000.0,2002,mercedes-benz,g500 g-wagon,excellent,8,gas,131054.0,clean,automatic,4wd,SUV,black,al,33.252451,-87.573855,2021-04-07 02:25:48+00:00,24,2021,4
 fresno / madera,8700.0,2013,ford,SCION xB Hatchback 4DR,excellent,4,gas,142482.0,clean,manual,fwd,hatchback,black,ca,36.770277,-119.699821,2021-04-20 18:46:14+00:00,13,2021,4
 phoenix,5375.0,2014,chevrolet,UNKNOWN,excellent,UNKNOWN,gas,74000.0,salvage,automatic,UNKNOWN,hatchback,blue,az,33.4001,-111.5028,2021-05-04 16:30:10+00:00,12,2021,5
-prescott,755.0,2019,honda,odyssey,excellent,6,gas,21351.0,clean,automatic,fwd,mini-van,silver,az,34.605818,-112.451775,2021-04-21 17:00:48+00:00,7,2021,4
 tucson,9995.0,2012,volkswagen,jetta 2.0l tdi,UNKNOWN,4,gas,83764.0,clean,automatic,UNKNOWN,sedan,silver,az,32.267941,-110.977848,2021-04-24 18:45:42+00:00,14,2021,4
 tucson,10900.0,2005,chevrolet,silverado 1500,excellent,8,gas,75588.0,clean,automatic,4wd,pickup,grey,az,32.252974,-110.97871,2021-04-24 19:45:43+00:00,21,2021,4
 chico,26995.0,2016,ford,f-150,UNKNOWN,6,gas,149071.0,clean,automatic,4wd,UNKNOWN,grey,ca,39.721857,-121.827227,2021-04-20 18:25:18+00:00,10,2021,4
@@ -12891,7 +12771,6 @@ chico,25896.0,2016,lexus,nx 200t,like new,4,gas,36739.0,clean,automatic,fwd,SUV,
 bakersfield,59997.0,2005,ford,excursion limited 55k miles*1-owner*diesel*rust free*collector quality*like new in&out*all original*new wheels & tires*unicorn alert,UNKNOWN,8,diesel,55469.0,clean,automatic,4wd,SUV,black,ca,45.5472,-122.5001,2021-04-09 22:05:47+00:00,21,2021,4
 bakersfield,18495.0,2008,ford,e150,excellent,UNKNOWN,gas,130945.0,clean,automatic,UNKNOWN,UNKNOWN,white,ca,35.19414,-119.174405,2021-04-23 23:47:49+00:00,18,2021,4
 fairbanks,5900.0,1995,ford,bronco,UNKNOWN,8,gas,186766.0,clean,automatic,4wd,SUV,UNKNOWN,ak,61.19,-149.8938,2021-05-02 02:05:59+00:00,31,2021,5
-gold country,776.0,2021,jeep,wrangler sahara,excellent,6,hybrid,15.0,clean,automatic,4wd,other,UNKNOWN,ca,39.140569,-121.656918,2021-04-23 18:32:28+00:00,5,2021,4
 little rock,41990.0,2019,toyota,4runner limited sport,good,6,gas,36630.0,clean,other,4wd,SUV,white,ar,34.72,-92.35,2021-04-09 09:10:24+00:00,7,2021,4
 chico,36885.0,2013,ford,f250 super duty crew cab,excellent,UNKNOWN,gas,58251.0,clean,automatic,4wd,pickup,white,ca,38.738101,-121.29033,2021-04-27 17:46:01+00:00,13,2021,4
 anchorage / mat-su,13499.0,2014,chrysler,200,UNKNOWN,6,other,49544.0,clean,automatic,fwd,sedan,black,ak,61.2116,-149.8761,2021-05-01 07:02:08+00:00,12,2021,5
@@ -12899,7 +12778,6 @@ chico,24995.0,2012,ford,f-150 supercrew xlt 4x4,UNKNOWN,UNKNOWN,gas,109870.0,cle
 yuma,12999.0,1984,ford,UNKNOWN,UNKNOWN,UNKNOWN,diesel,140000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,az,33.1192,-117.0864,2021-04-07 18:13:37+00:00,42,2021,4
 tucson,28292.0,2019,honda,cr-v,UNKNOWN,4,gas,20945.0,clean,automatic,4wd,SUV,custom,az,32.271329,-110.993712,2021-04-27 17:38:50+00:00,7,2021,4
 fresno / madera,37888.0,2004,ford,f250 super duty diesel,excellent,8,diesel,27968.0,clean,automatic,4wd,truck,black,ca,37.593126,-122.370089,2021-04-19 14:51:31+00:00,22,2021,4
-texarkana,950.0,2006,ford,freestyle,UNKNOWN,UNKNOWN,gas,144000.0,clean,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ar,33.6736,-93.6068,2021-04-21 14:46:01+00:00,20,2021,4
 huntsville / decatur,8995.0,2009,dodge,nitro slt,like new,6,gas,83000.0,clean,automatic,fwd,SUV,UNKNOWN,al,34.7389,-86.6249,2021-04-29 19:24:40+00:00,17,2021,4
 huntsville / decatur,35590.0,2020,lincoln,corsair sport utility 4d,good,UNKNOWN,gas,1454.0,clean,other,fwd,other,UNKNOWN,al,34.57,-86.98,2021-04-14 15:31:28+00:00,6,2021,4
 fresno / madera,28999.0,2014,toyota,sienna le,excellent,UNKNOWN,gas,31500.0,salvage,automatic,UNKNOWN,UNKNOWN,UNKNOWN,ca,36.7659,-119.7584,2021-04-26 15:26:18+00:00,12,2021,4
@@ -13041,7 +12919,6 @@ tucson,8995.0,2012,chevrolet,cruze ls,UNKNOWN,4,gas,74590.0,clean,automatic,fwd,
 fresno / madera,7995.0,2006,chevrolet,tahoe,excellent,8,gas,219000.0,clean,automatic,UNKNOWN,SUV,custom,ca,36.825,-119.703,2021-04-24 03:51:59+00:00,20,2021,4
 phoenix,20990.0,2015,lexus,ct 200h hatchback 4d,good,UNKNOWN,other,37503.0,clean,other,fwd,hatchback,silver,az,33.51,-112.36,2021-05-04 15:21:20+00:00,11,2021,5
 show low,2995.0,2005,lincoln,navigator,good,8,gas,191510.0,clean,automatic,4wd,SUV,silver,az,34.1175,-109.9197,2021-04-21 23:19:45+00:00,21,2021,4
-chico,919.0,2020,jeep,gladiator rubicon,excellent,6,gas,60.0,clean,automatic,4wd,truck,UNKNOWN,ca,39.140569,-121.656918,2021-04-23 15:32:46+00:00,6,2021,4
 yuma,44995.0,2017,nissan,titan xd pro-4x,UNKNOWN,8,diesel,70316.0,clean,automatic,4wd,pickup,black,az,33.396353,-111.954863,2021-05-01 20:50:32+00:00,9,2021,5
 phoenix,14499.0,2014,kia,optima lx 4dr sedan,good,4,gas,90000.0,clean,automatic,fwd,sedan,red,az,33.41561,-111.657937,2021-05-04 17:51:12+00:00,12,2021,5
 flagstaff / sedona,22284.0,2020,chevrolet,trax lt,good,UNKNOWN,gas,10.0,clean,automatic,UNKNOWN,other,white,az,35.189958,-111.666438,2021-04-15 21:10:54+00:00,6,2021,4
