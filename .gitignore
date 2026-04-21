@@ -26,6 +26,7 @@ data/raw/*.xlsx
 data/raw/*.parquet
 data/raw/*.json
 data/processed/*.csv
+!data/processed/vehicles_cleaned.csv
 data/processed/*.xlsx
 data/processed/*.parquet
 data/processed/*.json
