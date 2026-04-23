@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 
 
-RAW_DATA_PATH = Path("data/raw/vehicles.csv")
+RAW_DATA_PATH = Path("data/raw/vehicles_raw.csv")
 
 
 def load_raw_vehicles_data(path: Path = RAW_DATA_PATH) -> pd.DataFrame:
