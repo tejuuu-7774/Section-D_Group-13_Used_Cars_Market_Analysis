@@ -1,96 +1,148 @@
-# Used Cars Price Prediction Capstone
+# US Used Cars Market Analysis (Craigslist Dataset)
 
-## Project Overview
-This project analyzes a used cars dataset to understand the main factors that influence listing prices and to build predictive models for estimating used car prices from listing features.
+## Overview
 
-The dataset used in this project is `vehicles.csv`, which contains 15,000 sampled rows and 26 columns. This provides a strong foundation for dataset understanding, data cleaning, exploratory data analysis (EDA), feature preparation, model building, and evaluation.
+This project presents an interactive data visualization dashboard built using Tableau to analyze the US used car market based on Craigslist listings.
 
-## Business Problem
-Used car buyers, sellers, and dealerships need realistic pricing guidance. Listing prices are influenced by many factors such as vehicle age, mileage, manufacturer, fuel type, transmission, condition, and location. Without a data-driven approach, pricing decisions can be inconsistent and inefficient.
+The analysis is structured into three focused dashboards to provide a complete understanding of the market:
+1. Market Overview
+2. Pricing Insights
+3. Market Segmentation
 
-This project aims to build a model that can predict used car prices and identify the features that most strongly affect price.
+Each dashboard highlights different aspects of pricing, distribution, vehicle behavior, and customer preferences.
 
-## Project Goal
-The primary goal of this capstone is:
-
-**Predict used car price from listing features**
-
-A secondary goal is:
-
-**Identify the most important factors affecting used car prices**
+---
 
 ## Objectives
-- Inspect and understand the dataset structure and column meanings.
-- Identify the target variable for prediction.
-- Assess missing values, duplicate rows, incorrect data types, and outliers.
-- Clean and standardize the dataset.
-- Perform EDA to uncover price trends and patterns.
-- Build baseline machine learning models for price prediction.
-- Compare model performance using regression metrics.
-- Present business insights and recommendations.
 
-## Project Workflow
-1. Define the problem and success criteria.
-2. Understand the dataset and data quality issues.
-3. Clean and preprocess the data.
-4. Perform exploratory data analysis.
-5. Engineer features for modeling.
-6. Train baseline and tree-based regression models.
-7. Evaluate models using MAE, RMSE, and R-squared.
-8. Summarize findings and recommendations.
+- Understand overall market trends and distribution
+- Analyze pricing behavior and influencing factors
+- Identify customer preferences and listing patterns
+- Provide interactive filtering for deeper exploration
 
-## Suggested Research Questions
-- How does mileage affect used car price?
-- How does model year affect price?
-- Which manufacturers or vehicle categories command higher prices?
-- How do condition, fuel type, and transmission influence price?
-- Which features are most useful for predicting price?
+---
 
-## Models To Start With
-- Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
-- XGBoost Regressor (if allowed)
+## Dataset
 
-## Evaluation Metrics
-- MAE
-- RMSE
-- R-squared
+- Cleaned rows and columns - (27987, 23) out of sampled dataset (50k rows , 26 columns)
+- Source: Craigslist US Used Cars Dataset (2021)
+- Fields used include:
+  - Price
+  - Odometer (Mileage)
+  - Year
+  - State / State Full Name
+  - Vehicle Type
+  - Manufacturer
+  - Fuel Type
+  - Transmission
+  - Condition
+  - Cylinders
 
-## Project Structure
-```text
-Section-D_Group-13_Used_Cars_Market_Analysis/
-├── DVA-focused-Portfolio/
-├── DVA-oriented-Resume/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── docs/
-├── notebooks/
-├── reports/
-├── scripts/
-├── tableau/
-│   └── screenshots/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+---
 
-## Roles / Work Buckets
-Even for a solo capstone, these can be used as responsibility areas:
+## Dashboard 1: Market Overview
 
-- Project Lead: defines scope, timeline, and final deliverables.
-- Data Analyst: performs EDA and visual storytelling.
-- Data Engineer: handles cleaning, null values, and preprocessing.
-- ML Engineer: builds and evaluates predictive models.
-- Documentation / Presentation Lead: prepares the README, report, and presentation.
+### Purpose
+Provides a high-level summary of the used car market across the US.
 
-## Deliverables
-- Cleaned dataset or documented cleaning workflow
-- EDA notebook with visual insights
-- Baseline regression models
-- Final comparison of model results
-- Capstone report / presentation
+### KPIs
+- Total Listings → COUNT(Id)
+- Average Price → AVG(Price)
+- Median Price → MEDIAN(Price)
+- Average Car Age → AVG(Car Age)
+- Common Manufacturer → MODE/Top Manufacturer
 
-## Dataset Note
-The raw dataset is stored locally in `data/raw/vehicles.csv`. Because of its size, it should remain out of version control and be referenced in project documentation instead of being uploaded to GitHub directly.
+### Charts Used
+- Listings by State → Horizontal Bar Chart
+- Price Trend by Manufacturing Year → Line Chart
+- State vs Vehicle Type → Heatmap
+- Price vs State vs Type → Grouped Bar Chart
+- Price Distribution → Histogram
+- Price Category Distribution → Donut Chart
+
+### Key Insight
+The market is concentrated in a few key states, with clear pricing trends based on vehicle age and category.
+
+---
+
+## Dashboard 2: Pricing Insights
+
+### Purpose
+Analyzes how different factors influence vehicle pricing.
+
+### KPIs
+- Average Mileage → AVG(Odometer)
+- Max Price Type → Vehicle Type with highest AVG(Price)
+- Min Price Type → Vehicle Type with lowest AVG(Price)
+- Top Fuel → Fuel Type with highest COUNT(Id)
+
+### Charts Used
+- Fuel vs Price Category Distribution → 100% Stacked Bar Chart
+- Price Category Trend Over Time → Area Chart
+- Price by Vehicle Condition → Bar Chart
+- Price Decline with Mileage → Line Chart (Binned Odometer)
+- Price by Engine Power (Cylinders) → Bar Chart
+
+### Key Insight
+Vehicle price decreases consistently with mileage, while condition, fuel type, and engine power significantly impact pricing.
+
+---
+
+## Dashboard 3: Market Segmentation
+
+### Purpose
+Explores customer preferences and listing behavior across regions.
+
+### KPIs
+- Dominant Type → Vehicle Type with highest COUNT(Id)
+- Leading State → State with highest listings
+- Condition Leader → Most common condition
+- Fuel Leader → Most common fuel type
+
+### Charts Used
+- Listings by State → Filled Map
+- Condition Mix → Bar Chart
+- Transmission Preference → Pie Chart
+- Top Brands → Horizontal Bar Chart (Top Manufacturers)
+
+### Key Insight
+Market demand is driven by a few dominant vehicle types, brands, and regions, with strong user preference for automatic transmission and well-maintained vehicles.
+
+---
+
+## Filters
+
+The dashboards include interactive filters for deeper analysis:
+
+- State
+- Vehicle Type
+- Price Category
+- Year (Range Slider)
+- Fuel Type (optional)
+
+All filters are applied globally across relevant sheets.
+
+---
+
+## Design Approach
+
+- Consistent color theme (purple gradient) for visual harmony
+- Minimal and clean layout to improve readability
+- Avoided redundant charts across dashboards
+- Used varied chart types to improve storytelling
+- Focused on insight-driven visuals rather than decorative elements
+
+---
+
+## Tools Used
+
+- Tableau Public (Visualization)
+- CSV Dataset (Data Source)
+
+---
+
+## Conclusion
+
+This project demonstrates how structured dashboards can transform raw data into meaningful insights. By dividing the analysis into overview, pricing behavior, and segmentation, the dashboards provide a clear and logical understanding of the used car market.
+
+---
